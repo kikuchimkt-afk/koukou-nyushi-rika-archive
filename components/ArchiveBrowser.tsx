@@ -1,6 +1,6 @@
 "use client";
 
-import JSZip from "jszip";
+import { PDFDocument } from "pdf-lib";
 import { useEffect, useMemo, useState } from "react";
 import type { ArchiveData, ArchiveItem, ScienceField } from "@/types/archive";
 import { FIELDS } from "@/types/archive";
@@ -181,17 +181,18 @@ export function ArchiveBrowser({ data }: Props) {
     let loadedBytes = 0;
 
     try {
-      const zip = new JSZip();
-      const folder = zip.folder("高校入試_中1理科_選定問題");
-      if (!folder) throw new Error("ZIPフォルダを作成できませんでした。");
+      const mergedPdf = await PDFDocument.create();
+      mergedPdf.setTitle(`高校入試 中1理科 選定問題 ${snapshot.length}題`);
+      mergedPdf.setSubject(snapshot.map((item) => `${item.year}年 ${item.prefecture} ${item.shortUnit}`).join(" / "));
 
       for (let itemIndex = 0; itemIndex < snapshot.length; itemIndex += 1) {
         const item = snapshot[itemIndex];
-        const parts: ArrayBuffer[] = [];
+        const pdfBytes = new Uint8Array(item.fileSize);
+        let itemOffset = 0;
         const chunkCount = Math.ceil(item.fileSize / PDF_CHUNK_SIZE);
         setBundleState({
           status: "fetching",
-          progress: Math.round((loadedBytes / totalBytes) * 88),
+          progress: Math.round((loadedBytes / totalBytes) * 80),
           message: `${itemIndex + 1}/${snapshot.length}題目「${item.shortUnit}」を取得中`,
         });
 
@@ -199,42 +200,48 @@ export function ArchiveBrowser({ data }: Props) {
           const response = await fetch(`/api/pdf/${encodeURIComponent(item.id)}?chunk=${chunk}`);
           if (!response.ok) throw new Error(`${item.prefecture}「${item.shortUnit}」の取得に失敗しました。`);
           const part = await response.arrayBuffer();
-          parts.push(part);
+          pdfBytes.set(new Uint8Array(part), itemOffset);
+          itemOffset += part.byteLength;
           loadedBytes += part.byteLength;
           setBundleState({
             status: "fetching",
-            progress: Math.min(88, Math.round((loadedBytes / totalBytes) * 88)),
+            progress: Math.min(80, Math.round((loadedBytes / totalBytes) * 80)),
             message: `${itemIndex + 1}/${snapshot.length}題目「${item.shortUnit}」を取得中`,
           });
         }
 
-        folder.file(item.pdfFileName, new Blob(parts, { type: "application/pdf" }));
+        if (itemOffset !== item.fileSize) throw new Error(`${item.prefecture}「${item.shortUnit}」のPDFが不完全です。`);
+        setBundleState({
+          status: "packing",
+          progress: 80 + Math.round(((itemIndex + 1) / snapshot.length) * 15),
+          message: `${itemIndex + 1}/${snapshot.length}題目を結合中`,
+        });
+        const sourcePdf = await PDFDocument.load(pdfBytes);
+        const copiedPages = await mergedPdf.copyPages(sourcePdf, sourcePdf.getPageIndices());
+        copiedPages.forEach((page) => mergedPdf.addPage(page));
       }
 
-      const list = snapshot.map((item, index) =>
-        `${index + 1}. ${item.year}年実施 ${item.prefecture}｜${item.field}｜${item.unit}`,
-      ).join("\r\n");
-      zip.file("選定一覧.txt", `\uFEFF高校入試 中1理科 選定問題\r\n\r\n${list}\r\n`);
-      setBundleState({ status: "packing", progress: 90, message: "ZIPファイルを作成中" });
-
-      const zipBlob = await zip.generateAsync(
-        { type: "blob", compression: "STORE" },
-        ({ percent }) => setBundleState({ status: "packing", progress: 90 + Math.round(percent / 10), message: "ZIPファイルを作成中" }),
-      );
-      const url = URL.createObjectURL(zipBlob);
+      setBundleState({ status: "packing", progress: 96, message: "1つのPDFとして保存準備中" });
+      const mergedBytes = await mergedPdf.save({ useObjectStreams: true });
+      const mergedBuffer = mergedBytes.buffer.slice(
+        mergedBytes.byteOffset,
+        mergedBytes.byteOffset + mergedBytes.byteLength,
+      ) as ArrayBuffer;
+      const mergedBlob = new Blob([mergedBuffer], { type: "application/pdf" });
+      const url = URL.createObjectURL(mergedBlob);
       const anchor = document.createElement("a");
       anchor.href = url;
-      anchor.download = `中1理科_選定問題_${dateStamp()}_${snapshot.length}題.zip`;
+      anchor.download = `中1理科_選定問題_${dateStamp()}_${snapshot.length}題_結合版.pdf`;
       document.body.appendChild(anchor);
       anchor.click();
       anchor.remove();
       window.setTimeout(() => URL.revokeObjectURL(url), 60_000);
-      setBundleState({ status: "done", progress: 100, message: `${snapshot.length}題のZIPを保存しました` });
+      setBundleState({ status: "done", progress: 100, message: `${snapshot.length}題を1つのPDFに結合して保存しました` });
     } catch (error) {
       setBundleState({
         status: "error",
         progress: 0,
-        message: error instanceof Error ? error.message : "一括ダウンロードに失敗しました。",
+        message: error instanceof Error ? error.message : "PDFの結合に失敗しました。",
       });
     }
   };
@@ -333,7 +340,7 @@ export function ArchiveBrowser({ data }: Props) {
             <p className="eyebrow">QUESTION SELECTOR</p>
             <h2 id="questions-title">大問を選定する</h2>
           </div>
-          <p>候補には付箋を付けて保存できます。複数の問題を連続確認し、PDFをZIPでまとめて取得できます。</p>
+          <p>候補には付箋を付けて保存できます。複数の問題を連続確認し、1つのPDFに結合して取得できます。</p>
         </div>
 
         <div className="filter-panel">
@@ -407,7 +414,7 @@ export function ArchiveBrowser({ data }: Props) {
           <ol>
             <li><b>01</b><span><strong>絞り込む</strong>分野・年度・県・単元で候補を絞ります。</span></li>
             <li><b>02</b><span><strong>付箋に集める</strong>候補を残し、複数の問題を連続して見比べます。</span></li>
-            <li><b>03</b><span><strong>まとめて利用</strong>採用する高解像度PDFをZIPで一括取得します。</span></li>
+            <li><b>03</b><span><strong>1ファイルで利用</strong>採用する高解像度PDFを付箋順に結合して取得します。</span></li>
           </ol>
         </div>
       </section>
@@ -536,7 +543,7 @@ function StickyTray({ items, totalPages, totalBytes, expanded, bundleState, bund
         <div className="sticky-tray-actions">
           <button className="button button-secondary" type="button" onClick={onPreview}>まとめて確認</button>
           <button className="button button-primary" type="button" onClick={onDownload} disabled={bundleBusy || Boolean(bundleLimitMessage)} title={bundleLimitMessage || undefined}>
-            {bundleBusy ? `${bundleState.progress}%` : "PDFをまとめてDL"}
+            {bundleBusy ? `${bundleState.progress}%` : "1つのPDFに結合"}
           </button>
           <button className="tray-clear-button" type="button" onClick={onClear} disabled={bundleBusy}>すべて外す</button>
         </div>
@@ -597,7 +604,7 @@ function CollectionDialog({ items, totalPages, bundleState, bundleBusy, bundleLi
           </div>
           <div className="dialog-header-actions">
             <button className="button button-primary collection-download-button" type="button" onClick={onDownload} disabled={bundleBusy || Boolean(bundleLimitMessage)} title={bundleLimitMessage || undefined}>
-              {bundleBusy ? `${bundleState.progress}% 作成中` : "PDFをまとめてDL"}
+              {bundleBusy ? `${bundleState.progress}% 作成中` : "1つのPDFに結合"}
             </button>
             <button className="close-button" type="button" onClick={onClose} aria-label="まとめて確認を閉じる">×</button>
           </div>

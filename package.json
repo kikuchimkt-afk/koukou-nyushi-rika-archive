@@ -7,11 +7,12 @@
     "build": "next build",
     "start": "next start --hostname 127.0.0.1 --port 3170",
     "build-content": "node scripts/build-content.mjs",
-    "check-content": "node scripts/check-content.mjs"
+    "check-content": "node scripts/check-content.mjs",
+    "check-merge": "node scripts/check-pdf-merge.mjs"
   },
   "dependencies": {
-    "jszip": "^3.10.1",
     "next": "^16.3.2",
+    "pdf-lib": "^1.17.1",
     "react": "^19.2.8",
     "react-dom": "^19.2.8"
   },
