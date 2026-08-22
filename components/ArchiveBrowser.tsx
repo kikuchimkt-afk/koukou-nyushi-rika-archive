@@ -251,11 +251,11 @@ export function ArchiveBrowser({ data }: Props) {
   return (
     <main className={stickyItems.length ? "has-sticky-tray" : ""}>
       <header className="site-header">
-        <a className="brand" href="#top" aria-label="理科単元別アーカイブ トップへ">
+        <a className="brand" href="#top" aria-label="SCIENTIA トップへ">
           <span className="brand-mark" aria-hidden="true">⌁</span>
           <span>
-            <strong>理科単元別アーカイブ</strong>
-            <small>高校入試 大問セレクション</small>
+            <strong>SCIENTIA</strong>
+            <small>高校入試 理科大問アーカイブ</small>
           </span>
         </a>
         <a className="header-link" href="#questions">問題を探す</a>
@@ -267,7 +267,7 @@ export function ArchiveBrowser({ data }: Props) {
         <div className="hero-content shell">
           <p className="eyebrow">SCIENCE ENTRANCE EXAM ARCHIVE</p>
           <div className="hero-grade"><span>中1</span> 物理・化学・地学・生物</div>
-          <h1>問題を見比べて、<br />授業に合う一題を選ぶ。</h1>
+          <h1 className="app-title">SCIENTIA<span>スキエンティア</span></h1>
           <p className="hero-copy">
             高校入試の理科大問を、単元別に整理しました。PDFを開く前に全ページを画像で確認でき、問題選定を短時間で進められます。
           </p>
@@ -421,7 +421,7 @@ export function ArchiveBrowser({ data }: Props) {
 
       <footer className="site-footer">
         <div className="shell">
-          <div><strong>高校入試 理科単元別アーカイブ</strong><p>授業設計のための、問題選定を支えるデータベース。</p></div>
+          <div><strong>SCIENTIA <small>スキエンティア</small></strong><p>高校入試理科を単元別に収めた、講師向けアーカイブ。</p></div>
           <p>資料の利用にあたっては、各資料の権利条件をご確認ください。</p>
         </div>
       </footer>

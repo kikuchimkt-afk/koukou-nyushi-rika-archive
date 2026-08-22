@@ -86,6 +86,8 @@ img { display: block; max-width: 100%; }
 .hero-grade { align-self: flex-start; margin: 22px 0 18px; padding: 6px 12px 6px 7px; border: 1px solid var(--line-strong); border-radius: 999px; color: var(--ink-soft); font-size: 0.82rem; background: rgba(8,16,31,0.55); backdrop-filter: blur(8px); }
 .hero-grade span { margin-right: 8px; padding: 4px 9px; border-radius: 999px; color: #07101c; font-weight: 800; background: var(--blue-light); }
 .hero h1 { max-width: 930px; margin: 0; font-family: "Yu Mincho", "Hiragino Mincho ProN", serif; font-size: clamp(3rem, 5vw, 4.3rem); line-height: 1.24; letter-spacing: 0.02em; text-shadow: 0 8px 30px rgba(0,0,0,0.3); }
+.hero h1.app-title { display: grid; max-width: none; font-family: Georgia, "Times New Roman", serif; font-size: clamp(4.2rem, 9vw, 7.4rem); font-weight: 500; line-height: 0.92; letter-spacing: 0.08em; }
+.app-title span { margin-top: 20px; padding-left: 0.45em; color: var(--ink-soft); font-family: "Yu Mincho", "Hiragino Mincho ProN", serif; font-size: clamp(0.82rem, 1.3vw, 1.05rem); font-weight: 500; letter-spacing: 0.45em; }
 .hero-copy { max-width: 630px; margin: 26px 0 0; color: #bdc9da; font-size: 1.06rem; line-height: 2; }
 .hero-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 34px; }
 .button { display: inline-flex; min-height: 44px; align-items: center; justify-content: center; padding: 10px 19px; border: 1px solid transparent; border-radius: 999px; cursor: pointer; font-size: 0.86rem; font-weight: 700; transition: transform 0.2s ease, border-color 0.2s ease, background 0.2s ease; }
@@ -178,6 +180,7 @@ img { display: block; max-width: 100%; }
 .site-footer { border-top: 1px solid var(--line); background: rgba(3,7,13,0.55); }
 .site-footer .shell { display: flex; min-height: 180px; align-items: center; justify-content: space-between; gap: 30px; }
 .site-footer strong { font-family: "Yu Mincho", "Hiragino Mincho ProN", serif; font-size: 1.15rem; }
+.site-footer strong small { margin-left: 7px; color: var(--ink-dim); font-size: 0.62rem; font-weight: 500; }
 .site-footer p { margin: 5px 0 0; color: var(--ink-dim); font-size: 0.74rem; }
 
 .dialog-backdrop { position: fixed; inset: 0; z-index: 100; display: grid; place-items: center; padding: 20px; background: rgba(1,4,9,0.88); backdrop-filter: blur(12px); }
@@ -301,6 +304,8 @@ img { display: block; max-width: 100%; }
   .hero-overlay { background: linear-gradient(90deg, rgba(4,9,18,0.97), rgba(5,11,22,0.76) 68%, rgba(5,11,22,0.35)), linear-gradient(0deg, var(--navy-950), transparent 28%); }
   .hero-content { justify-content: end; padding-top: 90px; padding-bottom: 44px; }
   .hero h1 { font-size: clamp(2.55rem, 12vw, 4rem); }
+  .hero h1.app-title { font-size: clamp(3.5rem, 18vw, 5.5rem); letter-spacing: 0.045em; }
+  .app-title span { margin-top: 15px; padding-left: 0.3em; font-size: 0.75rem; letter-spacing: 0.32em; }
   .hero-copy { font-size: 0.9rem; line-height: 1.85; }
   .hero-stats { margin-top: 34px; }
   .hero-stats dt { font-size: 1.35rem; }
