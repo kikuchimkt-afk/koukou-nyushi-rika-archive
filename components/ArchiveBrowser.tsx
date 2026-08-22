@@ -239,7 +239,7 @@ export function ArchiveBrowser({ data }: Props) {
                   </div>
                   <div className="card-actions">
                     <button className="button button-primary" type="button" onClick={() => openPreview(item)}>画像で確認</button>
-                    <a className="text-link" href={item.pdfUrl} target="_blank" rel="noreferrer">PDFを開く ↗</a>
+                    <a className="text-link" href={item.pdfUrl}>PDFを取得 ↓</a>
                   </div>
                 </div>
               </article>
@@ -296,7 +296,7 @@ function PreviewDialog({ item, page, onPageChange, onClose }: { item: ArchiveIte
             <h2>{item.shortUnit}</h2>
           </div>
           <div className="dialog-header-actions">
-            <a className="button button-secondary" href={item.pdfUrl} target="_blank" rel="noreferrer">高解像度PDF ↗</a>
+            <a className="button button-secondary" href={item.pdfUrl}>高解像度PDFを取得 ↓</a>
             <button className="close-button" type="button" onClick={onClose} aria-label="プレビューを閉じる">×</button>
           </div>
         </header>
