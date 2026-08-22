@@ -1,5 +1,6 @@
 "use client";
 
+import JSZip from "jszip";
 import { useEffect, useMemo, useState } from "react";
 import type { ArchiveData, ArchiveItem, ScienceField } from "@/types/archive";
 import { FIELDS } from "@/types/archive";
@@ -13,7 +14,18 @@ type Filters = {
   prefecture: string;
 };
 
+type BundleState = {
+  status: "idle" | "fetching" | "packing" | "done" | "error";
+  progress: number;
+  message: string;
+};
+
 const EMPTY_FILTERS: Filters = { q: "", field: "", year: "", prefecture: "" };
+const EMPTY_BUNDLE_STATE: BundleState = { status: "idle", progress: 0, message: "" };
+const STICKY_STORAGE_KEY = "science-archive-sticky-v1";
+const PDF_CHUNK_SIZE = 3 * 1024 * 1024;
+const MAX_BUNDLE_ITEMS = 10;
+const MAX_BUNDLE_BYTES = 120 * 1024 * 1024;
 
 const FIELD_META: Record<ScienceField, { image: string; eyebrow: string; description: string }> = {
   物理: {
@@ -44,6 +56,24 @@ export function ArchiveBrowser({ data }: Props) {
   const [filters, setFilters] = useState<Filters>(EMPTY_FILTERS);
   const [selected, setSelected] = useState<ArchiveItem | null>(null);
   const [selectedPage, setSelectedPage] = useState(0);
+  const [stickyIds, setStickyIds] = useState<string[]>([]);
+  const [stickyReady, setStickyReady] = useState(false);
+  const [trayExpanded, setTrayExpanded] = useState(false);
+  const [collectionOpen, setCollectionOpen] = useState(false);
+  const [bundleState, setBundleState] = useState<BundleState>(EMPTY_BUNDLE_STATE);
+
+  const itemById = useMemo(() => new Map(data.items.map((item) => [item.id, item])), [data.items]);
+  const stickyItems = useMemo(
+    () => stickyIds.map((id) => itemById.get(id)).filter((item): item is ArchiveItem => Boolean(item)),
+    [itemById, stickyIds],
+  );
+  const stickyPages = useMemo(() => stickyItems.reduce((sum, item) => sum + item.pageCount, 0), [stickyItems]);
+  const stickyBytes = useMemo(() => stickyItems.reduce((sum, item) => sum + item.fileSize, 0), [stickyItems]);
+  const bundleLimitMessage = useMemo(() => {
+    if (stickyItems.length > MAX_BUNDLE_ITEMS) return `一括DLは${MAX_BUNDLE_ITEMS}題までです。付箋を絞ってください。`;
+    if (stickyBytes > MAX_BUNDLE_BYTES) return `一括DLは合計${formatFileSize(MAX_BUNDLE_BYTES)}までです。付箋を絞ってください。`;
+    return "";
+  }, [stickyBytes, stickyItems.length]);
 
   const years = useMemo(
     () => [...new Set(data.items.map((item) => item.year))].sort((a, b) => b - a),
@@ -80,11 +110,33 @@ export function ArchiveBrowser({ data }: Props) {
   }, [data.items, filters]);
 
   useEffect(() => {
-    if (!selected) return;
+    try {
+      const stored = JSON.parse(window.localStorage.getItem(STICKY_STORAGE_KEY) || "[]") as unknown;
+      if (Array.isArray(stored)) {
+        setStickyIds(stored.filter((id): id is string => typeof id === "string" && itemById.has(id)));
+      }
+    } catch {
+      setStickyIds([]);
+    } finally {
+      setStickyReady(true);
+    }
+  }, [itemById]);
+
+  useEffect(() => {
+    if (!stickyReady) return;
+    window.localStorage.setItem(STICKY_STORAGE_KEY, JSON.stringify(stickyIds));
+  }, [stickyIds, stickyReady]);
+
+  useEffect(() => {
+    if (!selected && !collectionOpen) return;
     const previousOverflow = document.body.style.overflow;
     document.body.style.overflow = "hidden";
     const onKeyDown = (event: KeyboardEvent) => {
-      if (event.key === "Escape") setSelected(null);
+      if (event.key === "Escape") {
+        if (collectionOpen) setCollectionOpen(false);
+        else setSelected(null);
+      }
+      if (!selected || collectionOpen) return;
       if (event.key === "ArrowRight") setSelectedPage((page) => Math.min(selected.previewPages.length - 1, page + 1));
       if (event.key === "ArrowLeft") setSelectedPage((page) => Math.max(0, page - 1));
     };
@@ -93,7 +145,11 @@ export function ArchiveBrowser({ data }: Props) {
       document.body.style.overflow = previousOverflow;
       window.removeEventListener("keydown", onKeyDown);
     };
-  }, [selected]);
+  }, [collectionOpen, selected]);
+
+  useEffect(() => {
+    if (collectionOpen && stickyItems.length === 0) setCollectionOpen(false);
+  }, [collectionOpen, stickyItems.length]);
 
   const setFilter = (key: keyof Filters, value: string) => setFilters((current) => ({ ...current, [key]: value }));
 
@@ -107,8 +163,86 @@ export function ArchiveBrowser({ data }: Props) {
     window.setTimeout(() => document.getElementById("questions")?.scrollIntoView({ behavior: "smooth", block: "start" }), 0);
   };
 
+  const toggleSticky = (id: string) => {
+    setStickyIds((current) => current.includes(id) ? current.filter((candidate) => candidate !== id) : [...current, id]);
+    setBundleState(EMPTY_BUNDLE_STATE);
+  };
+
+  const clearSticky = () => {
+    setStickyIds([]);
+    setBundleState(EMPTY_BUNDLE_STATE);
+  };
+
+  const downloadBundle = async () => {
+    if (!stickyItems.length || bundleLimitMessage || bundleState.status === "fetching" || bundleState.status === "packing") return;
+
+    const snapshot = [...stickyItems];
+    const totalBytes = snapshot.reduce((sum, item) => sum + item.fileSize, 0);
+    let loadedBytes = 0;
+
+    try {
+      const zip = new JSZip();
+      const folder = zip.folder("高校入試_中1理科_選定問題");
+      if (!folder) throw new Error("ZIPフォルダを作成できませんでした。");
+
+      for (let itemIndex = 0; itemIndex < snapshot.length; itemIndex += 1) {
+        const item = snapshot[itemIndex];
+        const parts: ArrayBuffer[] = [];
+        const chunkCount = Math.ceil(item.fileSize / PDF_CHUNK_SIZE);
+        setBundleState({
+          status: "fetching",
+          progress: Math.round((loadedBytes / totalBytes) * 88),
+          message: `${itemIndex + 1}/${snapshot.length}題目「${item.shortUnit}」を取得中`,
+        });
+
+        for (let chunk = 0; chunk < chunkCount; chunk += 1) {
+          const response = await fetch(`/api/pdf/${encodeURIComponent(item.id)}?chunk=${chunk}`);
+          if (!response.ok) throw new Error(`${item.prefecture}「${item.shortUnit}」の取得に失敗しました。`);
+          const part = await response.arrayBuffer();
+          parts.push(part);
+          loadedBytes += part.byteLength;
+          setBundleState({
+            status: "fetching",
+            progress: Math.min(88, Math.round((loadedBytes / totalBytes) * 88)),
+            message: `${itemIndex + 1}/${snapshot.length}題目「${item.shortUnit}」を取得中`,
+          });
+        }
+
+        folder.file(item.pdfFileName, new Blob(parts, { type: "application/pdf" }));
+      }
+
+      const list = snapshot.map((item, index) =>
+        `${index + 1}. ${item.year}年実施 ${item.prefecture}｜${item.field}｜${item.unit}`,
+      ).join("\r\n");
+      zip.file("選定一覧.txt", `\uFEFF高校入試 中1理科 選定問題\r\n\r\n${list}\r\n`);
+      setBundleState({ status: "packing", progress: 90, message: "ZIPファイルを作成中" });
+
+      const zipBlob = await zip.generateAsync(
+        { type: "blob", compression: "STORE" },
+        ({ percent }) => setBundleState({ status: "packing", progress: 90 + Math.round(percent / 10), message: "ZIPファイルを作成中" }),
+      );
+      const url = URL.createObjectURL(zipBlob);
+      const anchor = document.createElement("a");
+      anchor.href = url;
+      anchor.download = `中1理科_選定問題_${dateStamp()}_${snapshot.length}題.zip`;
+      document.body.appendChild(anchor);
+      anchor.click();
+      anchor.remove();
+      window.setTimeout(() => URL.revokeObjectURL(url), 60_000);
+      setBundleState({ status: "done", progress: 100, message: `${snapshot.length}題のZIPを保存しました` });
+    } catch (error) {
+      setBundleState({
+        status: "error",
+        progress: 0,
+        message: error instanceof Error ? error.message : "一括ダウンロードに失敗しました。",
+      });
+    }
+  };
+
+  const bundleBusy = bundleState.status === "fetching" || bundleState.status === "packing";
+
   return (
-    <main>
+    <main className={stickyItems.length ? "has-sticky-tray" : ""}>
       <header className="site-header">
         <a className="brand" href="#top" aria-label="理科単元別アーカイブ トップへ">
           <span className="brand-mark" aria-hidden="true">⌁</span>
@@ -199,7 +333,7 @@ export function ArchiveBrowser({ data }: Props) {
             <p className="eyebrow">QUESTION SELECTOR</p>
             <h2 id="questions-title">大問を選定する</h2>
           </div>
-          <p>カードで問題1ページ目を比較し、「画像で確認」から全ページを送って内容を確認できます。</p>
+          <p>候補には付箋を付けて保存できます。複数の問題を連続確認し、PDFをZIPでまとめて取得できます。</p>
         </div>
 
         <div className="filter-panel">
@@ -220,30 +354,41 @@ export function ArchiveBrowser({ data }: Props) {
 
         {filtered.length ? (
           <div className="question-grid">
-            {filtered.map((item) => (
-              <article className="question-card" key={item.id}>
-                <button className="question-thumb" type="button" onClick={() => openPreview(item)} aria-label={`${item.year}年 ${item.prefecture} ${item.unit}を画像で確認`}>
-                  <img src={item.previewPages[0]} alt={`${item.year}年 ${item.prefecture} ${item.shortUnit} 問題1ページ目`} loading="lazy" />
-                  <span className="thumb-shade" />
-                  <span className="preview-pill">全{item.pageCount}ページを確認</span>
-                </button>
-                <div className="question-body">
-                  <div className="badges">
-                    <span className={`field-badge field-${fieldClass(item.field)}`}>{item.field}</span>
-                    <span>中{item.grade}</span><span>{item.year}年</span><span>{item.prefecture}</span>
+            {filtered.map((item) => {
+              const marked = stickyIds.includes(item.id);
+              return (
+                <article className={`question-card ${marked ? "is-marked" : ""}`} key={item.id}>
+                  <button
+                    className={`sticky-button card-sticky-button ${marked ? "is-active" : ""}`}
+                    type="button"
+                    aria-pressed={marked}
+                    onClick={() => toggleSticky(item.id)}
+                  >
+                    <span aria-hidden="true">{marked ? "✓" : "+"}</span> {marked ? "付箋済み" : "付箋"}
+                  </button>
+                  <button className="question-thumb" type="button" onClick={() => openPreview(item)} aria-label={`${item.year}年 ${item.prefecture} ${item.unit}を画像で確認`}>
+                    <img src={item.previewPages[0]} alt={`${item.year}年 ${item.prefecture} ${item.shortUnit} 問題1ページ目`} loading="lazy" />
+                    <span className="thumb-shade" />
+                    <span className="preview-pill">全{item.pageCount}ページを確認</span>
+                  </button>
+                  <div className="question-body">
+                    <div className="badges">
+                      <span className={`field-badge field-${fieldClass(item.field)}`}>{item.field}</span>
+                      <span>中{item.grade}</span><span>{item.year}年</span><span>{item.prefecture}</span>
+                    </div>
+                    <h3>{item.shortUnit}</h3>
+                    <div className="tag-list">
+                      {item.tags.slice(0, 6).map((tag) => <span key={tag}>{tag}</span>)}
+                      {item.tags.length > 6 && <span>ほか{item.tags.length - 6}</span>}
+                    </div>
+                    <div className="card-actions">
+                      <button className="button button-primary" type="button" onClick={() => openPreview(item)}>画像で確認</button>
+                      <a className="text-link" href={item.pdfUrl}>PDFを取得 ↓</a>
+                    </div>
                   </div>
-                  <h3>{item.shortUnit}</h3>
-                  <div className="tag-list">
-                    {item.tags.slice(0, 6).map((tag) => <span key={tag}>{tag}</span>)}
-                    {item.tags.length > 6 && <span>ほか{item.tags.length - 6}</span>}
-                  </div>
-                  <div className="card-actions">
-                    <button className="button button-primary" type="button" onClick={() => openPreview(item)}>画像で確認</button>
-                    <a className="text-link" href={item.pdfUrl}>PDFを取得 ↓</a>
-                  </div>
-                </div>
-              </article>
-            ))}
+                </article>
+              );
+            })}
           </div>
         ) : (
           <div className="empty-state">
@@ -261,8 +406,8 @@ export function ArchiveBrowser({ data }: Props) {
           <h2>PDFを開く前に、授業で使えるか判断。</h2>
           <ol>
             <li><b>01</b><span><strong>絞り込む</strong>分野・年度・県・単元で候補を絞ります。</span></li>
-            <li><b>02</b><span><strong>画像で確認</strong>問題から解説まで、全ページを軽く送って確認します。</span></li>
-            <li><b>03</b><span><strong>PDFを利用</strong>採用する問題だけ、高解像度PDFを開きます。</span></li>
+            <li><b>02</b><span><strong>付箋に集める</strong>候補を残し、複数の問題を連続して見比べます。</span></li>
+            <li><b>03</b><span><strong>まとめて利用</strong>採用する高解像度PDFをZIPで一括取得します。</span></li>
           </ol>
         </div>
       </section>
@@ -278,15 +423,54 @@ export function ArchiveBrowser({ data }: Props) {
         <PreviewDialog
           item={selected}
           page={selectedPage}
+          marked={stickyIds.includes(selected.id)}
+          onToggleSticky={() => toggleSticky(selected.id)}
           onPageChange={setSelectedPage}
           onClose={() => setSelected(null)}
+        />
+      )}
+
+      {collectionOpen && stickyItems.length > 0 && (
+        <CollectionDialog
+          items={stickyItems}
+          totalPages={stickyPages}
+          bundleState={bundleState}
+          bundleBusy={bundleBusy}
+          bundleLimitMessage={bundleLimitMessage}
+          onRemove={toggleSticky}
+          onDownload={downloadBundle}
+          onClose={() => setCollectionOpen(false)}
+        />
+      )}
+
+      {stickyItems.length > 0 && (
+        <StickyTray
+          items={stickyItems}
+          totalPages={stickyPages}
+          totalBytes={stickyBytes}
+          expanded={trayExpanded}
+          bundleState={bundleState}
+          bundleBusy={bundleBusy}
+          bundleLimitMessage={bundleLimitMessage}
+          onToggleExpanded={() => setTrayExpanded((current) => !current)}
+          onRemove={toggleSticky}
+          onClear={clearSticky}
+          onPreview={() => setCollectionOpen(true)}
+          onDownload={downloadBundle}
         />
       )}
     </main>
   );
 }
 
-function PreviewDialog({ item, page, onPageChange, onClose }: { item: ArchiveItem; page: number; onPageChange: (page: number) => void; onClose: () => void }) {
+function PreviewDialog({ item, page, marked, onToggleSticky, onPageChange, onClose }: {
+  item: ArchiveItem;
+  page: number;
+  marked: boolean;
+  onToggleSticky: () => void;
+  onPageChange: (page: number) => void;
+  onClose: () => void;
+}) {
   return (
     <div className="dialog-backdrop" role="presentation" onMouseDown={(event) => { if (event.currentTarget === event.target) onClose(); }}>
       <section className="preview-dialog" role="dialog" aria-modal="true" aria-label={`${item.unit}の画像プレビュー`}>
@@ -296,7 +480,10 @@ function PreviewDialog({ item, page, onPageChange, onClose }: { item: ArchiveIte
             <h2>{item.shortUnit}</h2>
           </div>
           <div className="dialog-header-actions">
-            <a className="button button-secondary" href={item.pdfUrl}>高解像度PDFを取得 ↓</a>
+            <button className={`sticky-button dialog-sticky-button ${marked ? "is-active" : ""}`} type="button" aria-pressed={marked} onClick={onToggleSticky}>
+              {marked ? "✓ 付箋済み" : "+ 付箋に追加"}
+            </button>
+            <a className="button button-secondary dialog-download-button" href={item.pdfUrl}>高解像度PDFを取得 ↓</a>
             <button className="close-button" type="button" onClick={onClose} aria-label="プレビューを閉じる">×</button>
           </div>
         </header>
@@ -324,6 +511,152 @@ function PreviewDialog({ item, page, onPageChange, onClose }: { item: ArchiveIte
   );
 }
 
+function StickyTray({ items, totalPages, totalBytes, expanded, bundleState, bundleBusy, bundleLimitMessage, onToggleExpanded, onRemove, onClear, onPreview, onDownload }: {
+  items: ArchiveItem[];
+  totalPages: number;
+  totalBytes: number;
+  expanded: boolean;
+  bundleState: BundleState;
+  bundleBusy: boolean;
+  bundleLimitMessage: string;
+  onToggleExpanded: () => void;
+  onRemove: (id: string) => void;
+  onClear: () => void;
+  onPreview: () => void;
+  onDownload: () => void;
+}) {
+  return (
+    <aside className={`sticky-tray ${expanded ? "is-expanded" : ""}`} aria-label="選定した問題の付箋">
+      <div className="sticky-tray-head">
+        <button className="sticky-tray-title" type="button" onClick={onToggleExpanded} aria-expanded={expanded}>
+          <span className="sticky-symbol" aria-hidden="true">▰</span>
+          <span><strong>選定付箋</strong><small>{items.length}題・{totalPages}ページ・{formatFileSize(totalBytes)}</small></span>
+          <span className="tray-chevron" aria-hidden="true">{expanded ? "⌄" : "⌃"}</span>
+        </button>
+        <div className="sticky-tray-actions">
+          <button className="button button-secondary" type="button" onClick={onPreview}>まとめて確認</button>
+          <button className="button button-primary" type="button" onClick={onDownload} disabled={bundleBusy || Boolean(bundleLimitMessage)} title={bundleLimitMessage || undefined}>
+            {bundleBusy ? `${bundleState.progress}%` : "PDFをまとめてDL"}
+          </button>
+          <button className="tray-clear-button" type="button" onClick={onClear} disabled={bundleBusy}>すべて外す</button>
+        </div>
+      </div>
+
+      {expanded && (
+        <div className="sticky-tray-body">
+          <div className="sticky-item-list">
+            {items.map((item, index) => (
+              <div className="sticky-item" key={item.id}>
+                <span className="sticky-item-number">{index + 1}</span>
+                <img src={item.previewPages[0]} alt="" />
+                <span><strong>{item.shortUnit}</strong><small>{item.year}年・{item.prefecture}・{item.field}</small></span>
+                <button type="button" onClick={() => onRemove(item.id)} aria-label={`${item.shortUnit}の付箋を外す`} disabled={bundleBusy}>×</button>
+              </div>
+            ))}
+          </div>
+          {(bundleState.message || bundleLimitMessage) && (
+            <div className={`bundle-status ${bundleState.status === "error" || bundleLimitMessage ? "is-error" : ""}`} aria-live="polite">
+              <span>{bundleLimitMessage || bundleState.message}</span>
+              {bundleBusy && <progress max="100" value={bundleState.progress}>{bundleState.progress}%</progress>}
+            </div>
+          )}
+        </div>
+      )}
+    </aside>
+  );
+}
+
+function CollectionDialog({ items, totalPages, bundleState, bundleBusy, bundleLimitMessage, onRemove, onDownload, onClose }: {
+  items: ArchiveItem[];
+  totalPages: number;
+  bundleState: BundleState;
+  bundleBusy: boolean;
+  bundleLimitMessage: string;
+  onRemove: (id: string) => void;
+  onDownload: () => void;
+  onClose: () => void;
+}) {
+  const [activeId, setActiveId] = useState(items[0]?.id || "");
+
+  useEffect(() => {
+    if (!items.some((item) => item.id === activeId)) setActiveId(items[0]?.id || "");
+  }, [activeId, items]);
+
+  const jumpTo = (id: string) => {
+    setActiveId(id);
+    document.getElementById(`collection-${id}`)?.scrollIntoView({ behavior: "smooth", block: "start" });
+  };
+
+  return (
+    <div className="dialog-backdrop collection-backdrop" role="presentation" onMouseDown={(event) => { if (event.currentTarget === event.target) onClose(); }}>
+      <section className="preview-dialog collection-dialog" role="dialog" aria-modal="true" aria-label="選定問題の連続プレビュー">
+        <header className="dialog-header collection-dialog-header">
+          <div>
+            <p className="collection-kicker"><span aria-hidden="true">▰</span> 選定付箋</p>
+            <h2>{items.length}題をまとめて確認</h2>
+          </div>
+          <div className="dialog-header-actions">
+            <button className="button button-primary collection-download-button" type="button" onClick={onDownload} disabled={bundleBusy || Boolean(bundleLimitMessage)} title={bundleLimitMessage || undefined}>
+              {bundleBusy ? `${bundleState.progress}% 作成中` : "PDFをまとめてDL"}
+            </button>
+            <button className="close-button" type="button" onClick={onClose} aria-label="まとめて確認を閉じる">×</button>
+          </div>
+        </header>
+
+        {(bundleState.message || bundleLimitMessage) && (
+          <div className={`collection-status ${bundleState.status === "error" || bundleLimitMessage ? "is-error" : ""}`} aria-live="polite">
+            <span>{bundleLimitMessage || bundleState.message}</span>
+            {bundleBusy && <progress max="100" value={bundleState.progress}>{bundleState.progress}%</progress>}
+          </div>
+        )}
+
+        <div className="collection-layout">
+          <nav className="collection-rail" aria-label="選定問題一覧">
+            {items.map((item, index) => (
+              <button key={item.id} className={activeId === item.id ? "is-active" : ""} type="button" onClick={() => jumpTo(item.id)}>
+                <span className="collection-rail-number">{index + 1}</span>
+                <img src={item.previewPages[0]} alt="" />
+                <span><strong>{item.shortUnit}</strong><small>{item.prefecture}・{item.pageCount}ページ</small></span>
+              </button>
+            ))}
+          </nav>
+
+          <div className="collection-stage">
+            {items.map((item, itemIndex) => (
+              <article className="collection-problem" id={`collection-${item.id}`} key={item.id}>
+                <header>
+                  <div>
+                    <p>選定問題 {itemIndex + 1} / {items.length}</p>
+                    <div className="badges"><span className={`field-badge field-${fieldClass(item.field)}`}>{item.field}</span><span>中{item.grade}</span><span>{item.year}年</span><span>{item.prefecture}</span></div>
+                    <h3>{item.shortUnit}</h3>
+                    <small>{item.unit}</small>
+                  </div>
+                  <div className="collection-problem-actions">
+                    <a href={item.pdfUrl}>このPDFを取得 ↓</a>
+                    <button type="button" onClick={() => onRemove(item.id)} disabled={bundleBusy}>付箋を外す</button>
+                  </div>
+                </header>
+                <div className="collection-pages">
+                  {item.previewPages.map((page, pageIndex) => (
+                    <figure key={page}>
+                      <figcaption>{item.shortUnit}　{pageIndex + 1} / {item.pageCount}</figcaption>
+                      <img src={page} alt={`${item.unit} ${pageIndex + 1}ページ目`} loading="lazy" />
+                    </figure>
+                  ))}
+                </div>
+              </article>
+            ))}
+          </div>
+        </div>
+
+        <footer className="collection-footer">
+          <span>{items.length}題を選定</span><strong>{totalPages}ページ</strong><span>上から連続して確認できます</span>
+        </footer>
+      </section>
+    </div>
+  );
+}
+
 function FilterSelect({ label, value, onChange, options }: { label: string; value: string; onChange: (value: string) => void; options: { value: string; label: string }[] }) {
   return (
     <label className="select-field">
@@ -342,4 +675,17 @@ function normalize(value: string) {
 
 function fieldClass(field: ScienceField) {
   return { 物理: "physics", 化学: "chemistry", 地学: "earth", 生物: "biology" }[field];
+}
+
+function formatFileSize(bytes: number) {
+  if (bytes < 1024 * 1024) return `${Math.max(1, Math.round(bytes / 1024))}KB`;
+  return `${(bytes / (1024 * 1024)).toFixed(bytes >= 10 * 1024 * 1024 ? 0 : 1)}MB`;
+}
+
+function dateStamp() {
+  const date = new Date();
+  const year = date.getFullYear();
+  const month = String(date.getMonth() + 1).padStart(2, "0");
+  const day = String(date.getDate()).padStart(2, "0");
+  return `${year}${month}${day}`;
 }
