@@ -1,0 +1,1448 @@
+{
+  "generatedAt": "2026-08-22T12:18:09.297Z",
+  "releaseTag": "pdfs-v1",
+  "totalItems": 55,
+  "totalPages": 248,
+  "items": [
+    {
+      "id": "g1-2025-yamagata-physics-0a7d2fa",
+      "grade": 1,
+      "year": 2025,
+      "prefecture": "山形県",
+      "field": "物理",
+      "unit": "力のはたらき（2力のつり合い・ばねの伸び・フックの法則・重力とニュートン）",
+      "shortUnit": "力のはたらき",
+      "tags": [
+        "2力のつり合い",
+        "ばねの伸び",
+        "フックの法則",
+        "重力とニュートン"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2025-yamagata-physics-0a7d2fa/page-01.jpg",
+        "/previews/g1-2025-yamagata-physics-0a7d2fa/page-02.jpg",
+        "/previews/g1-2025-yamagata-physics-0a7d2fa/page-03.jpg",
+        "/previews/g1-2025-yamagata-physics-0a7d2fa/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2025-yamagata-physics-0a7d2fa.pdf",
+      "pdfFileName": "2025年実施_山形県_中1理科_力のはたらき（2力のつり合い・ばねの伸び・フックの法則・重力とニュートン）.pdf",
+      "fileSize": 5771848
+    },
+    {
+      "id": "g1-2025-toyama-physics-2f7e767",
+      "grade": 1,
+      "year": 2025,
+      "prefecture": "富山県",
+      "field": "物理",
+      "unit": "光と音（凸レンズの実像・光の屈折・焦点・作図・像の明るさと大きさ）",
+      "shortUnit": "光と音",
+      "tags": [
+        "凸レンズの実像",
+        "光の屈折",
+        "焦点",
+        "作図",
+        "像の明るさと大きさ"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2025-toyama-physics-2f7e767/page-01.jpg",
+        "/previews/g1-2025-toyama-physics-2f7e767/page-02.jpg",
+        "/previews/g1-2025-toyama-physics-2f7e767/page-03.jpg",
+        "/previews/g1-2025-toyama-physics-2f7e767/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2025-toyama-physics-2f7e767.pdf",
+      "pdfFileName": "2025年実施_富山県_中1理科_光と音（凸レンズの実像・光の屈折・焦点・作図・像の明るさと大きさ）.pdf",
+      "fileSize": 13535650
+    },
+    {
+      "id": "g1-2025-toyama-chemistry-a8e5b22",
+      "grade": 1,
+      "year": 2025,
+      "prefecture": "富山県",
+      "field": "化学",
+      "unit": "状態変化と物質の性質（粒子モデル・融点・密度・体積と質量・浮き沈み）",
+      "shortUnit": "状態変化と物質の性質",
+      "tags": [
+        "粒子モデル",
+        "融点",
+        "密度",
+        "体積と質量",
+        "浮き沈み"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2025-toyama-chemistry-a8e5b22/page-01.jpg",
+        "/previews/g1-2025-toyama-chemistry-a8e5b22/page-02.jpg",
+        "/previews/g1-2025-toyama-chemistry-a8e5b22/page-03.jpg",
+        "/previews/g1-2025-toyama-chemistry-a8e5b22/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2025-toyama-chemistry-a8e5b22.pdf",
+      "pdfFileName": "2025年実施_富山県_中1理科_状態変化と物質の性質（粒子モデル・融点・密度・体積と質量・浮き沈み）.pdf",
+      "fileSize": 8914015
+    },
+    {
+      "id": "g1-2025-yamagata-earth-f356357",
+      "grade": 1,
+      "year": 2025,
+      "prefecture": "山形県",
+      "field": "地学",
+      "unit": "火山活動と火成岩（花こう岩・玄武岩・等粒状組織・風化・ルーペの使い方）",
+      "shortUnit": "火山活動と火成岩",
+      "tags": [
+        "花こう岩",
+        "玄武岩",
+        "等粒状組織",
+        "風化",
+        "ルーペの使い方"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2025-yamagata-earth-f356357/page-01.jpg",
+        "/previews/g1-2025-yamagata-earth-f356357/page-02.jpg",
+        "/previews/g1-2025-yamagata-earth-f356357/page-03.jpg",
+        "/previews/g1-2025-yamagata-earth-f356357/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2025-yamagata-earth-f356357.pdf",
+      "pdfFileName": "2025年実施_山形県_中1理科_火山活動と火成岩（花こう岩・玄武岩・等粒状組織・風化・ルーペの使い方）.pdf",
+      "fileSize": 10591102
+    },
+    {
+      "id": "g1-2025-yamaguchi-earth-645c578",
+      "grade": 1,
+      "year": 2025,
+      "prefecture": "山口県",
+      "field": "地学",
+      "unit": "地層（しゅう曲・示相化石・地層の堆積環境）",
+      "shortUnit": "地層",
+      "tags": [
+        "しゅう曲",
+        "示相化石",
+        "地層の堆積環境"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2025-yamaguchi-earth-645c578/page-01.jpg",
+        "/previews/g1-2025-yamaguchi-earth-645c578/page-02.jpg",
+        "/previews/g1-2025-yamaguchi-earth-645c578/page-03.jpg",
+        "/previews/g1-2025-yamaguchi-earth-645c578/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2025-yamaguchi-earth-645c578.pdf",
+      "pdfFileName": "2025年実施_山口県_中1理科_地層（しゅう曲・示相化石・地層の堆積環境）.pdf",
+      "fileSize": 5094174
+    },
+    {
+      "id": "g1-2025-fukushima-earth-406cc4a",
+      "grade": 1,
+      "year": 2025,
+      "prefecture": "福島県",
+      "field": "地学",
+      "unit": "地層のでき方（風化・堆積・火山・マグマ・火山噴出物・活火山）",
+      "shortUnit": "地層のでき方",
+      "tags": [
+        "風化",
+        "堆積",
+        "火山",
+        "マグマ",
+        "火山噴出物",
+        "活火山"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g1-2025-fukushima-earth-406cc4a/page-01.jpg",
+        "/previews/g1-2025-fukushima-earth-406cc4a/page-02.jpg",
+        "/previews/g1-2025-fukushima-earth-406cc4a/page-03.jpg",
+        "/previews/g1-2025-fukushima-earth-406cc4a/page-04.jpg",
+        "/previews/g1-2025-fukushima-earth-406cc4a/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2025-fukushima-earth-406cc4a.pdf",
+      "pdfFileName": "2025年実施_福島県_中1理科_地層のでき方（風化・堆積・火山・マグマ・火山噴出物・活火山）.pdf",
+      "fileSize": 11925596
+    },
+    {
+      "id": "g1-2025-yamaguchi-biology-33ced11",
+      "grade": 1,
+      "year": 2025,
+      "prefecture": "山口県",
+      "field": "生物",
+      "unit": "動物の分類（セキツイ動物・無セキツイ動物・呼吸・体表・相同器官と進化）",
+      "shortUnit": "動物の分類",
+      "tags": [
+        "セキツイ動物",
+        "無セキツイ動物",
+        "呼吸",
+        "体表",
+        "相同器官と進化"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2025-yamaguchi-biology-33ced11/page-01.jpg",
+        "/previews/g1-2025-yamaguchi-biology-33ced11/page-02.jpg",
+        "/previews/g1-2025-yamaguchi-biology-33ced11/page-03.jpg",
+        "/previews/g1-2025-yamaguchi-biology-33ced11/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2025-yamaguchi-biology-33ced11.pdf",
+      "pdfFileName": "2025年実施_山口県_中1理科_動物の分類（セキツイ動物・無セキツイ動物・呼吸・体表・相同器官と進化）.pdf",
+      "fileSize": 7864680
+    },
+    {
+      "id": "g1-2024-okinawa-physics-13f77df",
+      "grade": 1,
+      "year": 2024,
+      "prefecture": "沖縄県",
+      "field": "物理",
+      "unit": "力のはたらき（ばねの伸び・力のつり合い・摩擦力）",
+      "shortUnit": "力のはたらき",
+      "tags": [
+        "ばねの伸び",
+        "力のつり合い",
+        "摩擦力"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g1-2024-okinawa-physics-13f77df/page-01.jpg",
+        "/previews/g1-2024-okinawa-physics-13f77df/page-02.jpg",
+        "/previews/g1-2024-okinawa-physics-13f77df/page-03.jpg",
+        "/previews/g1-2024-okinawa-physics-13f77df/page-04.jpg",
+        "/previews/g1-2024-okinawa-physics-13f77df/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-okinawa-physics-13f77df.pdf",
+      "pdfFileName": "2024年実施_沖縄県_中1理科_力のはたらき（ばねの伸び・力のつり合い・摩擦力）.pdf",
+      "fileSize": 9585072
+    },
+    {
+      "id": "g1-2024-mie-physics-a0a565f",
+      "grade": 1,
+      "year": 2024,
+      "prefecture": "三重県",
+      "field": "物理",
+      "unit": "大気圧（状態変化・気圧・圧力・面積と力）",
+      "shortUnit": "大気圧",
+      "tags": [
+        "状態変化",
+        "気圧",
+        "圧力",
+        "面積と力"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2024-mie-physics-a0a565f/page-01.jpg",
+        "/previews/g1-2024-mie-physics-a0a565f/page-02.jpg",
+        "/previews/g1-2024-mie-physics-a0a565f/page-03.jpg",
+        "/previews/g1-2024-mie-physics-a0a565f/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-mie-physics-a0a565f.pdf",
+      "pdfFileName": "2024年実施_三重県_中1理科_大気圧（状態変化・気圧・圧力・面積と力）.pdf",
+      "fileSize": 8263016
+    },
+    {
+      "id": "g1-2024-mie-physics-efa9502",
+      "grade": 1,
+      "year": 2024,
+      "prefecture": "三重県",
+      "field": "物理",
+      "unit": "凸レンズの性質（焦点・実像・光の進み方・光線作図）",
+      "shortUnit": "凸レンズの性質",
+      "tags": [
+        "焦点",
+        "実像",
+        "光の進み方",
+        "光線作図"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2024-mie-physics-efa9502/page-01.jpg",
+        "/previews/g1-2024-mie-physics-efa9502/page-02.jpg",
+        "/previews/g1-2024-mie-physics-efa9502/page-03.jpg",
+        "/previews/g1-2024-mie-physics-efa9502/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-mie-physics-efa9502.pdf",
+      "pdfFileName": "2024年実施_三重県_中1理科_凸レンズの性質（焦点・実像・光の進み方・光線作図）.pdf",
+      "fileSize": 10222248
+    },
+    {
+      "id": "g1-2024-yamagata-physics-3529b3a",
+      "grade": 1,
+      "year": 2024,
+      "prefecture": "山形県",
+      "field": "物理",
+      "unit": "音（振動数・振幅・オシロスコープ・弦の太さと張力）",
+      "shortUnit": "音",
+      "tags": [
+        "振動数",
+        "振幅",
+        "オシロスコープ",
+        "弦の太さと張力"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g1-2024-yamagata-physics-3529b3a/page-01.jpg",
+        "/previews/g1-2024-yamagata-physics-3529b3a/page-02.jpg",
+        "/previews/g1-2024-yamagata-physics-3529b3a/page-03.jpg",
+        "/previews/g1-2024-yamagata-physics-3529b3a/page-04.jpg",
+        "/previews/g1-2024-yamagata-physics-3529b3a/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-yamagata-physics-3529b3a.pdf",
+      "pdfFileName": "2024年実施_山形県_中1理科_音（振動数・振幅・オシロスコープ・弦の太さと張力）.pdf",
+      "fileSize": 10105204
+    },
+    {
+      "id": "g1-2024-yamaguchi-physics-28b670d",
+      "grade": 1,
+      "year": 2024,
+      "prefecture": "山口県",
+      "field": "物理",
+      "unit": "光の性質（屈折・入射角・屈折角・見かけの位置）",
+      "shortUnit": "光の性質",
+      "tags": [
+        "屈折",
+        "入射角",
+        "屈折角",
+        "見かけの位置"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2024-yamaguchi-physics-28b670d/page-01.jpg",
+        "/previews/g1-2024-yamaguchi-physics-28b670d/page-02.jpg",
+        "/previews/g1-2024-yamaguchi-physics-28b670d/page-03.jpg",
+        "/previews/g1-2024-yamaguchi-physics-28b670d/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-yamaguchi-physics-28b670d.pdf",
+      "pdfFileName": "2024年実施_山口県_中1理科_光の性質（屈折・入射角・屈折角・見かけの位置）.pdf",
+      "fileSize": 5620815
+    },
+    {
+      "id": "g1-2024-fukushima-physics-e435a0b",
+      "grade": 1,
+      "year": 2024,
+      "prefecture": "福島県",
+      "field": "物理",
+      "unit": "水圧と浮力（ばねばかり・水圧・圧力・力のつり合い）",
+      "shortUnit": "水圧と浮力",
+      "tags": [
+        "ばねばかり",
+        "水圧",
+        "圧力",
+        "力のつり合い"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g1-2024-fukushima-physics-e435a0b/page-01.jpg",
+        "/previews/g1-2024-fukushima-physics-e435a0b/page-02.jpg",
+        "/previews/g1-2024-fukushima-physics-e435a0b/page-03.jpg",
+        "/previews/g1-2024-fukushima-physics-e435a0b/page-04.jpg",
+        "/previews/g1-2024-fukushima-physics-e435a0b/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-fukushima-physics-e435a0b.pdf",
+      "pdfFileName": "2024年実施_福島県_中1理科_水圧と浮力（ばねばかり・水圧・圧力・力のつり合い）.pdf",
+      "fileSize": 10475950
+    },
+    {
+      "id": "g1-2024-yamaguchi-chemistry-e6e0fb4",
+      "grade": 1,
+      "year": 2024,
+      "prefecture": "山口県",
+      "field": "化学",
+      "unit": "状態変化（融点・沸点・粒子モデル・体積変化）",
+      "shortUnit": "状態変化",
+      "tags": [
+        "融点",
+        "沸点",
+        "粒子モデル",
+        "体積変化"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2024-yamaguchi-chemistry-e6e0fb4/page-01.jpg",
+        "/previews/g1-2024-yamaguchi-chemistry-e6e0fb4/page-02.jpg",
+        "/previews/g1-2024-yamaguchi-chemistry-e6e0fb4/page-03.jpg",
+        "/previews/g1-2024-yamaguchi-chemistry-e6e0fb4/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-yamaguchi-chemistry-e6e0fb4.pdf",
+      "pdfFileName": "2024年実施_山口県_中1理科_状態変化（融点・沸点・粒子モデル・体積変化）.pdf",
+      "fileSize": 4789823
+    },
+    {
+      "id": "g1-2024-toyama-chemistry-8a03043",
+      "grade": 1,
+      "year": 2024,
+      "prefecture": "富山県",
+      "field": "化学",
+      "unit": "水溶液（溶解度曲線・再結晶・蒸発・質量パーセント濃度・密度）",
+      "shortUnit": "水溶液",
+      "tags": [
+        "溶解度曲線",
+        "再結晶",
+        "蒸発",
+        "質量パーセント濃度",
+        "密度"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2024-toyama-chemistry-8a03043/page-01.jpg",
+        "/previews/g1-2024-toyama-chemistry-8a03043/page-02.jpg",
+        "/previews/g1-2024-toyama-chemistry-8a03043/page-03.jpg",
+        "/previews/g1-2024-toyama-chemistry-8a03043/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-toyama-chemistry-8a03043.pdf",
+      "pdfFileName": "2024年実施_富山県_中1理科_水溶液（溶解度曲線・再結晶・蒸発・質量パーセント濃度・密度）.pdf",
+      "fileSize": 9815698
+    },
+    {
+      "id": "g1-2024-fukushima-chemistry-c0a2d8d",
+      "grade": 1,
+      "year": 2024,
+      "prefecture": "福島県",
+      "field": "化学",
+      "unit": "状態変化（粒子モデル・沸点・蒸留・密度・混合物）",
+      "shortUnit": "状態変化",
+      "tags": [
+        "粒子モデル",
+        "沸点",
+        "蒸留",
+        "密度",
+        "混合物"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g1-2024-fukushima-chemistry-c0a2d8d/page-01.jpg",
+        "/previews/g1-2024-fukushima-chemistry-c0a2d8d/page-02.jpg",
+        "/previews/g1-2024-fukushima-chemistry-c0a2d8d/page-03.jpg",
+        "/previews/g1-2024-fukushima-chemistry-c0a2d8d/page-04.jpg",
+        "/previews/g1-2024-fukushima-chemistry-c0a2d8d/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-fukushima-chemistry-c0a2d8d.pdf",
+      "pdfFileName": "2024年実施_福島県_中1理科_状態変化（粒子モデル・沸点・蒸留・密度・混合物）.pdf",
+      "fileSize": 10258011
+    },
+    {
+      "id": "g1-2024-okinawa-earth-d5dd9f5",
+      "grade": 1,
+      "year": 2024,
+      "prefecture": "沖縄県",
+      "field": "地学",
+      "unit": "大地の成り立ち（示準化石・地質年代・柱状図・地層の堆積）",
+      "shortUnit": "大地の成り立ち",
+      "tags": [
+        "示準化石",
+        "地質年代",
+        "柱状図",
+        "地層の堆積"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g1-2024-okinawa-earth-d5dd9f5/page-01.jpg",
+        "/previews/g1-2024-okinawa-earth-d5dd9f5/page-02.jpg",
+        "/previews/g1-2024-okinawa-earth-d5dd9f5/page-03.jpg",
+        "/previews/g1-2024-okinawa-earth-d5dd9f5/page-04.jpg",
+        "/previews/g1-2024-okinawa-earth-d5dd9f5/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-okinawa-earth-d5dd9f5.pdf",
+      "pdfFileName": "2024年実施_沖縄県_中1理科_大地の成り立ち（示準化石・地質年代・柱状図・地層の堆積）.pdf",
+      "fileSize": 12589355
+    },
+    {
+      "id": "g1-2024-iwate-earth-d0ff326",
+      "grade": 1,
+      "year": 2024,
+      "prefecture": "岩手県",
+      "field": "地学",
+      "unit": "火山活動と火成岩（火山灰の観察・無色鉱物・凝灰岩・鍵層・示準化石）",
+      "shortUnit": "火山活動と火成岩",
+      "tags": [
+        "火山灰の観察",
+        "無色鉱物",
+        "凝灰岩",
+        "鍵層",
+        "示準化石"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g1-2024-iwate-earth-d0ff326/page-01.jpg",
+        "/previews/g1-2024-iwate-earth-d0ff326/page-02.jpg",
+        "/previews/g1-2024-iwate-earth-d0ff326/page-03.jpg",
+        "/previews/g1-2024-iwate-earth-d0ff326/page-04.jpg",
+        "/previews/g1-2024-iwate-earth-d0ff326/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-iwate-earth-d0ff326.pdf",
+      "pdfFileName": "2024年実施_岩手県_中1理科_火山活動と火成岩（火山灰の観察・無色鉱物・凝灰岩・鍵層・示準化石）.pdf",
+      "fileSize": 11421711
+    },
+    {
+      "id": "g1-2024-mie-earth-0b74c57",
+      "grade": 1,
+      "year": 2024,
+      "prefecture": "三重県",
+      "field": "地学",
+      "unit": "火山と火成岩（鉱物・火成岩の組織・マグマのねばりけ・火山の形）",
+      "shortUnit": "火山と火成岩",
+      "tags": [
+        "鉱物",
+        "火成岩の組織",
+        "マグマのねばりけ",
+        "火山の形"
+      ],
+      "pageCount": 6,
+      "previewPages": [
+        "/previews/g1-2024-mie-earth-0b74c57/page-01.jpg",
+        "/previews/g1-2024-mie-earth-0b74c57/page-02.jpg",
+        "/previews/g1-2024-mie-earth-0b74c57/page-03.jpg",
+        "/previews/g1-2024-mie-earth-0b74c57/page-04.jpg",
+        "/previews/g1-2024-mie-earth-0b74c57/page-05.jpg",
+        "/previews/g1-2024-mie-earth-0b74c57/page-06.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-mie-earth-0b74c57.pdf",
+      "pdfFileName": "2024年実施_三重県_中1理科_火山と火成岩（鉱物・火成岩の組織・マグマのねばりけ・火山の形）.pdf",
+      "fileSize": 14628069
+    },
+    {
+      "id": "g1-2024-yamaguchi-earth-de8a5f5",
+      "grade": 1,
+      "year": 2024,
+      "prefecture": "山口県",
+      "field": "地学",
+      "unit": "火山と火成岩（火山噴出物・火成岩の組織・マグマのねばりけ・火山の形）",
+      "shortUnit": "火山と火成岩",
+      "tags": [
+        "火山噴出物",
+        "火成岩の組織",
+        "マグマのねばりけ",
+        "火山の形"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2024-yamaguchi-earth-de8a5f5/page-01.jpg",
+        "/previews/g1-2024-yamaguchi-earth-de8a5f5/page-02.jpg",
+        "/previews/g1-2024-yamaguchi-earth-de8a5f5/page-03.jpg",
+        "/previews/g1-2024-yamaguchi-earth-de8a5f5/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-yamaguchi-earth-de8a5f5.pdf",
+      "pdfFileName": "2024年実施_山口県_中1理科_火山と火成岩（火山噴出物・火成岩の組織・マグマのねばりけ・火山の形）.pdf",
+      "fileSize": 8292732
+    },
+    {
+      "id": "g1-2024-aomori-earth-82178f0",
+      "grade": 1,
+      "year": 2024,
+      "prefecture": "青森県",
+      "field": "地学",
+      "unit": "大地の活動（断層・プレート・液状化・マグニチュード・P波とS波・初期微動継続時間）",
+      "shortUnit": "大地の活動",
+      "tags": [
+        "断層",
+        "プレート",
+        "液状化",
+        "マグニチュード",
+        "P波とS波",
+        "初期微動継続時間"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g1-2024-aomori-earth-82178f0/page-01.jpg",
+        "/previews/g1-2024-aomori-earth-82178f0/page-02.jpg",
+        "/previews/g1-2024-aomori-earth-82178f0/page-03.jpg",
+        "/previews/g1-2024-aomori-earth-82178f0/page-04.jpg",
+        "/previews/g1-2024-aomori-earth-82178f0/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-aomori-earth-82178f0.pdf",
+      "pdfFileName": "2024年実施_青森県_中1理科_大地の活動（断層・プレート・液状化・マグニチュード・P波とS波・初期微動継続時間）.pdf",
+      "fileSize": 10320609
+    },
+    {
+      "id": "g1-2024-fukushima-earth-78bc092",
+      "grade": 1,
+      "year": 2024,
+      "prefecture": "福島県",
+      "field": "地学",
+      "unit": "地震（震央・震度・マグニチュード・P波とS波・緊急地震速報）",
+      "shortUnit": "地震",
+      "tags": [
+        "震央",
+        "震度",
+        "マグニチュード",
+        "P波とS波",
+        "緊急地震速報"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2024-fukushima-earth-78bc092/page-01.jpg",
+        "/previews/g1-2024-fukushima-earth-78bc092/page-02.jpg",
+        "/previews/g1-2024-fukushima-earth-78bc092/page-03.jpg",
+        "/previews/g1-2024-fukushima-earth-78bc092/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-fukushima-earth-78bc092.pdf",
+      "pdfFileName": "2024年実施_福島県_中1理科_地震（震央・震度・マグニチュード・P波とS波・緊急地震速報）.pdf",
+      "fileSize": 10063018
+    },
+    {
+      "id": "g1-2024-mie-biology-a35515c",
+      "grade": 1,
+      "year": 2024,
+      "prefecture": "三重県",
+      "field": "生物",
+      "unit": "動物の分類（セキツイ動物・無セキツイ動物・軟体動物・胎生）",
+      "shortUnit": "動物の分類",
+      "tags": [
+        "セキツイ動物",
+        "無セキツイ動物",
+        "軟体動物",
+        "胎生"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2024-mie-biology-a35515c/page-01.jpg",
+        "/previews/g1-2024-mie-biology-a35515c/page-02.jpg",
+        "/previews/g1-2024-mie-biology-a35515c/page-03.jpg",
+        "/previews/g1-2024-mie-biology-a35515c/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-mie-biology-a35515c.pdf",
+      "pdfFileName": "2024年実施_三重県_中1理科_動物の分類（セキツイ動物・無セキツイ動物・軟体動物・胎生）.pdf",
+      "fileSize": 5641313
+    },
+    {
+      "id": "g1-2024-yamagata-biology-426be91",
+      "grade": 1,
+      "year": 2024,
+      "prefecture": "山形県",
+      "field": "生物",
+      "unit": "動物の特徴と分類（セキツイ動物・無セキツイ動物・軟体動物・卵生と胎生）",
+      "shortUnit": "動物の特徴と分類",
+      "tags": [
+        "セキツイ動物",
+        "無セキツイ動物",
+        "軟体動物",
+        "卵生と胎生"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g1-2024-yamagata-biology-426be91/page-01.jpg",
+        "/previews/g1-2024-yamagata-biology-426be91/page-02.jpg",
+        "/previews/g1-2024-yamagata-biology-426be91/page-03.jpg",
+        "/previews/g1-2024-yamagata-biology-426be91/page-04.jpg",
+        "/previews/g1-2024-yamagata-biology-426be91/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-yamagata-biology-426be91.pdf",
+      "pdfFileName": "2024年実施_山形県_中1理科_動物の特徴と分類（セキツイ動物・無セキツイ動物・軟体動物・卵生と胎生）.pdf",
+      "fileSize": 8732095
+    },
+    {
+      "id": "g1-2023-ibaraki-physics-ba86c54",
+      "grade": 1,
+      "year": 2023,
+      "prefecture": "茨城県",
+      "field": "物理",
+      "unit": "光の性質（凸レンズ・屈折・実像・光の道すじ）",
+      "shortUnit": "光の性質",
+      "tags": [
+        "凸レンズ",
+        "屈折",
+        "実像",
+        "光の道すじ"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g1-2023-ibaraki-physics-ba86c54/page-01.jpg",
+        "/previews/g1-2023-ibaraki-physics-ba86c54/page-02.jpg",
+        "/previews/g1-2023-ibaraki-physics-ba86c54/page-03.jpg",
+        "/previews/g1-2023-ibaraki-physics-ba86c54/page-04.jpg",
+        "/previews/g1-2023-ibaraki-physics-ba86c54/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2023-ibaraki-physics-ba86c54.pdf",
+      "pdfFileName": "2023年実施_茨城県_中1理科_光の性質（凸レンズ・屈折・実像・光の道すじ）.pdf",
+      "fileSize": 10138639
+    },
+    {
+      "id": "g1-2023-okinawa-physics-0702317",
+      "grade": 1,
+      "year": 2023,
+      "prefecture": "沖縄県",
+      "field": "物理",
+      "unit": "光の進み方（入射角・屈折・反射・全反射・光の道すじ）",
+      "shortUnit": "光の進み方",
+      "tags": [
+        "入射角",
+        "屈折",
+        "反射",
+        "全反射",
+        "光の道すじ"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g1-2023-okinawa-physics-0702317/page-01.jpg",
+        "/previews/g1-2023-okinawa-physics-0702317/page-02.jpg",
+        "/previews/g1-2023-okinawa-physics-0702317/page-03.jpg",
+        "/previews/g1-2023-okinawa-physics-0702317/page-04.jpg",
+        "/previews/g1-2023-okinawa-physics-0702317/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2023-okinawa-physics-0702317.pdf",
+      "pdfFileName": "2023年実施_沖縄県_中1理科_光の進み方（入射角・屈折・反射・全反射・光の道すじ）.pdf",
+      "fileSize": 14940588
+    },
+    {
+      "id": "g1-2023-okinawa-physics-44872e3",
+      "grade": 1,
+      "year": 2023,
+      "prefecture": "沖縄県",
+      "field": "物理",
+      "unit": "水中ではたらく力（水圧・深さと水圧・浮力・気圧）",
+      "shortUnit": "水中ではたらく力",
+      "tags": [
+        "水圧",
+        "深さと水圧",
+        "浮力",
+        "気圧"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g1-2023-okinawa-physics-44872e3/page-01.jpg",
+        "/previews/g1-2023-okinawa-physics-44872e3/page-02.jpg",
+        "/previews/g1-2023-okinawa-physics-44872e3/page-03.jpg",
+        "/previews/g1-2023-okinawa-physics-44872e3/page-04.jpg",
+        "/previews/g1-2023-okinawa-physics-44872e3/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2023-okinawa-physics-44872e3.pdf",
+      "pdfFileName": "2023年実施_沖縄県_中1理科_水中ではたらく力（水圧・深さと水圧・浮力・気圧）.pdf",
+      "fileSize": 10883619
+    },
+    {
+      "id": "g1-2023-mie-physics-8f0b459",
+      "grade": 1,
+      "year": 2023,
+      "prefecture": "三重県",
+      "field": "物理",
+      "unit": "音（弦の振動・音の高さ・振動数・振幅）",
+      "shortUnit": "音",
+      "tags": [
+        "弦の振動",
+        "音の高さ",
+        "振動数",
+        "振幅"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g1-2023-mie-physics-8f0b459/page-01.jpg",
+        "/previews/g1-2023-mie-physics-8f0b459/page-02.jpg",
+        "/previews/g1-2023-mie-physics-8f0b459/page-03.jpg",
+        "/previews/g1-2023-mie-physics-8f0b459/page-04.jpg",
+        "/previews/g1-2023-mie-physics-8f0b459/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2023-mie-physics-8f0b459.pdf",
+      "pdfFileName": "2023年実施_三重県_中1理科_音（弦の振動・音の高さ・振動数・振幅）.pdf",
+      "fileSize": 7804817
+    },
+    {
+      "id": "g1-2023-yamagata-physics-b2678f8",
+      "grade": 1,
+      "year": 2023,
+      "prefecture": "山形県",
+      "field": "物理",
+      "unit": "光と凸レンズ（実像・焦点距離・光の道すじ・作図）",
+      "shortUnit": "光と凸レンズ",
+      "tags": [
+        "実像",
+        "焦点距離",
+        "光の道すじ",
+        "作図"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2023-yamagata-physics-b2678f8/page-01.jpg",
+        "/previews/g1-2023-yamagata-physics-b2678f8/page-02.jpg",
+        "/previews/g1-2023-yamagata-physics-b2678f8/page-03.jpg",
+        "/previews/g1-2023-yamagata-physics-b2678f8/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2023-yamagata-physics-b2678f8.pdf",
+      "pdfFileName": "2023年実施_山形県_中1理科_光と凸レンズ（実像・焦点距離・光の道すじ・作図）.pdf",
+      "fileSize": 10325132
+    },
+    {
+      "id": "g1-2023-aomori-physics-139ac94",
+      "grade": 1,
+      "year": 2023,
+      "prefecture": "青森県",
+      "field": "物理",
+      "unit": "光（凸レンズ・虚像・焦点距離・実像・像の作図）",
+      "shortUnit": "光",
+      "tags": [
+        "凸レンズ",
+        "虚像",
+        "焦点距離",
+        "実像",
+        "像の作図"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g1-2023-aomori-physics-139ac94/page-01.jpg",
+        "/previews/g1-2023-aomori-physics-139ac94/page-02.jpg",
+        "/previews/g1-2023-aomori-physics-139ac94/page-03.jpg",
+        "/previews/g1-2023-aomori-physics-139ac94/page-04.jpg",
+        "/previews/g1-2023-aomori-physics-139ac94/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2023-aomori-physics-139ac94.pdf",
+      "pdfFileName": "2023年実施_青森県_中1理科_光（凸レンズ・虚像・焦点距離・実像・像の作図）.pdf",
+      "fileSize": 10985459
+    },
+    {
+      "id": "g1-2023-tokushima-physics-c719542",
+      "grade": 1,
+      "year": 2023,
+      "prefecture": "徳島県",
+      "field": "物理",
+      "unit": "力のはたらき（質量と重力・浮力・水圧・液体の密度と圧力）",
+      "shortUnit": "力のはたらき",
+      "tags": [
+        "質量と重力",
+        "浮力",
+        "水圧",
+        "液体の密度と圧力"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g1-2023-tokushima-physics-c719542/page-01.jpg",
+        "/previews/g1-2023-tokushima-physics-c719542/page-02.jpg",
+        "/previews/g1-2023-tokushima-physics-c719542/page-03.jpg",
+        "/previews/g1-2023-tokushima-physics-c719542/page-04.jpg",
+        "/previews/g1-2023-tokushima-physics-c719542/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2023-tokushima-physics-c719542.pdf",
+      "pdfFileName": "2023年実施_徳島県_中1理科_力のはたらき（質量と重力・浮力・水圧・液体の密度と圧力）.pdf",
+      "fileSize": 8439681
+    },
+    {
+      "id": "g1-2023-fukushima-physics-0c96cce",
+      "grade": 1,
+      "year": 2023,
+      "prefecture": "福島県",
+      "field": "物理",
+      "unit": "光（凸レンズ・実像・焦点距離・像の大きさ）",
+      "shortUnit": "光",
+      "tags": [
+        "凸レンズ",
+        "実像",
+        "焦点距離",
+        "像の大きさ"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g1-2023-fukushima-physics-0c96cce/page-01.jpg",
+        "/previews/g1-2023-fukushima-physics-0c96cce/page-02.jpg",
+        "/previews/g1-2023-fukushima-physics-0c96cce/page-03.jpg",
+        "/previews/g1-2023-fukushima-physics-0c96cce/page-04.jpg",
+        "/previews/g1-2023-fukushima-physics-0c96cce/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2023-fukushima-physics-0c96cce.pdf",
+      "pdfFileName": "2023年実施_福島県_中1理科_光（凸レンズ・実像・焦点距離・像の大きさ）.pdf",
+      "fileSize": 8642934
+    },
+    {
+      "id": "g1-2023-mie-chemistry-adc735c",
+      "grade": 1,
+      "year": 2023,
+      "prefecture": "三重県",
+      "field": "化学",
+      "unit": "状態変化（沸点・蒸留・水とエタノールの分離）",
+      "shortUnit": "状態変化",
+      "tags": [
+        "沸点",
+        "蒸留",
+        "水とエタノールの分離"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2023-mie-chemistry-adc735c/page-01.jpg",
+        "/previews/g1-2023-mie-chemistry-adc735c/page-02.jpg",
+        "/previews/g1-2023-mie-chemistry-adc735c/page-03.jpg",
+        "/previews/g1-2023-mie-chemistry-adc735c/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2023-mie-chemistry-adc735c.pdf",
+      "pdfFileName": "2023年実施_三重県_中1理科_状態変化（沸点・蒸留・水とエタノールの分離）.pdf",
+      "fileSize": 7891767
+    },
+    {
+      "id": "g1-2023-tokushima-chemistry-90fe9f7",
+      "grade": 1,
+      "year": 2023,
+      "prefecture": "徳島県",
+      "field": "化学",
+      "unit": "状態変化（粒子モデル・沸点・蒸留・エタノール・石油の分留）",
+      "shortUnit": "状態変化",
+      "tags": [
+        "粒子モデル",
+        "沸点",
+        "蒸留",
+        "エタノール",
+        "石油の分留"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g1-2023-tokushima-chemistry-90fe9f7/page-01.jpg",
+        "/previews/g1-2023-tokushima-chemistry-90fe9f7/page-02.jpg",
+        "/previews/g1-2023-tokushima-chemistry-90fe9f7/page-03.jpg",
+        "/previews/g1-2023-tokushima-chemistry-90fe9f7/page-04.jpg",
+        "/previews/g1-2023-tokushima-chemistry-90fe9f7/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2023-tokushima-chemistry-90fe9f7.pdf",
+      "pdfFileName": "2023年実施_徳島県_中1理科_状態変化（粒子モデル・沸点・蒸留・エタノール・石油の分留）.pdf",
+      "fileSize": 9467666
+    },
+    {
+      "id": "g1-2023-fukushima-chemistry-57779b2",
+      "grade": 1,
+      "year": 2023,
+      "prefecture": "福島県",
+      "field": "化学",
+      "unit": "水溶液と物質の性質（混合物・ろ過・プラスチック・密度・質量パーセント濃度）",
+      "shortUnit": "水溶液と物質の性質",
+      "tags": [
+        "混合物",
+        "ろ過",
+        "プラスチック",
+        "密度",
+        "質量パーセント濃度"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g1-2023-fukushima-chemistry-57779b2/page-01.jpg",
+        "/previews/g1-2023-fukushima-chemistry-57779b2/page-02.jpg",
+        "/previews/g1-2023-fukushima-chemistry-57779b2/page-03.jpg",
+        "/previews/g1-2023-fukushima-chemistry-57779b2/page-04.jpg",
+        "/previews/g1-2023-fukushima-chemistry-57779b2/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2023-fukushima-chemistry-57779b2.pdf",
+      "pdfFileName": "2023年実施_福島県_中1理科_水溶液と物質の性質（混合物・ろ過・プラスチック・密度・質量パーセント濃度）.pdf",
+      "fileSize": 9831164
+    },
+    {
+      "id": "g1-2023-yamagata-earth-17357d5",
+      "grade": 1,
+      "year": 2023,
+      "prefecture": "山形県",
+      "field": "地学",
+      "unit": "地層の重なりと過去の様子（堆積岩・示準化石・示相化石・地質年代・地すべり）",
+      "shortUnit": "地層の重なりと過去の様子",
+      "tags": [
+        "堆積岩",
+        "示準化石",
+        "示相化石",
+        "地質年代",
+        "地すべり"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2023-yamagata-earth-17357d5/page-01.jpg",
+        "/previews/g1-2023-yamagata-earth-17357d5/page-02.jpg",
+        "/previews/g1-2023-yamagata-earth-17357d5/page-03.jpg",
+        "/previews/g1-2023-yamagata-earth-17357d5/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2023-yamagata-earth-17357d5.pdf",
+      "pdfFileName": "2023年実施_山形県_中1理科_地層の重なりと過去の様子（堆積岩・示準化石・示相化石・地質年代・地すべり）.pdf",
+      "fileSize": 11593604
+    },
+    {
+      "id": "g1-2023-akita-earth-5280a59",
+      "grade": 1,
+      "year": 2023,
+      "prefecture": "秋田県",
+      "field": "地学",
+      "unit": "地震（プレートの沈み込み・断層・震央・P波とS波・初期微動継続時間・緊急地震速報）",
+      "shortUnit": "地震",
+      "tags": [
+        "プレートの沈み込み",
+        "断層",
+        "震央",
+        "P波とS波",
+        "初期微動継続時間",
+        "緊急地震速報"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2023-akita-earth-5280a59/page-01.jpg",
+        "/previews/g1-2023-akita-earth-5280a59/page-02.jpg",
+        "/previews/g1-2023-akita-earth-5280a59/page-03.jpg",
+        "/previews/g1-2023-akita-earth-5280a59/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2023-akita-earth-5280a59.pdf",
+      "pdfFileName": "2023年実施_秋田県_中1理科_地震（プレートの沈み込み・断層・震央・P波とS波・初期微動継続時間・緊急地震速報）.pdf",
+      "fileSize": 11954141
+    },
+    {
+      "id": "g1-2023-shizuoka-earth-b15cd81",
+      "grade": 1,
+      "year": 2023,
+      "prefecture": "静岡県",
+      "field": "地学",
+      "unit": "大地の成り立ちと変化（風化・れき砂泥の運搬と堆積・花こう岩・等粒状組織・無色鉱物）",
+      "shortUnit": "大地の成り立ちと変化",
+      "tags": [
+        "風化",
+        "れき砂泥の運搬と堆積",
+        "花こう岩",
+        "等粒状組織",
+        "無色鉱物"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2023-shizuoka-earth-b15cd81/page-01.jpg",
+        "/previews/g1-2023-shizuoka-earth-b15cd81/page-02.jpg",
+        "/previews/g1-2023-shizuoka-earth-b15cd81/page-03.jpg",
+        "/previews/g1-2023-shizuoka-earth-b15cd81/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2023-shizuoka-earth-b15cd81.pdf",
+      "pdfFileName": "2023年実施_静岡県_中1理科_大地の成り立ちと変化（風化・れき砂泥の運搬と堆積・花こう岩・等粒状組織・無色鉱物）.pdf",
+      "fileSize": 6017618
+    },
+    {
+      "id": "g1-2023-fukushima-earth-3f4a04e",
+      "grade": 1,
+      "year": 2023,
+      "prefecture": "福島県",
+      "field": "地学",
+      "unit": "地層（柱状図・凝灰岩の鍵層・示準化石・示相化石・石灰岩・地層の新旧）",
+      "shortUnit": "地層",
+      "tags": [
+        "柱状図",
+        "凝灰岩の鍵層",
+        "示準化石",
+        "示相化石",
+        "石灰岩",
+        "地層の新旧"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2023-fukushima-earth-3f4a04e/page-01.jpg",
+        "/previews/g1-2023-fukushima-earth-3f4a04e/page-02.jpg",
+        "/previews/g1-2023-fukushima-earth-3f4a04e/page-03.jpg",
+        "/previews/g1-2023-fukushima-earth-3f4a04e/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2023-fukushima-earth-3f4a04e.pdf",
+      "pdfFileName": "2023年実施_福島県_中1理科_地層（柱状図・凝灰岩の鍵層・示準化石・示相化石・石灰岩・地層の新旧）.pdf",
+      "fileSize": 9258194
+    },
+    {
+      "id": "g1-2022-ibaraki-physics-4f2e6c2",
+      "grade": 1,
+      "year": 2022,
+      "prefecture": "茨城県",
+      "field": "物理",
+      "unit": "音の性質（振動数・音の高さ・音速・音の反射）",
+      "shortUnit": "音の性質",
+      "tags": [
+        "振動数",
+        "音の高さ",
+        "音速",
+        "音の反射"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g1-2022-ibaraki-physics-4f2e6c2/page-01.jpg",
+        "/previews/g1-2022-ibaraki-physics-4f2e6c2/page-02.jpg",
+        "/previews/g1-2022-ibaraki-physics-4f2e6c2/page-03.jpg",
+        "/previews/g1-2022-ibaraki-physics-4f2e6c2/page-04.jpg",
+        "/previews/g1-2022-ibaraki-physics-4f2e6c2/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-ibaraki-physics-4f2e6c2.pdf",
+      "pdfFileName": "2022年実施_茨城県_中1理科_音の性質（振動数・音の高さ・音速・音の反射）.pdf",
+      "fileSize": 12834982
+    },
+    {
+      "id": "g1-2022-yamaguchi-physics-e207789",
+      "grade": 1,
+      "year": 2022,
+      "prefecture": "山口県",
+      "field": "物理",
+      "unit": "音の性質（振動数・音の高さ・気柱の長さ・波形・音の反射）",
+      "shortUnit": "音の性質",
+      "tags": [
+        "振動数",
+        "音の高さ",
+        "気柱の長さ",
+        "波形",
+        "音の反射"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g1-2022-yamaguchi-physics-e207789/page-01.jpg",
+        "/previews/g1-2022-yamaguchi-physics-e207789/page-02.jpg",
+        "/previews/g1-2022-yamaguchi-physics-e207789/page-03.jpg",
+        "/previews/g1-2022-yamaguchi-physics-e207789/page-04.jpg",
+        "/previews/g1-2022-yamaguchi-physics-e207789/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-yamaguchi-physics-e207789.pdf",
+      "pdfFileName": "2022年実施_山口県_中1理科_音の性質（振動数・音の高さ・気柱の長さ・波形・音の反射）.pdf",
+      "fileSize": 13953913
+    },
+    {
+      "id": "g1-2022-tokushima-physics-2f50384",
+      "grade": 1,
+      "year": 2022,
+      "prefecture": "徳島県",
+      "field": "物理",
+      "unit": "光の性質（凸レンズ・実像・屈折・焦点・作図・望遠鏡）",
+      "shortUnit": "光の性質",
+      "tags": [
+        "凸レンズ",
+        "実像",
+        "屈折",
+        "焦点",
+        "作図",
+        "望遠鏡"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g1-2022-tokushima-physics-2f50384/page-01.jpg",
+        "/previews/g1-2022-tokushima-physics-2f50384/page-02.jpg",
+        "/previews/g1-2022-tokushima-physics-2f50384/page-03.jpg",
+        "/previews/g1-2022-tokushima-physics-2f50384/page-04.jpg",
+        "/previews/g1-2022-tokushima-physics-2f50384/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-tokushima-physics-2f50384.pdf",
+      "pdfFileName": "2022年実施_徳島県_中1理科_光の性質（凸レンズ・実像・屈折・焦点・作図・望遠鏡）.pdf",
+      "fileSize": 9543421
+    },
+    {
+      "id": "g1-2022-toyama-physics-aa19915",
+      "grade": 1,
+      "year": 2022,
+      "prefecture": "富山県",
+      "field": "物理",
+      "unit": "光と鏡（屈折・全反射・水中の見え方・鏡の反射と像）",
+      "shortUnit": "光と鏡",
+      "tags": [
+        "屈折",
+        "全反射",
+        "水中の見え方",
+        "鏡の反射と像"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2022-toyama-physics-aa19915/page-01.jpg",
+        "/previews/g1-2022-toyama-physics-aa19915/page-02.jpg",
+        "/previews/g1-2022-toyama-physics-aa19915/page-03.jpg",
+        "/previews/g1-2022-toyama-physics-aa19915/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-toyama-physics-aa19915.pdf",
+      "pdfFileName": "2022年実施_富山県_中1理科_光と鏡（屈折・全反射・水中の見え方・鏡の反射と像）.pdf",
+      "fileSize": 11408086
+    },
+    {
+      "id": "g1-2022-ibaraki-chemistry-bd211dc",
+      "grade": 1,
+      "year": 2022,
+      "prefecture": "茨城県",
+      "field": "化学",
+      "unit": "気体の性質（空気の質量と密度・水上置換法・気温と密度・気圧）",
+      "shortUnit": "気体の性質",
+      "tags": [
+        "空気の質量と密度",
+        "水上置換法",
+        "気温と密度",
+        "気圧"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g1-2022-ibaraki-chemistry-bd211dc/page-01.jpg",
+        "/previews/g1-2022-ibaraki-chemistry-bd211dc/page-02.jpg",
+        "/previews/g1-2022-ibaraki-chemistry-bd211dc/page-03.jpg",
+        "/previews/g1-2022-ibaraki-chemistry-bd211dc/page-04.jpg",
+        "/previews/g1-2022-ibaraki-chemistry-bd211dc/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-ibaraki-chemistry-bd211dc.pdf",
+      "pdfFileName": "2022年実施_茨城県_中1理科_気体の性質（空気の質量と密度・水上置換法・気温と密度・気圧）.pdf",
+      "fileSize": 10969821
+    },
+    {
+      "id": "g1-2022-mie-chemistry-3c5c7e4",
+      "grade": 1,
+      "year": 2022,
+      "prefecture": "三重県",
+      "field": "化学",
+      "unit": "水溶液と溶解度（溶解度曲線・飽和水溶液・結晶・再結晶・質量パーセント濃度）",
+      "shortUnit": "水溶液と溶解度",
+      "tags": [
+        "溶解度曲線",
+        "飽和水溶液",
+        "結晶",
+        "再結晶",
+        "質量パーセント濃度"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2022-mie-chemistry-3c5c7e4/page-01.jpg",
+        "/previews/g1-2022-mie-chemistry-3c5c7e4/page-02.jpg",
+        "/previews/g1-2022-mie-chemistry-3c5c7e4/page-03.jpg",
+        "/previews/g1-2022-mie-chemistry-3c5c7e4/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-mie-chemistry-3c5c7e4.pdf",
+      "pdfFileName": "2022年実施_三重県_中1理科_水溶液と溶解度（溶解度曲線・飽和水溶液・結晶・再結晶・質量パーセント濃度）.pdf",
+      "fileSize": 9505355
+    },
+    {
+      "id": "g1-2022-yamagata-chemistry-0a752e7",
+      "grade": 1,
+      "year": 2022,
+      "prefecture": "山形県",
+      "field": "化学",
+      "unit": "状態変化と物質の性質（蒸留・沸点・密度・水とエタノールの分離・プラスチック）",
+      "shortUnit": "状態変化と物質の性質",
+      "tags": [
+        "蒸留",
+        "沸点",
+        "密度",
+        "水とエタノールの分離",
+        "プラスチック"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g1-2022-yamagata-chemistry-0a752e7/page-01.jpg",
+        "/previews/g1-2022-yamagata-chemistry-0a752e7/page-02.jpg",
+        "/previews/g1-2022-yamagata-chemistry-0a752e7/page-03.jpg",
+        "/previews/g1-2022-yamagata-chemistry-0a752e7/page-04.jpg",
+        "/previews/g1-2022-yamagata-chemistry-0a752e7/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-yamagata-chemistry-0a752e7.pdf",
+      "pdfFileName": "2022年実施_山形県_中1理科_状態変化と物質の性質（蒸留・沸点・密度・水とエタノールの分離・プラスチック）.pdf",
+      "fileSize": 10529407
+    },
+    {
+      "id": "g1-2022-akita-chemistry-3ede4a7",
+      "grade": 1,
+      "year": 2022,
+      "prefecture": "秋田県",
+      "field": "化学",
+      "unit": "状態変化と物質の性質（沸点・蒸留・密度・水とエタノールの分離・プラスチックの性質）",
+      "shortUnit": "状態変化と物質の性質",
+      "tags": [
+        "沸点",
+        "蒸留",
+        "密度",
+        "水とエタノールの分離",
+        "プラスチックの性質"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2022-akita-chemistry-3ede4a7/page-01.jpg",
+        "/previews/g1-2022-akita-chemistry-3ede4a7/page-02.jpg",
+        "/previews/g1-2022-akita-chemistry-3ede4a7/page-03.jpg",
+        "/previews/g1-2022-akita-chemistry-3ede4a7/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-akita-chemistry-3ede4a7.pdf",
+      "pdfFileName": "2022年実施_秋田県_中1理科_状態変化と物質の性質（沸点・蒸留・密度・水とエタノールの分離・プラスチックの性質）.pdf",
+      "fileSize": 10702409
+    },
+    {
+      "id": "g1-2022-fukushima-chemistry-7415af0",
+      "grade": 1,
+      "year": 2022,
+      "prefecture": "福島県",
+      "field": "化学",
+      "unit": "水溶液（溶質・溶媒・溶解度・飽和水溶液・質量パーセント濃度・再結晶）",
+      "shortUnit": "水溶液",
+      "tags": [
+        "溶質",
+        "溶媒",
+        "溶解度",
+        "飽和水溶液",
+        "質量パーセント濃度",
+        "再結晶"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2022-fukushima-chemistry-7415af0/page-01.jpg",
+        "/previews/g1-2022-fukushima-chemistry-7415af0/page-02.jpg",
+        "/previews/g1-2022-fukushima-chemistry-7415af0/page-03.jpg",
+        "/previews/g1-2022-fukushima-chemistry-7415af0/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-fukushima-chemistry-7415af0.pdf",
+      "pdfFileName": "2022年実施_福島県_中1理科_水溶液（溶質・溶媒・溶解度・飽和水溶液・質量パーセント濃度・再結晶）.pdf",
+      "fileSize": 10145171
+    },
+    {
+      "id": "g1-2022-ibaraki-earth-cf75226",
+      "grade": 1,
+      "year": 2022,
+      "prefecture": "茨城県",
+      "field": "地学",
+      "unit": "地層の広がり（柱状図・ボーリング調査・示準化石・凝灰岩の鍵層・地層の傾き・堆積環境）",
+      "shortUnit": "地層の広がり",
+      "tags": [
+        "柱状図",
+        "ボーリング調査",
+        "示準化石",
+        "凝灰岩の鍵層",
+        "地層の傾き",
+        "堆積環境"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g1-2022-ibaraki-earth-cf75226/page-01.jpg",
+        "/previews/g1-2022-ibaraki-earth-cf75226/page-02.jpg",
+        "/previews/g1-2022-ibaraki-earth-cf75226/page-03.jpg",
+        "/previews/g1-2022-ibaraki-earth-cf75226/page-04.jpg",
+        "/previews/g1-2022-ibaraki-earth-cf75226/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-ibaraki-earth-cf75226.pdf",
+      "pdfFileName": "2022年実施_茨城県_中1理科_地層の広がり（柱状図・ボーリング調査・示準化石・凝灰岩の鍵層・地層の傾き・堆積環境）.pdf",
+      "fileSize": 8849484
+    },
+    {
+      "id": "g1-2022-gifu-earth-702cffb",
+      "grade": 1,
+      "year": 2022,
+      "prefecture": "岐阜県",
+      "field": "地学",
+      "unit": "火山活動と火成岩・地震・地層（斑状組織・鉱物・マグマのねばりけ・噴火・火山性地震・示準化石）",
+      "shortUnit": "火山活動と火成岩・地震・地層",
+      "tags": [
+        "斑状組織",
+        "鉱物",
+        "マグマのねばりけ",
+        "噴火",
+        "火山性地震",
+        "示準化石"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2022-gifu-earth-702cffb/page-01.jpg",
+        "/previews/g1-2022-gifu-earth-702cffb/page-02.jpg",
+        "/previews/g1-2022-gifu-earth-702cffb/page-03.jpg",
+        "/previews/g1-2022-gifu-earth-702cffb/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-gifu-earth-702cffb.pdf",
+      "pdfFileName": "2022年実施_岐阜県_中1理科_火山活動と火成岩・地震・地層（斑状組織・鉱物・マグマのねばりけ・噴火・火山性地震・示準化石）.pdf",
+      "fileSize": 10566749
+    },
+    {
+      "id": "g1-2022-yamagata-earth-3543f72",
+      "grade": 1,
+      "year": 2022,
+      "prefecture": "山形県",
+      "field": "地学",
+      "unit": "地震（プレート・断層・震度・マグニチュード・P波とS波・震源距離）",
+      "shortUnit": "地震",
+      "tags": [
+        "プレート",
+        "断層",
+        "震度",
+        "マグニチュード",
+        "P波とS波",
+        "震源距離"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g1-2022-yamagata-earth-3543f72/page-01.jpg",
+        "/previews/g1-2022-yamagata-earth-3543f72/page-02.jpg",
+        "/previews/g1-2022-yamagata-earth-3543f72/page-03.jpg",
+        "/previews/g1-2022-yamagata-earth-3543f72/page-04.jpg",
+        "/previews/g1-2022-yamagata-earth-3543f72/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-yamagata-earth-3543f72.pdf",
+      "pdfFileName": "2022年実施_山形県_中1理科_地震（プレート・断層・震度・マグニチュード・P波とS波・震源距離）.pdf",
+      "fileSize": 10349915
+    },
+    {
+      "id": "g1-2022-shizuoka-earth-fdd554e",
+      "grade": 1,
+      "year": 2022,
+      "prefecture": "静岡県",
+      "field": "地学",
+      "unit": "地層の広がり（示準化石・堆積物の粒径・柱状図・火山灰層・地層の傾き）",
+      "shortUnit": "地層の広がり",
+      "tags": [
+        "示準化石",
+        "堆積物の粒径",
+        "柱状図",
+        "火山灰層",
+        "地層の傾き"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2022-shizuoka-earth-fdd554e/page-01.jpg",
+        "/previews/g1-2022-shizuoka-earth-fdd554e/page-02.jpg",
+        "/previews/g1-2022-shizuoka-earth-fdd554e/page-03.jpg",
+        "/previews/g1-2022-shizuoka-earth-fdd554e/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-shizuoka-earth-fdd554e.pdf",
+      "pdfFileName": "2022年実施_静岡県_中1理科_地層の広がり（示準化石・堆積物の粒径・柱状図・火山灰層・地層の傾き）.pdf",
+      "fileSize": 7270779
+    },
+    {
+      "id": "g1-2022-tokushima-earth-38ab180",
+      "grade": 1,
+      "year": 2022,
+      "prefecture": "徳島県",
+      "field": "地学",
+      "unit": "地層と化石（示準化石・示相化石・堆積・凝灰岩・柱状図）",
+      "shortUnit": "地層と化石",
+      "tags": [
+        "示準化石",
+        "示相化石",
+        "堆積",
+        "凝灰岩",
+        "柱状図"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g1-2022-tokushima-earth-38ab180/page-01.jpg",
+        "/previews/g1-2022-tokushima-earth-38ab180/page-02.jpg",
+        "/previews/g1-2022-tokushima-earth-38ab180/page-03.jpg",
+        "/previews/g1-2022-tokushima-earth-38ab180/page-04.jpg",
+        "/previews/g1-2022-tokushima-earth-38ab180/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-tokushima-earth-38ab180.pdf",
+      "pdfFileName": "2022年実施_徳島県_中1理科_地層と化石（示準化石・示相化石・堆積・凝灰岩・柱状図）.pdf",
+      "fileSize": 14406220
+    },
+    {
+      "id": "g1-2022-toyama-earth-dcea811",
+      "grade": 1,
+      "year": 2022,
+      "prefecture": "富山県",
+      "field": "地学",
+      "unit": "地震（初期微動・地震発生時刻・P波とS波・マグニチュード・海洋プレート）",
+      "shortUnit": "地震",
+      "tags": [
+        "初期微動",
+        "地震発生時刻",
+        "P波とS波",
+        "マグニチュード",
+        "海洋プレート"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2022-toyama-earth-dcea811/page-01.jpg",
+        "/previews/g1-2022-toyama-earth-dcea811/page-02.jpg",
+        "/previews/g1-2022-toyama-earth-dcea811/page-03.jpg",
+        "/previews/g1-2022-toyama-earth-dcea811/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-toyama-earth-dcea811.pdf",
+      "pdfFileName": "2022年実施_富山県_中1理科_地震（初期微動・地震発生時刻・P波とS波・マグニチュード・海洋プレート）.pdf",
+      "fileSize": 9118746
+    },
+    {
+      "id": "g1-2022-fukushima-earth-78b2d80",
+      "grade": 1,
+      "year": 2022,
+      "prefecture": "福島県",
+      "field": "地学",
+      "unit": "火成岩と地層（火成岩の組織・マグマの冷え方・堆積岩・土砂の運搬と堆積・プレートの沈み込みと山地形成）",
+      "shortUnit": "火成岩と地層",
+      "tags": [
+        "火成岩の組織",
+        "マグマの冷え方",
+        "堆積岩",
+        "土砂の運搬と堆積",
+        "プレートの沈み込みと山地形成"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2022-fukushima-earth-78b2d80/page-01.jpg",
+        "/previews/g1-2022-fukushima-earth-78b2d80/page-02.jpg",
+        "/previews/g1-2022-fukushima-earth-78b2d80/page-03.jpg",
+        "/previews/g1-2022-fukushima-earth-78b2d80/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-fukushima-earth-78b2d80.pdf",
+      "pdfFileName": "2022年実施_福島県_中1理科_火成岩と地層（火成岩の組織・マグマの冷え方・堆積岩・土砂の運搬と堆積・プレートの沈み込みと山地形成）.pdf",
+      "fileSize": 11379731
+    }
+  ]
+}

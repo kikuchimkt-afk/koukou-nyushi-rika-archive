@@ -1,0 +1,23 @@
+{
+  "name": "koukou-nyushi-rika-archive",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1 --port 3170",
+    "build": "next build",
+    "start": "next start --hostname 127.0.0.1 --port 3170",
+    "build-content": "node scripts/build-content.mjs",
+    "check-content": "node scripts/check-content.mjs"
+  },
+  "dependencies": {
+    "next": "^16.3.2",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@types/node": "^22.17.2",
+    "@types/react": "^19.1.10",
+    "@types/react-dom": "^19.1.7",
+    "typescript": "^5.9.2"
+  }
+}
