@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-23T05:14:06.055Z",
+  "generatedAt": "2026-08-23T06:34:23.595Z",
   "releaseTag": "pdfs-v1",
-  "totalItems": 72,
-  "totalPages": 321,
+  "totalItems": 88,
+  "totalPages": 395,
   "items": [
     {
       "id": "g1-2025-toyama-chemistry-a8e5b22",
@@ -372,6 +372,34 @@
       "fileSize": 10258011
     },
     {
+      "id": "g2-2024-iwate-biology-ae35ba4",
+      "grade": 2,
+      "year": 2024,
+      "prefecture": "岩手県",
+      "field": "生物",
+      "unit": "植物の体のつくりとはたらき（維管束・道管と師管・蒸散・気孔の分布・光と気孔の開閉・対照実験）",
+      "shortUnit": "植物の体のつくりとはたらき",
+      "tags": [
+        "維管束",
+        "道管と師管",
+        "蒸散",
+        "気孔の分布",
+        "光と気孔の開閉",
+        "対照実験"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2024-iwate-biology-ae35ba4/page-01.jpg",
+        "/previews/g2-2024-iwate-biology-ae35ba4/page-02.jpg",
+        "/previews/g2-2024-iwate-biology-ae35ba4/page-03.jpg",
+        "/previews/g2-2024-iwate-biology-ae35ba4/page-04.jpg",
+        "/previews/g2-2024-iwate-biology-ae35ba4/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2024-iwate-biology-ae35ba4.pdf",
+      "pdfFileName": "2024年実施_岩手県_中2理科_植物の体のつくりとはたらき（維管束・道管と師管・蒸散・気孔の分布・光と気孔の開閉・対照実験）.pdf",
+      "fileSize": 11478044
+    },
+    {
       "id": "g1-2024-mie-biology-a35515c",
       "grade": 1,
       "year": 2024,
@@ -395,6 +423,31 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-mie-biology-a35515c.pdf",
       "pdfFileName": "2024年実施_三重県_中1理科_動物の分類（セキツイ動物・無セキツイ動物・軟体動物・胎生）.pdf",
       "fileSize": 5568328
+    },
+    {
+      "id": "g2-2024-yamagata-biology-6a7ff3e",
+      "grade": 2,
+      "year": 2024,
+      "prefecture": "山形県",
+      "field": "生物",
+      "unit": "消化と吸収（だ液とアミラーゼ・ヨウ素液とベネジクト液・対照実験・小腸の柔毛）",
+      "shortUnit": "消化と吸収",
+      "tags": [
+        "だ液とアミラーゼ",
+        "ヨウ素液とベネジクト液",
+        "対照実験",
+        "小腸の柔毛"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2024-yamagata-biology-6a7ff3e/page-01.jpg",
+        "/previews/g2-2024-yamagata-biology-6a7ff3e/page-02.jpg",
+        "/previews/g2-2024-yamagata-biology-6a7ff3e/page-03.jpg",
+        "/previews/g2-2024-yamagata-biology-6a7ff3e/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2024-yamagata-biology-6a7ff3e.pdf",
+      "pdfFileName": "2024年実施_山形県_中2理科_消化と吸収（だ液とアミラーゼ・ヨウ素液とベネジクト液・対照実験・小腸の柔毛）.pdf",
+      "fileSize": 8988635
     },
     {
       "id": "g1-2024-yamagata-biology-426be91",
@@ -421,6 +474,59 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-yamagata-biology-426be91.pdf",
       "pdfFileName": "2024年実施_山形県_中1理科_動物の特徴と分類（セキツイ動物・無セキツイ動物・軟体動物・卵生と胎生）.pdf",
       "fileSize": 8648251
+    },
+    {
+      "id": "g2-2024-tokushima-biology-37897a5",
+      "grade": 2,
+      "year": 2024,
+      "prefecture": "徳島県",
+      "field": "生物",
+      "unit": "ヒトの体のつくりとはたらき（血液の成分・心室・肺循環と体循環・動脈と静脈・酸素の運搬）",
+      "shortUnit": "ヒトの体のつくりとはたらき",
+      "tags": [
+        "血液の成分",
+        "心室",
+        "肺循環と体循環",
+        "動脈と静脈",
+        "酸素の運搬"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2024-tokushima-biology-37897a5/page-01.jpg",
+        "/previews/g2-2024-tokushima-biology-37897a5/page-02.jpg",
+        "/previews/g2-2024-tokushima-biology-37897a5/page-03.jpg",
+        "/previews/g2-2024-tokushima-biology-37897a5/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2024-tokushima-biology-37897a5.pdf",
+      "pdfFileName": "2024年実施_徳島県_中2理科_ヒトの体のつくりとはたらき（血液の成分・心室・肺循環と体循環・動脈と静脈・酸素の運搬）.pdf",
+      "fileSize": 9353048
+    },
+    {
+      "id": "g2-2024-toyama-biology-029dace",
+      "grade": 2,
+      "year": 2024,
+      "prefecture": "富山県",
+      "field": "生物",
+      "unit": "動物の体のつくりとはたらき（刺激と反応・末しょう神経・脳とせきずい・反射・骨と筋肉・目のつくり）",
+      "shortUnit": "動物の体のつくりとはたらき",
+      "tags": [
+        "刺激と反応",
+        "末しょう神経",
+        "脳とせきずい",
+        "反射",
+        "骨と筋肉",
+        "目のつくり"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2024-toyama-biology-029dace/page-01.jpg",
+        "/previews/g2-2024-toyama-biology-029dace/page-02.jpg",
+        "/previews/g2-2024-toyama-biology-029dace/page-03.jpg",
+        "/previews/g2-2024-toyama-biology-029dace/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2024-toyama-biology-029dace.pdf",
+      "pdfFileName": "2024年実施_富山県_中2理科_動物の体のつくりとはたらき（刺激と反応・末しょう神経・脳とせきずい・反射・骨と筋肉・目のつくり）.pdf",
+      "fileSize": 10030392
     },
     {
       "id": "g1-2024-okinawa-earth-d5dd9f5",
@@ -810,6 +916,115 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2023-fukushima-chemistry-57779b2.pdf",
       "pdfFileName": "2023年実施_福島県_中1理科_水溶液と物質の性質（混合物・ろ過・プラスチック・密度・質量パーセント濃度）.pdf",
       "fileSize": 9831164
+    },
+    {
+      "id": "g2-2023-yamagata-biology-6ab9401",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "山形県",
+      "field": "生物",
+      "unit": "植物の体のつくりとはたらき（光合成・葉緑体・石灰水・二酸化炭素・光の条件・対照実験）",
+      "shortUnit": "植物の体のつくりとはたらき",
+      "tags": [
+        "光合成",
+        "葉緑体",
+        "石灰水",
+        "二酸化炭素",
+        "光の条件",
+        "対照実験"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2023-yamagata-biology-6ab9401/page-01.jpg",
+        "/previews/g2-2023-yamagata-biology-6ab9401/page-02.jpg",
+        "/previews/g2-2023-yamagata-biology-6ab9401/page-03.jpg",
+        "/previews/g2-2023-yamagata-biology-6ab9401/page-04.jpg",
+        "/previews/g2-2023-yamagata-biology-6ab9401/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2023-yamagata-biology-6ab9401.pdf",
+      "pdfFileName": "2023年実施_山形県_中2理科_植物の体のつくりとはたらき（光合成・葉緑体・石灰水・二酸化炭素・光の条件・対照実験）.pdf",
+      "fileSize": 11420820
+    },
+    {
+      "id": "g2-2023-akita-biology-ee3b54c",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "秋田県",
+      "field": "生物",
+      "unit": "消化と吸収（だ液とアミラーゼ・ヨウ素液とベネジクト液・タンパク質の消化・小腸の柔毛）",
+      "shortUnit": "消化と吸収",
+      "tags": [
+        "だ液とアミラーゼ",
+        "ヨウ素液とベネジクト液",
+        "タンパク質の消化",
+        "小腸の柔毛"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2023-akita-biology-ee3b54c/page-01.jpg",
+        "/previews/g2-2023-akita-biology-ee3b54c/page-02.jpg",
+        "/previews/g2-2023-akita-biology-ee3b54c/page-03.jpg",
+        "/previews/g2-2023-akita-biology-ee3b54c/page-04.jpg",
+        "/previews/g2-2023-akita-biology-ee3b54c/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2023-akita-biology-ee3b54c.pdf",
+      "pdfFileName": "2023年実施_秋田県_中2理科_消化と吸収（だ液とアミラーゼ・ヨウ素液とベネジクト液・タンパク質の消化・小腸の柔毛）.pdf",
+      "fileSize": 9966694
+    },
+    {
+      "id": "g2-2023-toyama-biology-abe1861",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "富山県",
+      "field": "生物",
+      "unit": "ヒトの呼吸と血液循環（肺のモデル・横隔膜・心臓のつくり・動脈血と静脈血・ヘモグロビン・細胞の呼吸）",
+      "shortUnit": "ヒトの呼吸と血液循環",
+      "tags": [
+        "肺のモデル",
+        "横隔膜",
+        "心臓のつくり",
+        "動脈血と静脈血",
+        "ヘモグロビン",
+        "細胞の呼吸"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2023-toyama-biology-abe1861/page-01.jpg",
+        "/previews/g2-2023-toyama-biology-abe1861/page-02.jpg",
+        "/previews/g2-2023-toyama-biology-abe1861/page-03.jpg",
+        "/previews/g2-2023-toyama-biology-abe1861/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2023-toyama-biology-abe1861.pdf",
+      "pdfFileName": "2023年実施_富山県_中2理科_ヒトの呼吸と血液循環（肺のモデル・横隔膜・心臓のつくり・動脈血と静脈血・ヘモグロビン・細胞の呼吸）.pdf",
+      "fileSize": 11637299
+    },
+    {
+      "id": "g2-2023-hokkaido-biology-98c3a34",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "北海道",
+      "field": "生物",
+      "unit": "呼吸のしくみ（肺胞・呼吸回数・肺のモデル・横隔膜・酸素と血液・細胞の呼吸）",
+      "shortUnit": "呼吸のしくみ",
+      "tags": [
+        "肺胞",
+        "呼吸回数",
+        "肺のモデル",
+        "横隔膜",
+        "酸素と血液",
+        "細胞の呼吸"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2023-hokkaido-biology-98c3a34/page-01.jpg",
+        "/previews/g2-2023-hokkaido-biology-98c3a34/page-02.jpg",
+        "/previews/g2-2023-hokkaido-biology-98c3a34/page-03.jpg",
+        "/previews/g2-2023-hokkaido-biology-98c3a34/page-04.jpg",
+        "/previews/g2-2023-hokkaido-biology-98c3a34/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2023-hokkaido-biology-98c3a34.pdf",
+      "pdfFileName": "2023年実施_北海道_中2理科_呼吸のしくみ（肺胞・呼吸回数・肺のモデル・横隔膜・酸素と血液・細胞の呼吸）.pdf",
+      "fileSize": 12561802
     },
     {
       "id": "g1-2023-yamagata-earth-17357d5",
@@ -1257,6 +1472,117 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-fukushima-chemistry-7415af0.pdf",
       "pdfFileName": "2022年実施_福島県_中1理科_水溶液（溶質・溶媒・溶解度・飽和水溶液・質量パーセント濃度・再結晶）.pdf",
       "fileSize": 10145171
+    },
+    {
+      "id": "g2-2022-gunma-biology-22ed663",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "群馬県",
+      "field": "生物",
+      "unit": "光合成と呼吸（葉緑体・BTB溶液・二酸化炭素・対照実験・光合成量と呼吸量）",
+      "shortUnit": "光合成と呼吸",
+      "tags": [
+        "葉緑体",
+        "BTB溶液",
+        "二酸化炭素",
+        "対照実験",
+        "光合成量と呼吸量"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2022-gunma-biology-22ed663/page-01.jpg",
+        "/previews/g2-2022-gunma-biology-22ed663/page-02.jpg",
+        "/previews/g2-2022-gunma-biology-22ed663/page-03.jpg",
+        "/previews/g2-2022-gunma-biology-22ed663/page-04.jpg",
+        "/previews/g2-2022-gunma-biology-22ed663/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2022-gunma-biology-22ed663.pdf",
+      "pdfFileName": "2022年実施_群馬県_中2理科_光合成と呼吸（葉緑体・BTB溶液・二酸化炭素・対照実験・光合成量と呼吸量）.pdf",
+      "fileSize": 8870410
+    },
+    {
+      "id": "g2-2022-aomori-biology-f6f8acb",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "青森県",
+      "field": "生物",
+      "unit": "消化と吸収（対照実験・だ液・消化酵素・アミラーゼ・ブドウ糖・小腸の柔毛・肝臓）",
+      "shortUnit": "消化と吸収",
+      "tags": [
+        "対照実験",
+        "だ液",
+        "消化酵素",
+        "アミラーゼ",
+        "ブドウ糖",
+        "小腸の柔毛",
+        "肝臓"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2022-aomori-biology-f6f8acb/page-01.jpg",
+        "/previews/g2-2022-aomori-biology-f6f8acb/page-02.jpg",
+        "/previews/g2-2022-aomori-biology-f6f8acb/page-03.jpg",
+        "/previews/g2-2022-aomori-biology-f6f8acb/page-04.jpg",
+        "/previews/g2-2022-aomori-biology-f6f8acb/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2022-aomori-biology-f6f8acb.pdf",
+      "pdfFileName": "2022年実施_青森県_中2理科_消化と吸収（対照実験・だ液・消化酵素・アミラーゼ・ブドウ糖・小腸の柔毛・肝臓）.pdf",
+      "fileSize": 12068564
+    },
+    {
+      "id": "g2-2022-tokushima-biology-02a9754",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "徳島県",
+      "field": "生物",
+      "unit": "刺激と反応（末しょう神経・脳とせきずい・反応時間・刺激の伝わり方・反射）",
+      "shortUnit": "刺激と反応",
+      "tags": [
+        "末しょう神経",
+        "脳とせきずい",
+        "反応時間",
+        "刺激の伝わり方",
+        "反射"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2022-tokushima-biology-02a9754/page-01.jpg",
+        "/previews/g2-2022-tokushima-biology-02a9754/page-02.jpg",
+        "/previews/g2-2022-tokushima-biology-02a9754/page-03.jpg",
+        "/previews/g2-2022-tokushima-biology-02a9754/page-04.jpg",
+        "/previews/g2-2022-tokushima-biology-02a9754/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2022-tokushima-biology-02a9754.pdf",
+      "pdfFileName": "2022年実施_徳島県_中2理科_刺激と反応（末しょう神経・脳とせきずい・反応時間・刺激の伝わり方・反射）.pdf",
+      "fileSize": 8779943
+    },
+    {
+      "id": "g2-2022-hokkaido-biology-72cd387",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "北海道",
+      "field": "生物",
+      "unit": "植物の体のつくりとはたらき（維管束・道管・茎のつくり・蒸散・気孔・光と蒸散量）",
+      "shortUnit": "植物の体のつくりとはたらき",
+      "tags": [
+        "維管束",
+        "道管",
+        "茎のつくり",
+        "蒸散",
+        "気孔",
+        "光と蒸散量"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2022-hokkaido-biology-72cd387/page-01.jpg",
+        "/previews/g2-2022-hokkaido-biology-72cd387/page-02.jpg",
+        "/previews/g2-2022-hokkaido-biology-72cd387/page-03.jpg",
+        "/previews/g2-2022-hokkaido-biology-72cd387/page-04.jpg",
+        "/previews/g2-2022-hokkaido-biology-72cd387/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2022-hokkaido-biology-72cd387.pdf",
+      "pdfFileName": "2022年実施_北海道_中2理科_植物の体のつくりとはたらき（維管束・道管・茎のつくり・蒸散・気孔・光と蒸散量）.pdf",
+      "fileSize": 12128279
     },
     {
       "id": "g1-2022-ibaraki-earth-cf75226",
@@ -1738,6 +2064,60 @@
       "fileSize": 7549886
     },
     {
+      "id": "g2-2021-tochigi-biology-1e21124",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "栃木県",
+      "field": "生物",
+      "unit": "植物の体のつくりとはたらき（維管束・道管と師管・蒸散・気孔・葉の表裏・光と蒸散量）",
+      "shortUnit": "植物の体のつくりとはたらき",
+      "tags": [
+        "維管束",
+        "道管と師管",
+        "蒸散",
+        "気孔",
+        "葉の表裏",
+        "光と蒸散量"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2021-tochigi-biology-1e21124/page-01.jpg",
+        "/previews/g2-2021-tochigi-biology-1e21124/page-02.jpg",
+        "/previews/g2-2021-tochigi-biology-1e21124/page-03.jpg",
+        "/previews/g2-2021-tochigi-biology-1e21124/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2021-tochigi-biology-1e21124.pdf",
+      "pdfFileName": "2021年実施_栃木県_中2理科_植物の体のつくりとはたらき（維管束・道管と師管・蒸散・気孔・葉の表裏・光と蒸散量）.pdf",
+      "fileSize": 7184984
+    },
+    {
+      "id": "g2-2021-toyama-biology-e815b74",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "富山県",
+      "field": "生物",
+      "unit": "消化と吸収（だ液・アミラーゼ・ヨウ素液とベネジクト液・対照実験・小腸の柔毛）",
+      "shortUnit": "消化と吸収",
+      "tags": [
+        "だ液",
+        "アミラーゼ",
+        "ヨウ素液とベネジクト液",
+        "対照実験",
+        "小腸の柔毛"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2021-toyama-biology-e815b74/page-01.jpg",
+        "/previews/g2-2021-toyama-biology-e815b74/page-02.jpg",
+        "/previews/g2-2021-toyama-biology-e815b74/page-03.jpg",
+        "/previews/g2-2021-toyama-biology-e815b74/page-04.jpg",
+        "/previews/g2-2021-toyama-biology-e815b74/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2021-toyama-biology-e815b74.pdf",
+      "pdfFileName": "2021年実施_富山県_中2理科_消化と吸収（だ液・アミラーゼ・ヨウ素液とベネジクト液・対照実験・小腸の柔毛）.pdf",
+      "fileSize": 13595835
+    },
+    {
       "id": "g1-2021-fukuoka-biology-e09d8dd",
       "grade": 1,
       "year": 2021,
@@ -1763,6 +2143,59 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2021-fukuoka-biology-e09d8dd.pdf",
       "pdfFileName": "2021年実施_福岡県_中1理科_動物の分類（セキツイ動物5類・呼吸・卵生と胎生・恒温動物・節足動物・軟体動物）.pdf",
       "fileSize": 6888894
+    },
+    {
+      "id": "g2-2021-fukushima-biology-5fcc97d",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "福島県",
+      "field": "生物",
+      "unit": "植物の体のつくりとはたらき（気孔・蒸散・塩化コバルト紙・葉の表裏・吸水）",
+      "shortUnit": "植物の体のつくりとはたらき",
+      "tags": [
+        "気孔",
+        "蒸散",
+        "塩化コバルト紙",
+        "葉の表裏",
+        "吸水"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2021-fukushima-biology-5fcc97d/page-01.jpg",
+        "/previews/g2-2021-fukushima-biology-5fcc97d/page-02.jpg",
+        "/previews/g2-2021-fukushima-biology-5fcc97d/page-03.jpg",
+        "/previews/g2-2021-fukushima-biology-5fcc97d/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2021-fukushima-biology-5fcc97d.pdf",
+      "pdfFileName": "2021年実施_福島県_中2理科_植物の体のつくりとはたらき（気孔・蒸散・塩化コバルト紙・葉の表裏・吸水）.pdf",
+      "fileSize": 8363424
+    },
+    {
+      "id": "g2-2021-hokkaido-biology-9ad3332",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "北海道",
+      "field": "生物",
+      "unit": "消化酵素のはたらき（アミラーゼ・タンパク質分解酵素・ヨウ素液・ベネジクト液・対照実験）",
+      "shortUnit": "消化酵素のはたらき",
+      "tags": [
+        "アミラーゼ",
+        "タンパク質分解酵素",
+        "ヨウ素液",
+        "ベネジクト液",
+        "対照実験"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2021-hokkaido-biology-9ad3332/page-01.jpg",
+        "/previews/g2-2021-hokkaido-biology-9ad3332/page-02.jpg",
+        "/previews/g2-2021-hokkaido-biology-9ad3332/page-03.jpg",
+        "/previews/g2-2021-hokkaido-biology-9ad3332/page-04.jpg",
+        "/previews/g2-2021-hokkaido-biology-9ad3332/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2021-hokkaido-biology-9ad3332.pdf",
+      "pdfFileName": "2021年実施_北海道_中2理科_消化酵素のはたらき（アミラーゼ・タンパク質分解酵素・ヨウ素液・ベネジクト液・対照実験）.pdf",
+      "fileSize": 18455684
     },
     {
       "id": "g1-2020-nagasaki-biology-a368092",
