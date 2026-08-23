@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-23T04:33:53.516Z",
+  "generatedAt": "2026-08-23T05:14:06.055Z",
   "releaseTag": "pdfs-v1",
-  "totalItems": 68,
-  "totalPages": 303,
+  "totalItems": 72,
+  "totalPages": 321,
   "items": [
     {
       "id": "g1-2025-toyama-chemistry-a8e5b22",
@@ -31,6 +31,33 @@
       "fileSize": 8914015
     },
     {
+      "id": "g2-2025-yamagata-biology-557d62a",
+      "grade": 2,
+      "year": 2025,
+      "prefecture": "山形県",
+      "field": "生物",
+      "unit": "植物の体のつくりとはたらき（維管束と道管・葉脈・双子葉類・気孔・蒸散・対照実験）",
+      "shortUnit": "植物の体のつくりとはたらき",
+      "tags": [
+        "維管束と道管",
+        "葉脈",
+        "双子葉類",
+        "気孔",
+        "蒸散",
+        "対照実験"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2025-yamagata-biology-557d62a/page-01.jpg",
+        "/previews/g2-2025-yamagata-biology-557d62a/page-02.jpg",
+        "/previews/g2-2025-yamagata-biology-557d62a/page-03.jpg",
+        "/previews/g2-2025-yamagata-biology-557d62a/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2025-yamagata-biology-557d62a.pdf",
+      "pdfFileName": "2025年実施_山形県_中2理科_植物の体のつくりとはたらき（維管束と道管・葉脈・双子葉類・気孔・蒸散・対照実験）.pdf",
+      "fileSize": 9644736
+    },
+    {
       "id": "g1-2025-yamaguchi-biology-33ced11",
       "grade": 1,
       "year": 2025,
@@ -55,6 +82,87 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2025-yamaguchi-biology-33ced11.pdf",
       "pdfFileName": "2025年実施_山口県_中1理科_動物の分類（セキツイ動物・無セキツイ動物・呼吸・体表・相同器官と進化）.pdf",
       "fileSize": 7864680
+    },
+    {
+      "id": "g2-2025-tokushima-biology-3b02d06",
+      "grade": 2,
+      "year": 2025,
+      "prefecture": "徳島県",
+      "field": "生物",
+      "unit": "消化と吸収（消化酵素・ヨウ素溶液とベネジクト液・セロハンチューブ・栄養素の分解・小腸の柔毛）",
+      "shortUnit": "消化と吸収",
+      "tags": [
+        "消化酵素",
+        "ヨウ素溶液とベネジクト液",
+        "セロハンチューブ",
+        "栄養素の分解",
+        "小腸の柔毛"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2025-tokushima-biology-3b02d06/page-01.jpg",
+        "/previews/g2-2025-tokushima-biology-3b02d06/page-02.jpg",
+        "/previews/g2-2025-tokushima-biology-3b02d06/page-03.jpg",
+        "/previews/g2-2025-tokushima-biology-3b02d06/page-04.jpg",
+        "/previews/g2-2025-tokushima-biology-3b02d06/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2025-tokushima-biology-3b02d06.pdf",
+      "pdfFileName": "2025年実施_徳島県_中2理科_消化と吸収（消化酵素・ヨウ素溶液とベネジクト液・セロハンチューブ・栄養素の分解・小腸の柔毛）.pdf",
+      "fileSize": 13150433
+    },
+    {
+      "id": "g2-2025-toyama-biology-b3931c8",
+      "grade": 2,
+      "year": 2025,
+      "prefecture": "富山県",
+      "field": "生物",
+      "unit": "動物の体のつくりとはたらき（排出・肝臓と腎臓・肺胞・ガス交換・肺循環・呼吸量）",
+      "shortUnit": "動物の体のつくりとはたらき",
+      "tags": [
+        "排出",
+        "肝臓と腎臓",
+        "肺胞",
+        "ガス交換",
+        "肺循環",
+        "呼吸量"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2025-toyama-biology-b3931c8/page-01.jpg",
+        "/previews/g2-2025-toyama-biology-b3931c8/page-02.jpg",
+        "/previews/g2-2025-toyama-biology-b3931c8/page-03.jpg",
+        "/previews/g2-2025-toyama-biology-b3931c8/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2025-toyama-biology-b3931c8.pdf",
+      "pdfFileName": "2025年実施_富山県_中2理科_動物の体のつくりとはたらき（排出・肝臓と腎臓・肺胞・ガス交換・肺循環・呼吸量）.pdf",
+      "fileSize": 9510666
+    },
+    {
+      "id": "g2-2025-fukushima-biology-e54bd3f",
+      "grade": 2,
+      "year": 2025,
+      "prefecture": "福島県",
+      "field": "生物",
+      "unit": "消化と吸収（だ液とアミラーゼ・ヨウ素液とベネジクト液・対照実験・粒子の大きさ・小腸での吸収）",
+      "shortUnit": "消化と吸収",
+      "tags": [
+        "だ液とアミラーゼ",
+        "ヨウ素液とベネジクト液",
+        "対照実験",
+        "粒子の大きさ",
+        "小腸での吸収"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2025-fukushima-biology-e54bd3f/page-01.jpg",
+        "/previews/g2-2025-fukushima-biology-e54bd3f/page-02.jpg",
+        "/previews/g2-2025-fukushima-biology-e54bd3f/page-03.jpg",
+        "/previews/g2-2025-fukushima-biology-e54bd3f/page-04.jpg",
+        "/previews/g2-2025-fukushima-biology-e54bd3f/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2025-fukushima-biology-e54bd3f.pdf",
+      "pdfFileName": "2025年実施_福島県_中2理科_消化と吸収（だ液とアミラーゼ・ヨウ素液とベネジクト液・対照実験・粒子の大きさ・小腸での吸収）.pdf",
+      "fileSize": 10968266
     },
     {
       "id": "g1-2025-yamagata-earth-f356357",
@@ -286,7 +394,7 @@
       ],
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-mie-biology-a35515c.pdf",
       "pdfFileName": "2024年実施_三重県_中1理科_動物の分類（セキツイ動物・無セキツイ動物・軟体動物・胎生）.pdf",
-      "fileSize": 5641313
+      "fileSize": 5568328
     },
     {
       "id": "g1-2024-yamagata-biology-426be91",
@@ -312,7 +420,7 @@
       ],
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-yamagata-biology-426be91.pdf",
       "pdfFileName": "2024年実施_山形県_中1理科_動物の特徴と分類（セキツイ動物・無セキツイ動物・軟体動物・卵生と胎生）.pdf",
-      "fileSize": 8732095
+      "fileSize": 8648251
     },
     {
       "id": "g1-2024-okinawa-earth-d5dd9f5",
@@ -1681,7 +1789,7 @@
       ],
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2020-nagasaki-biology-a368092.pdf",
       "pdfFileName": "2020年実施_長崎県_中1理科_植物の体のつくりと分類・生殖（裸子植物と被子植物・双子葉類・シダ植物とコケ植物・維管束・仮根・花粉管と受精）.pdf",
-      "fileSize": 7558980
+      "fileSize": 7334457
     },
     {
       "id": "g1-2020-tochigi-biology-67a80db",

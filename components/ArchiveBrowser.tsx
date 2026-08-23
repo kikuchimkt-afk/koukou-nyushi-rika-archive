@@ -9,6 +9,7 @@ type Props = { data: ArchiveData };
 
 type Filters = {
   q: string;
+  grade: string;
   field: "" | ScienceField;
   year: string;
   prefecture: string;
@@ -20,7 +21,7 @@ type BundleState = {
   message: string;
 };
 
-const EMPTY_FILTERS: Filters = { q: "", field: "", year: "", prefecture: "" };
+const EMPTY_FILTERS: Filters = { q: "", grade: "", field: "", year: "", prefecture: "" };
 const EMPTY_BUNDLE_STATE: BundleState = { status: "idle", progress: 0, message: "" };
 const STICKY_STORAGE_KEY = "science-archive-sticky-v1";
 const PDF_CHUNK_SIZE = 3 * 1024 * 1024;
@@ -84,16 +85,26 @@ export function ArchiveBrowser({ data }: Props) {
     [data.items],
   );
 
-  const fieldCounts = useMemo(() => {
-    const counts = new Map<ScienceField, number>(FIELDS.map((field) => [field, 0]));
-    for (const item of data.items) counts.set(item.field, (counts.get(item.field) || 0) + 1);
+  const gradeCounts = useMemo(() => {
+    const counts = new Map<number, number>([[1, 0], [2, 0], [3, 0]]);
+    for (const item of data.items) counts.set(item.grade, (counts.get(item.grade) || 0) + 1);
     return counts;
   }, [data.items]);
+
+  const fieldCounts = useMemo(() => {
+    const counts = new Map<ScienceField, number>(FIELDS.map((field) => [field, 0]));
+    for (const item of data.items) {
+      if (filters.grade && item.grade !== Number(filters.grade)) continue;
+      counts.set(item.field, (counts.get(item.field) || 0) + 1);
+    }
+    return counts;
+  }, [data.items, filters.grade]);
 
   const filtered = useMemo(() => {
     const q = normalize(filters.q);
     return data.items
       .filter((item) => {
+        if (filters.grade && item.grade !== Number(filters.grade)) return false;
         if (filters.field && item.field !== filters.field) return false;
         if (filters.year && item.year !== Number(filters.year)) return false;
         if (filters.prefecture && item.prefecture !== filters.prefecture) return false;
@@ -182,7 +193,7 @@ export function ArchiveBrowser({ data }: Props) {
 
     try {
       const mergedPdf = await PDFDocument.create();
-      mergedPdf.setTitle(`高校入試 中1理科 選定問題 ${snapshot.length}題`);
+      mergedPdf.setTitle(`高校入試 理科 選定問題 ${snapshot.length}題`);
       mergedPdf.setSubject(snapshot.map((item) => `${item.year}年 ${item.prefecture} ${item.shortUnit}`).join(" / "));
 
       for (let itemIndex = 0; itemIndex < snapshot.length; itemIndex += 1) {
@@ -231,7 +242,7 @@ export function ArchiveBrowser({ data }: Props) {
       const url = URL.createObjectURL(mergedBlob);
       const anchor = document.createElement("a");
       anchor.href = url;
-      anchor.download = `中1理科_選定問題_${dateStamp()}_${snapshot.length}題_結合版.pdf`;
+      anchor.download = `高校入試理科_選定問題_${dateStamp()}_${snapshot.length}題_結合版.pdf`;
       document.body.appendChild(anchor);
       anchor.click();
       anchor.remove();
@@ -266,7 +277,7 @@ export function ArchiveBrowser({ data }: Props) {
         <div className="hero-overlay" />
         <div className="hero-content shell">
           <p className="eyebrow">SCIENCE ENTRANCE EXAM ARCHIVE</p>
-          <div className="hero-grade"><span>中1</span> 物理・化学・地学・生物</div>
+          <div className="hero-grade"><span>中1・中2</span> 物理・化学・地学・生物</div>
           <h1 className="app-title">SCIENTIA<span>スキエンティア</span></h1>
           <p className="hero-copy">
             高校入試の理科大問を、単元別に整理しました。PDFを開く前に全ページを画像で確認でき、問題選定を短時間で進められます。
@@ -289,14 +300,25 @@ export function ArchiveBrowser({ data }: Props) {
             <p className="eyebrow">GRADE</p>
             <h2 id="grade-title">学年を選ぶ</h2>
           </div>
-          <p>同じ画面構成のまま、中2・中3を追加できます。</p>
+          <p>学年を切り替えて、授業に合う大問を探せます。</p>
         </div>
         <div className="grade-tabs">
-          <button className="grade-tab is-active" type="button" aria-pressed="true">
-            <span>中学1年</span><strong>{data.totalItems}題</strong>
-          </button>
-          <button className="grade-tab" type="button" disabled><span>中学2年</span><strong>準備中</strong></button>
-          <button className="grade-tab" type="button" disabled><span>中学3年</span><strong>準備中</strong></button>
+          {[1, 2, 3].map((grade) => {
+            const count = gradeCounts.get(grade) || 0;
+            const active = filters.grade === String(grade);
+            return (
+              <button
+                className={`grade-tab ${active ? "is-active" : ""}`}
+                type="button"
+                key={grade}
+                aria-pressed={active}
+                disabled={!count}
+                onClick={() => setFilter("grade", active ? "" : String(grade))}
+              >
+                <span>中学{grade}年</span><strong>{count ? `${count}題` : "準備中"}</strong>
+              </button>
+            );
+          })}
         </div>
       </section>
 
@@ -306,7 +328,7 @@ export function ArchiveBrowser({ data }: Props) {
             <p className="eyebrow">FIELDS</p>
             <h2 id="fields-title">4分野から選ぶ</h2>
           </div>
-          <p>太字の解説見出しと全設問を確認し、中1範囲で構成される独立大問を収録しています。</p>
+          <p>太字の解説見出しと全設問を確認し、学年範囲で構成される独立大問を収録しています。</p>
         </div>
         <div className="field-grid">
           {FIELDS.map((field) => {
@@ -351,7 +373,7 @@ export function ArchiveBrowser({ data }: Props) {
           <FilterSelect label="分野" value={filters.field} onChange={(value) => setFilter("field", value)} options={FIELDS.map((field) => ({ value: field, label: `${field}（${fieldCounts.get(field)}）` }))} />
           <FilterSelect label="実施年" value={filters.year} onChange={(value) => setFilter("year", value)} options={years.map((year) => ({ value: String(year), label: `${year}年` }))} />
           <FilterSelect label="都道府県" value={filters.prefecture} onChange={(value) => setFilter("prefecture", value)} options={prefectures.map((prefecture) => ({ value: prefecture, label: prefecture }))} />
-          <button className="clear-button" type="button" onClick={() => setFilters(EMPTY_FILTERS)} disabled={!filters.q && !filters.field && !filters.year && !filters.prefecture}>条件をクリア</button>
+          <button className="clear-button" type="button" onClick={() => setFilters(EMPTY_FILTERS)} disabled={!filters.q && !filters.grade && !filters.field && !filters.year && !filters.prefecture}>条件をクリア</button>
         </div>
 
         <div className="results-bar">
