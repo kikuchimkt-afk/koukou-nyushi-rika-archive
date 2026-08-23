@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-23T06:34:23.595Z",
-  "releaseTag": "pdfs-v1",
-  "totalItems": 88,
-  "totalPages": 395,
+  "generatedAt": "2026-08-23T23:30:21.847Z",
+  "releaseTag": "pdfs-v2",
+  "totalItems": 146,
+  "totalPages": 667,
   "items": [
     {
       "id": "g1-2025-toyama-chemistry-a8e5b22",
@@ -26,7 +26,7 @@
         "/previews/g1-2025-toyama-chemistry-a8e5b22/page-03.jpg",
         "/previews/g1-2025-toyama-chemistry-a8e5b22/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2025-toyama-chemistry-a8e5b22.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2025-toyama-chemistry-a8e5b22.pdf",
       "pdfFileName": "2025年実施_富山県_中1理科_状態変化と物質の性質（粒子モデル・融点・密度・体積と質量・浮き沈み）.pdf",
       "fileSize": 8914015
     },
@@ -53,9 +53,9 @@
         "/previews/g2-2025-yamagata-biology-557d62a/page-03.jpg",
         "/previews/g2-2025-yamagata-biology-557d62a/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2025-yamagata-biology-557d62a.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2025-yamagata-biology-557d62a.pdf",
       "pdfFileName": "2025年実施_山形県_中2理科_植物の体のつくりとはたらき（維管束と道管・葉脈・双子葉類・気孔・蒸散・対照実験）.pdf",
-      "fileSize": 9644736
+      "fileSize": 9834318
     },
     {
       "id": "g1-2025-yamaguchi-biology-33ced11",
@@ -79,7 +79,7 @@
         "/previews/g1-2025-yamaguchi-biology-33ced11/page-03.jpg",
         "/previews/g1-2025-yamaguchi-biology-33ced11/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2025-yamaguchi-biology-33ced11.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2025-yamaguchi-biology-33ced11.pdf",
       "pdfFileName": "2025年実施_山口県_中1理科_動物の分類（セキツイ動物・無セキツイ動物・呼吸・体表・相同器官と進化）.pdf",
       "fileSize": 7864680
     },
@@ -106,9 +106,9 @@
         "/previews/g2-2025-tokushima-biology-3b02d06/page-04.jpg",
         "/previews/g2-2025-tokushima-biology-3b02d06/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2025-tokushima-biology-3b02d06.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2025-tokushima-biology-3b02d06.pdf",
       "pdfFileName": "2025年実施_徳島県_中2理科_消化と吸収（消化酵素・ヨウ素溶液とベネジクト液・セロハンチューブ・栄養素の分解・小腸の柔毛）.pdf",
-      "fileSize": 13150433
+      "fileSize": 13632847
     },
     {
       "id": "g2-2025-toyama-biology-b3931c8",
@@ -133,9 +133,9 @@
         "/previews/g2-2025-toyama-biology-b3931c8/page-03.jpg",
         "/previews/g2-2025-toyama-biology-b3931c8/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2025-toyama-biology-b3931c8.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2025-toyama-biology-b3931c8.pdf",
       "pdfFileName": "2025年実施_富山県_中2理科_動物の体のつくりとはたらき（排出・肝臓と腎臓・肺胞・ガス交換・肺循環・呼吸量）.pdf",
-      "fileSize": 9510666
+      "fileSize": 10099456
     },
     {
       "id": "g2-2025-fukushima-biology-e54bd3f",
@@ -160,9 +160,9 @@
         "/previews/g2-2025-fukushima-biology-e54bd3f/page-04.jpg",
         "/previews/g2-2025-fukushima-biology-e54bd3f/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2025-fukushima-biology-e54bd3f.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2025-fukushima-biology-e54bd3f.pdf",
       "pdfFileName": "2025年実施_福島県_中2理科_消化と吸収（だ液とアミラーゼ・ヨウ素液とベネジクト液・対照実験・粒子の大きさ・小腸での吸収）.pdf",
-      "fileSize": 10968266
+      "fileSize": 10901426
     },
     {
       "id": "g1-2025-yamagata-earth-f356357",
@@ -186,7 +186,7 @@
         "/previews/g1-2025-yamagata-earth-f356357/page-03.jpg",
         "/previews/g1-2025-yamagata-earth-f356357/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2025-yamagata-earth-f356357.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2025-yamagata-earth-f356357.pdf",
       "pdfFileName": "2025年実施_山形県_中1理科_火山活動と火成岩（花こう岩・玄武岩・等粒状組織・風化・ルーペの使い方）.pdf",
       "fileSize": 10591102
     },
@@ -210,9 +210,115 @@
         "/previews/g1-2025-yamaguchi-earth-645c578/page-03.jpg",
         "/previews/g1-2025-yamaguchi-earth-645c578/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2025-yamaguchi-earth-645c578.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2025-yamaguchi-earth-645c578.pdf",
       "pdfFileName": "2025年実施_山口県_中1理科_地層（しゅう曲・示相化石・地層の堆積環境）.pdf",
       "fileSize": 5094174
+    },
+    {
+      "id": "g2-2025-yamaguchi-earth-963c5f7",
+      "grade": 2,
+      "year": 2025,
+      "prefecture": "山口県",
+      "field": "地学",
+      "unit": "天気の変化（気象観測・前線・天気図・気圧配置）",
+      "shortUnit": "天気の変化",
+      "tags": [
+        "気象観測",
+        "前線",
+        "天気図",
+        "気圧配置"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2025-yamaguchi-earth-963c5f7/page-01.jpg",
+        "/previews/g2-2025-yamaguchi-earth-963c5f7/page-02.jpg",
+        "/previews/g2-2025-yamaguchi-earth-963c5f7/page-03.jpg",
+        "/previews/g2-2025-yamaguchi-earth-963c5f7/page-04.jpg",
+        "/previews/g2-2025-yamaguchi-earth-963c5f7/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2025-yamaguchi-earth-963c5f7.pdf",
+      "pdfFileName": "2025年実施_山口県_中2理科_天気の変化（気象観測・前線・天気図・気圧配置）.pdf",
+      "fileSize": 10188578
+    },
+    {
+      "id": "g2-2025-tokushima-earth-01b29e9",
+      "grade": 2,
+      "year": 2025,
+      "prefecture": "徳島県",
+      "field": "地学",
+      "unit": "大気中の水蒸気（露点・飽和水蒸気量・湿度・雲の発生）",
+      "shortUnit": "大気中の水蒸気",
+      "tags": [
+        "露点",
+        "飽和水蒸気量",
+        "湿度",
+        "雲の発生"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2025-tokushima-earth-01b29e9/page-01.jpg",
+        "/previews/g2-2025-tokushima-earth-01b29e9/page-02.jpg",
+        "/previews/g2-2025-tokushima-earth-01b29e9/page-03.jpg",
+        "/previews/g2-2025-tokushima-earth-01b29e9/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2025-tokushima-earth-01b29e9.pdf",
+      "pdfFileName": "2025年実施_徳島県_中2理科_大気中の水蒸気（露点・飽和水蒸気量・湿度・雲の発生）.pdf",
+      "fileSize": 12591423
+    },
+    {
+      "id": "g2-2025-toyama-earth-59621ca",
+      "grade": 2,
+      "year": 2025,
+      "prefecture": "富山県",
+      "field": "地学",
+      "unit": "天気の変化（気圧・前線・天気図・風向・湿度）",
+      "shortUnit": "天気の変化",
+      "tags": [
+        "気圧",
+        "前線",
+        "天気図",
+        "風向",
+        "湿度"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2025-toyama-earth-59621ca/page-01.jpg",
+        "/previews/g2-2025-toyama-earth-59621ca/page-02.jpg",
+        "/previews/g2-2025-toyama-earth-59621ca/page-03.jpg",
+        "/previews/g2-2025-toyama-earth-59621ca/page-04.jpg",
+        "/previews/g2-2025-toyama-earth-59621ca/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2025-toyama-earth-59621ca.pdf",
+      "pdfFileName": "2025年実施_富山県_中2理科_天気の変化（気圧・前線・天気図・風向・湿度）.pdf",
+      "fileSize": 12403260
+    },
+    {
+      "id": "g2-2025-fukushima-earth-e126903",
+      "grade": 2,
+      "year": 2025,
+      "prefecture": "福島県",
+      "field": "地学",
+      "unit": "気象の変化（天気図・台風・停滞前線・季節風・積乱雲・風向）",
+      "shortUnit": "気象の変化",
+      "tags": [
+        "天気図",
+        "台風",
+        "停滞前線",
+        "季節風",
+        "積乱雲",
+        "風向"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2025-fukushima-earth-e126903/page-01.jpg",
+        "/previews/g2-2025-fukushima-earth-e126903/page-02.jpg",
+        "/previews/g2-2025-fukushima-earth-e126903/page-03.jpg",
+        "/previews/g2-2025-fukushima-earth-e126903/page-04.jpg",
+        "/previews/g2-2025-fukushima-earth-e126903/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2025-fukushima-earth-e126903.pdf",
+      "pdfFileName": "2025年実施_福島県_中2理科_気象の変化（天気図・台風・停滞前線・季節風・積乱雲・風向）.pdf",
+      "fileSize": 10783573
     },
     {
       "id": "g1-2025-fukushima-earth-406cc4a",
@@ -238,7 +344,7 @@
         "/previews/g1-2025-fukushima-earth-406cc4a/page-04.jpg",
         "/previews/g1-2025-fukushima-earth-406cc4a/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2025-fukushima-earth-406cc4a.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2025-fukushima-earth-406cc4a.pdf",
       "pdfFileName": "2025年実施_福島県_中1理科_地層のでき方（風化・堆積・火山・マグマ・火山噴出物・活火山）.pdf",
       "fileSize": 11925596
     },
@@ -263,7 +369,7 @@
         "/previews/g1-2025-yamagata-physics-0a7d2fa/page-03.jpg",
         "/previews/g1-2025-yamagata-physics-0a7d2fa/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2025-yamagata-physics-0a7d2fa.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2025-yamagata-physics-0a7d2fa.pdf",
       "pdfFileName": "2025年実施_山形県_中1理科_力のはたらき（2力のつり合い・ばねの伸び・フックの法則・重力とニュートン）.pdf",
       "fileSize": 5771848
     },
@@ -289,7 +395,7 @@
         "/previews/g1-2025-toyama-physics-2f7e767/page-03.jpg",
         "/previews/g1-2025-toyama-physics-2f7e767/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2025-toyama-physics-2f7e767.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2025-toyama-physics-2f7e767.pdf",
       "pdfFileName": "2025年実施_富山県_中1理科_光と音（凸レンズの実像・光の屈折・焦点・作図・像の明るさと大きさ）.pdf",
       "fileSize": 13535650
     },
@@ -314,7 +420,7 @@
         "/previews/g1-2024-yamaguchi-chemistry-e6e0fb4/page-03.jpg",
         "/previews/g1-2024-yamaguchi-chemistry-e6e0fb4/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-yamaguchi-chemistry-e6e0fb4.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2024-yamaguchi-chemistry-e6e0fb4.pdf",
       "pdfFileName": "2024年実施_山口県_中1理科_状態変化（融点・沸点・粒子モデル・体積変化）.pdf",
       "fileSize": 4789823
     },
@@ -340,7 +446,7 @@
         "/previews/g1-2024-toyama-chemistry-8a03043/page-03.jpg",
         "/previews/g1-2024-toyama-chemistry-8a03043/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-toyama-chemistry-8a03043.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2024-toyama-chemistry-8a03043.pdf",
       "pdfFileName": "2024年実施_富山県_中1理科_水溶液（溶解度曲線・再結晶・蒸発・質量パーセント濃度・密度）.pdf",
       "fileSize": 9815698
     },
@@ -367,9 +473,34 @@
         "/previews/g1-2024-fukushima-chemistry-c0a2d8d/page-04.jpg",
         "/previews/g1-2024-fukushima-chemistry-c0a2d8d/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-fukushima-chemistry-c0a2d8d.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2024-fukushima-chemistry-c0a2d8d.pdf",
       "pdfFileName": "2024年実施_福島県_中1理科_状態変化（粒子モデル・沸点・蒸留・密度・混合物）.pdf",
       "fileSize": 10258011
+    },
+    {
+      "id": "g2-2024-okinawa-biology-5f3d472",
+      "grade": 2,
+      "year": 2024,
+      "prefecture": "沖縄県",
+      "field": "生物",
+      "unit": "植物の体のつくりとはたらき（光合成・呼吸・二酸化炭素・対照実験）",
+      "shortUnit": "植物の体のつくりとはたらき",
+      "tags": [
+        "光合成",
+        "呼吸",
+        "二酸化炭素",
+        "対照実験"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2024-okinawa-biology-5f3d472/page-01.jpg",
+        "/previews/g2-2024-okinawa-biology-5f3d472/page-02.jpg",
+        "/previews/g2-2024-okinawa-biology-5f3d472/page-03.jpg",
+        "/previews/g2-2024-okinawa-biology-5f3d472/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2024-okinawa-biology-5f3d472.pdf",
+      "pdfFileName": "2024年実施_沖縄県_中2理科_植物の体のつくりとはたらき（光合成・呼吸・二酸化炭素・対照実験）.pdf",
+      "fileSize": 8969238
     },
     {
       "id": "g2-2024-iwate-biology-ae35ba4",
@@ -395,9 +526,9 @@
         "/previews/g2-2024-iwate-biology-ae35ba4/page-04.jpg",
         "/previews/g2-2024-iwate-biology-ae35ba4/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2024-iwate-biology-ae35ba4.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2024-iwate-biology-ae35ba4.pdf",
       "pdfFileName": "2024年実施_岩手県_中2理科_植物の体のつくりとはたらき（維管束・道管と師管・蒸散・気孔の分布・光と気孔の開閉・対照実験）.pdf",
-      "fileSize": 11478044
+      "fileSize": 11755658
     },
     {
       "id": "g1-2024-mie-biology-a35515c",
@@ -420,7 +551,7 @@
         "/previews/g1-2024-mie-biology-a35515c/page-03.jpg",
         "/previews/g1-2024-mie-biology-a35515c/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-mie-biology-a35515c.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2024-mie-biology-a35515c.pdf",
       "pdfFileName": "2024年実施_三重県_中1理科_動物の分類（セキツイ動物・無セキツイ動物・軟体動物・胎生）.pdf",
       "fileSize": 5568328
     },
@@ -438,16 +569,17 @@
         "対照実験",
         "小腸の柔毛"
       ],
-      "pageCount": 4,
+      "pageCount": 5,
       "previewPages": [
         "/previews/g2-2024-yamagata-biology-6a7ff3e/page-01.jpg",
         "/previews/g2-2024-yamagata-biology-6a7ff3e/page-02.jpg",
         "/previews/g2-2024-yamagata-biology-6a7ff3e/page-03.jpg",
-        "/previews/g2-2024-yamagata-biology-6a7ff3e/page-04.jpg"
+        "/previews/g2-2024-yamagata-biology-6a7ff3e/page-04.jpg",
+        "/previews/g2-2024-yamagata-biology-6a7ff3e/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2024-yamagata-biology-6a7ff3e.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2024-yamagata-biology-6a7ff3e.pdf",
       "pdfFileName": "2024年実施_山形県_中2理科_消化と吸収（だ液とアミラーゼ・ヨウ素液とベネジクト液・対照実験・小腸の柔毛）.pdf",
-      "fileSize": 8988635
+      "fileSize": 10884968
     },
     {
       "id": "g1-2024-yamagata-biology-426be91",
@@ -471,9 +603,60 @@
         "/previews/g1-2024-yamagata-biology-426be91/page-04.jpg",
         "/previews/g1-2024-yamagata-biology-426be91/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-yamagata-biology-426be91.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2024-yamagata-biology-426be91.pdf",
       "pdfFileName": "2024年実施_山形県_中1理科_動物の特徴と分類（セキツイ動物・無セキツイ動物・軟体動物・卵生と胎生）.pdf",
       "fileSize": 8648251
+    },
+    {
+      "id": "g2-2024-yamaguchi-biology-a2fd194",
+      "grade": 2,
+      "year": 2024,
+      "prefecture": "山口県",
+      "field": "生物",
+      "unit": "光合成（BTB溶液・二酸化炭素・呼吸・対照実験）",
+      "shortUnit": "光合成",
+      "tags": [
+        "BTB溶液",
+        "二酸化炭素",
+        "呼吸",
+        "対照実験"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2024-yamaguchi-biology-a2fd194/page-01.jpg",
+        "/previews/g2-2024-yamaguchi-biology-a2fd194/page-02.jpg",
+        "/previews/g2-2024-yamaguchi-biology-a2fd194/page-03.jpg",
+        "/previews/g2-2024-yamaguchi-biology-a2fd194/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2024-yamaguchi-biology-a2fd194.pdf",
+      "pdfFileName": "2024年実施_山口県_中2理科_光合成（BTB溶液・二酸化炭素・呼吸・対照実験）.pdf",
+      "fileSize": 5834695
+    },
+    {
+      "id": "g2-2024-aomori-biology-01b66b7",
+      "grade": 2,
+      "year": 2024,
+      "prefecture": "青森県",
+      "field": "生物",
+      "unit": "植物の体のつくりとはたらき（光合成・呼吸・葉緑体・対照実験）",
+      "shortUnit": "植物の体のつくりとはたらき",
+      "tags": [
+        "光合成",
+        "呼吸",
+        "葉緑体",
+        "対照実験"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2024-aomori-biology-01b66b7/page-01.jpg",
+        "/previews/g2-2024-aomori-biology-01b66b7/page-02.jpg",
+        "/previews/g2-2024-aomori-biology-01b66b7/page-03.jpg",
+        "/previews/g2-2024-aomori-biology-01b66b7/page-04.jpg",
+        "/previews/g2-2024-aomori-biology-01b66b7/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2024-aomori-biology-01b66b7.pdf",
+      "pdfFileName": "2024年実施_青森県_中2理科_植物の体のつくりとはたらき（光合成・呼吸・葉緑体・対照実験）.pdf",
+      "fileSize": 11143010
     },
     {
       "id": "g2-2024-tokushima-biology-37897a5",
@@ -497,9 +680,9 @@
         "/previews/g2-2024-tokushima-biology-37897a5/page-03.jpg",
         "/previews/g2-2024-tokushima-biology-37897a5/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2024-tokushima-biology-37897a5.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2024-tokushima-biology-37897a5.pdf",
       "pdfFileName": "2024年実施_徳島県_中2理科_ヒトの体のつくりとはたらき（血液の成分・心室・肺循環と体循環・動脈と静脈・酸素の運搬）.pdf",
-      "fileSize": 9353048
+      "fileSize": 9727006
     },
     {
       "id": "g2-2024-toyama-biology-029dace",
@@ -524,9 +707,36 @@
         "/previews/g2-2024-toyama-biology-029dace/page-03.jpg",
         "/previews/g2-2024-toyama-biology-029dace/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2024-toyama-biology-029dace.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2024-toyama-biology-029dace.pdf",
       "pdfFileName": "2024年実施_富山県_中2理科_動物の体のつくりとはたらき（刺激と反応・末しょう神経・脳とせきずい・反射・骨と筋肉・目のつくり）.pdf",
-      "fileSize": 10030392
+      "fileSize": 10514798
+    },
+    {
+      "id": "g2-2024-fukushima-biology-f77eb61",
+      "grade": 2,
+      "year": 2024,
+      "prefecture": "福島県",
+      "field": "生物",
+      "unit": "動物の体のつくりとはたらき（血液循環・心臓・肺・腎臓・排出）",
+      "shortUnit": "動物の体のつくりとはたらき",
+      "tags": [
+        "血液循環",
+        "心臓",
+        "肺",
+        "腎臓",
+        "排出"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2024-fukushima-biology-f77eb61/page-01.jpg",
+        "/previews/g2-2024-fukushima-biology-f77eb61/page-02.jpg",
+        "/previews/g2-2024-fukushima-biology-f77eb61/page-03.jpg",
+        "/previews/g2-2024-fukushima-biology-f77eb61/page-04.jpg",
+        "/previews/g2-2024-fukushima-biology-f77eb61/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2024-fukushima-biology-f77eb61.pdf",
+      "pdfFileName": "2024年実施_福島県_中2理科_動物の体のつくりとはたらき（血液循環・心臓・肺・腎臓・排出）.pdf",
+      "fileSize": 11614242
     },
     {
       "id": "g1-2024-okinawa-earth-d5dd9f5",
@@ -550,9 +760,36 @@
         "/previews/g1-2024-okinawa-earth-d5dd9f5/page-04.jpg",
         "/previews/g1-2024-okinawa-earth-d5dd9f5/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-okinawa-earth-d5dd9f5.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2024-okinawa-earth-d5dd9f5.pdf",
       "pdfFileName": "2024年実施_沖縄県_中1理科_大地の成り立ち（示準化石・地質年代・柱状図・地層の堆積）.pdf",
       "fileSize": 12589355
+    },
+    {
+      "id": "g2-2024-okinawa-earth-626d2d7",
+      "grade": 2,
+      "year": 2024,
+      "prefecture": "沖縄県",
+      "field": "地学",
+      "unit": "日本の気象（前線・雲・台風・天気図・風向）",
+      "shortUnit": "日本の気象",
+      "tags": [
+        "前線",
+        "雲",
+        "台風",
+        "天気図",
+        "風向"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2024-okinawa-earth-626d2d7/page-01.jpg",
+        "/previews/g2-2024-okinawa-earth-626d2d7/page-02.jpg",
+        "/previews/g2-2024-okinawa-earth-626d2d7/page-03.jpg",
+        "/previews/g2-2024-okinawa-earth-626d2d7/page-04.jpg",
+        "/previews/g2-2024-okinawa-earth-626d2d7/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2024-okinawa-earth-626d2d7.pdf",
+      "pdfFileName": "2024年実施_沖縄県_中2理科_日本の気象（前線・雲・台風・天気図・風向）.pdf",
+      "fileSize": 17708891
     },
     {
       "id": "g1-2024-iwate-earth-d0ff326",
@@ -577,7 +814,7 @@
         "/previews/g1-2024-iwate-earth-d0ff326/page-04.jpg",
         "/previews/g1-2024-iwate-earth-d0ff326/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-iwate-earth-d0ff326.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2024-iwate-earth-d0ff326.pdf",
       "pdfFileName": "2024年実施_岩手県_中1理科_火山活動と火成岩（火山灰の観察・無色鉱物・凝灰岩・鍵層・示準化石）.pdf",
       "fileSize": 11421711
     },
@@ -604,9 +841,35 @@
         "/previews/g1-2024-mie-earth-0b74c57/page-05.jpg",
         "/previews/g1-2024-mie-earth-0b74c57/page-06.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-mie-earth-0b74c57.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2024-mie-earth-0b74c57.pdf",
       "pdfFileName": "2024年実施_三重県_中1理科_火山と火成岩（鉱物・火成岩の組織・マグマのねばりけ・火山の形）.pdf",
       "fileSize": 14628069
+    },
+    {
+      "id": "g2-2024-yamagata-earth-47cc9e8",
+      "grade": 2,
+      "year": 2024,
+      "prefecture": "山形県",
+      "field": "地学",
+      "unit": "天気の変化（前線・雲のでき方・気温・湿度・気圧）",
+      "shortUnit": "天気の変化",
+      "tags": [
+        "前線",
+        "雲のでき方",
+        "気温",
+        "湿度",
+        "気圧"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2024-yamagata-earth-47cc9e8/page-01.jpg",
+        "/previews/g2-2024-yamagata-earth-47cc9e8/page-02.jpg",
+        "/previews/g2-2024-yamagata-earth-47cc9e8/page-03.jpg",
+        "/previews/g2-2024-yamagata-earth-47cc9e8/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2024-yamagata-earth-47cc9e8.pdf",
+      "pdfFileName": "2024年実施_山形県_中2理科_天気の変化（前線・雲のでき方・気温・湿度・気圧）.pdf",
+      "fileSize": 9930947
     },
     {
       "id": "g1-2024-yamaguchi-earth-de8a5f5",
@@ -629,9 +892,34 @@
         "/previews/g1-2024-yamaguchi-earth-de8a5f5/page-03.jpg",
         "/previews/g1-2024-yamaguchi-earth-de8a5f5/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-yamaguchi-earth-de8a5f5.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2024-yamaguchi-earth-de8a5f5.pdf",
       "pdfFileName": "2024年実施_山口県_中1理科_火山と火成岩（火山噴出物・火成岩の組織・マグマのねばりけ・火山の形）.pdf",
       "fileSize": 8292732
+    },
+    {
+      "id": "g2-2024-akita-earth-b6ca1ba",
+      "grade": 2,
+      "year": 2024,
+      "prefecture": "秋田県",
+      "field": "地学",
+      "unit": "日本の気象（天気図・気圧配置・前線・季節風）",
+      "shortUnit": "日本の気象",
+      "tags": [
+        "天気図",
+        "気圧配置",
+        "前線",
+        "季節風"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2024-akita-earth-b6ca1ba/page-01.jpg",
+        "/previews/g2-2024-akita-earth-b6ca1ba/page-02.jpg",
+        "/previews/g2-2024-akita-earth-b6ca1ba/page-03.jpg",
+        "/previews/g2-2024-akita-earth-b6ca1ba/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2024-akita-earth-b6ca1ba.pdf",
+      "pdfFileName": "2024年実施_秋田県_中2理科_日本の気象（天気図・気圧配置・前線・季節風）.pdf",
+      "fileSize": 10181788
     },
     {
       "id": "g1-2024-aomori-earth-82178f0",
@@ -657,9 +945,35 @@
         "/previews/g1-2024-aomori-earth-82178f0/page-04.jpg",
         "/previews/g1-2024-aomori-earth-82178f0/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-aomori-earth-82178f0.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2024-aomori-earth-82178f0.pdf",
       "pdfFileName": "2024年実施_青森県_中1理科_大地の活動（断層・プレート・液状化・マグニチュード・P波とS波・初期微動継続時間）.pdf",
       "fileSize": 10320609
+    },
+    {
+      "id": "g2-2024-shizuoka-earth-4c7d19a",
+      "grade": 2,
+      "year": 2024,
+      "prefecture": "静岡県",
+      "field": "地学",
+      "unit": "天気の変化（天気図・前線・気圧・風向・湿度）",
+      "shortUnit": "天気の変化",
+      "tags": [
+        "天気図",
+        "前線",
+        "気圧",
+        "風向",
+        "湿度"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2024-shizuoka-earth-4c7d19a/page-01.jpg",
+        "/previews/g2-2024-shizuoka-earth-4c7d19a/page-02.jpg",
+        "/previews/g2-2024-shizuoka-earth-4c7d19a/page-03.jpg",
+        "/previews/g2-2024-shizuoka-earth-4c7d19a/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2024-shizuoka-earth-4c7d19a.pdf",
+      "pdfFileName": "2024年実施_静岡県_中2理科_天気の変化（天気図・前線・気圧・風向・湿度）.pdf",
+      "fileSize": 7606397
     },
     {
       "id": "g1-2024-fukushima-earth-78bc092",
@@ -683,7 +997,7 @@
         "/previews/g1-2024-fukushima-earth-78bc092/page-03.jpg",
         "/previews/g1-2024-fukushima-earth-78bc092/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-fukushima-earth-78bc092.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2024-fukushima-earth-78bc092.pdf",
       "pdfFileName": "2024年実施_福島県_中1理科_地震（震央・震度・マグニチュード・P波とS波・緊急地震速報）.pdf",
       "fileSize": 10063018
     },
@@ -708,7 +1022,7 @@
         "/previews/g1-2024-okinawa-physics-13f77df/page-04.jpg",
         "/previews/g1-2024-okinawa-physics-13f77df/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-okinawa-physics-13f77df.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2024-okinawa-physics-13f77df.pdf",
       "pdfFileName": "2024年実施_沖縄県_中1理科_力のはたらき（ばねの伸び・力のつり合い・摩擦力）.pdf",
       "fileSize": 9585072
     },
@@ -733,7 +1047,7 @@
         "/previews/g1-2024-mie-physics-a0a565f/page-03.jpg",
         "/previews/g1-2024-mie-physics-a0a565f/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-mie-physics-a0a565f.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2024-mie-physics-a0a565f.pdf",
       "pdfFileName": "2024年実施_三重県_中1理科_大気圧（状態変化・気圧・圧力・面積と力）.pdf",
       "fileSize": 8263016
     },
@@ -758,7 +1072,7 @@
         "/previews/g1-2024-mie-physics-efa9502/page-03.jpg",
         "/previews/g1-2024-mie-physics-efa9502/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-mie-physics-efa9502.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2024-mie-physics-efa9502.pdf",
       "pdfFileName": "2024年実施_三重県_中1理科_凸レンズの性質（焦点・実像・光の進み方・光線作図）.pdf",
       "fileSize": 10222248
     },
@@ -784,7 +1098,7 @@
         "/previews/g1-2024-yamagata-physics-3529b3a/page-04.jpg",
         "/previews/g1-2024-yamagata-physics-3529b3a/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-yamagata-physics-3529b3a.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2024-yamagata-physics-3529b3a.pdf",
       "pdfFileName": "2024年実施_山形県_中1理科_音（振動数・振幅・オシロスコープ・弦の太さと張力）.pdf",
       "fileSize": 10105204
     },
@@ -809,7 +1123,7 @@
         "/previews/g1-2024-yamaguchi-physics-28b670d/page-03.jpg",
         "/previews/g1-2024-yamaguchi-physics-28b670d/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-yamaguchi-physics-28b670d.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2024-yamaguchi-physics-28b670d.pdf",
       "pdfFileName": "2024年実施_山口県_中1理科_光の性質（屈折・入射角・屈折角・見かけの位置）.pdf",
       "fileSize": 5620815
     },
@@ -835,7 +1149,7 @@
         "/previews/g1-2024-fukushima-physics-e435a0b/page-04.jpg",
         "/previews/g1-2024-fukushima-physics-e435a0b/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2024-fukushima-physics-e435a0b.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2024-fukushima-physics-e435a0b.pdf",
       "pdfFileName": "2024年実施_福島県_中1理科_水圧と浮力（ばねばかり・水圧・圧力・力のつり合い）.pdf",
       "fileSize": 10475950
     },
@@ -859,7 +1173,7 @@
         "/previews/g1-2023-mie-chemistry-adc735c/page-03.jpg",
         "/previews/g1-2023-mie-chemistry-adc735c/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2023-mie-chemistry-adc735c.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2023-mie-chemistry-adc735c.pdf",
       "pdfFileName": "2023年実施_三重県_中1理科_状態変化（沸点・蒸留・水とエタノールの分離）.pdf",
       "fileSize": 7891767
     },
@@ -886,7 +1200,7 @@
         "/previews/g1-2023-tokushima-chemistry-90fe9f7/page-04.jpg",
         "/previews/g1-2023-tokushima-chemistry-90fe9f7/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2023-tokushima-chemistry-90fe9f7.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2023-tokushima-chemistry-90fe9f7.pdf",
       "pdfFileName": "2023年実施_徳島県_中1理科_状態変化（粒子モデル・沸点・蒸留・エタノール・石油の分留）.pdf",
       "fileSize": 9467666
     },
@@ -913,9 +1227,113 @@
         "/previews/g1-2023-fukushima-chemistry-57779b2/page-04.jpg",
         "/previews/g1-2023-fukushima-chemistry-57779b2/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2023-fukushima-chemistry-57779b2.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2023-fukushima-chemistry-57779b2.pdf",
       "pdfFileName": "2023年実施_福島県_中1理科_水溶液と物質の性質（混合物・ろ過・プラスチック・密度・質量パーセント濃度）.pdf",
       "fileSize": 9831164
+    },
+    {
+      "id": "g2-2023-ibaraki-biology-8962382",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "茨城県",
+      "field": "生物",
+      "unit": "消化と吸収（だ液・アミラーゼ・ヨウ素液・対照実験）",
+      "shortUnit": "消化と吸収",
+      "tags": [
+        "だ液",
+        "アミラーゼ",
+        "ヨウ素液",
+        "対照実験"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2023-ibaraki-biology-8962382/page-01.jpg",
+        "/previews/g2-2023-ibaraki-biology-8962382/page-02.jpg",
+        "/previews/g2-2023-ibaraki-biology-8962382/page-03.jpg",
+        "/previews/g2-2023-ibaraki-biology-8962382/page-04.jpg",
+        "/previews/g2-2023-ibaraki-biology-8962382/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2023-ibaraki-biology-8962382.pdf",
+      "pdfFileName": "2023年実施_茨城県_中2理科_消化と吸収（だ液・アミラーゼ・ヨウ素液・対照実験）.pdf",
+      "fileSize": 9993666
+    },
+    {
+      "id": "g2-2023-gifu-biology-2104197",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "岐阜県",
+      "field": "生物",
+      "unit": "動物の体のつくりとはたらき（消化酵素・消化と吸収・血液循環・脂肪の消化吸収）",
+      "shortUnit": "動物の体のつくりとはたらき",
+      "tags": [
+        "消化酵素",
+        "消化と吸収",
+        "血液循環",
+        "脂肪の消化吸収"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2023-gifu-biology-2104197/page-01.jpg",
+        "/previews/g2-2023-gifu-biology-2104197/page-02.jpg",
+        "/previews/g2-2023-gifu-biology-2104197/page-03.jpg",
+        "/previews/g2-2023-gifu-biology-2104197/page-04.jpg",
+        "/previews/g2-2023-gifu-biology-2104197/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2023-gifu-biology-2104197.pdf",
+      "pdfFileName": "2023年実施_岐阜県_中2理科_動物の体のつくりとはたらき（消化酵素・消化と吸収・血液循環・脂肪の消化吸収）.pdf",
+      "fileSize": 17313585
+    },
+    {
+      "id": "g2-2023-mie-biology-fdc6bf0",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "三重県",
+      "field": "生物",
+      "unit": "消化と吸収（だ液・消化酵素・デンプン・対照実験）",
+      "shortUnit": "消化と吸収",
+      "tags": [
+        "だ液",
+        "消化酵素",
+        "デンプン",
+        "対照実験"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2023-mie-biology-fdc6bf0/page-01.jpg",
+        "/previews/g2-2023-mie-biology-fdc6bf0/page-02.jpg",
+        "/previews/g2-2023-mie-biology-fdc6bf0/page-03.jpg",
+        "/previews/g2-2023-mie-biology-fdc6bf0/page-04.jpg",
+        "/previews/g2-2023-mie-biology-fdc6bf0/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2023-mie-biology-fdc6bf0.pdf",
+      "pdfFileName": "2023年実施_三重県_中2理科_消化と吸収（だ液・消化酵素・デンプン・対照実験）.pdf",
+      "fileSize": 7331181
+    },
+    {
+      "id": "g2-2023-mie-biology-7de7736",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "三重県",
+      "field": "生物",
+      "unit": "植物の体のつくりとはたらき（蒸散・気孔・道管・吸水）",
+      "shortUnit": "植物の体のつくりとはたらき",
+      "tags": [
+        "蒸散",
+        "気孔",
+        "道管",
+        "吸水"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2023-mie-biology-7de7736/page-01.jpg",
+        "/previews/g2-2023-mie-biology-7de7736/page-02.jpg",
+        "/previews/g2-2023-mie-biology-7de7736/page-03.jpg",
+        "/previews/g2-2023-mie-biology-7de7736/page-04.jpg",
+        "/previews/g2-2023-mie-biology-7de7736/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2023-mie-biology-7de7736.pdf",
+      "pdfFileName": "2023年実施_三重県_中2理科_植物の体のつくりとはたらき（蒸散・気孔・道管・吸水）.pdf",
+      "fileSize": 14815895
     },
     {
       "id": "g2-2023-yamagata-biology-6ab9401",
@@ -941,9 +1359,35 @@
         "/previews/g2-2023-yamagata-biology-6ab9401/page-04.jpg",
         "/previews/g2-2023-yamagata-biology-6ab9401/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2023-yamagata-biology-6ab9401.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2023-yamagata-biology-6ab9401.pdf",
       "pdfFileName": "2023年実施_山形県_中2理科_植物の体のつくりとはたらき（光合成・葉緑体・石灰水・二酸化炭素・光の条件・対照実験）.pdf",
-      "fileSize": 11420820
+      "fileSize": 11944720
+    },
+    {
+      "id": "g2-2023-yamaguchi-biology-f52d580",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "山口県",
+      "field": "生物",
+      "unit": "消化と吸収（消化酵素・小腸の柔毛・吸収・血液）",
+      "shortUnit": "消化と吸収",
+      "tags": [
+        "消化酵素",
+        "小腸の柔毛",
+        "吸収",
+        "血液"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2023-yamaguchi-biology-f52d580/page-01.jpg",
+        "/previews/g2-2023-yamaguchi-biology-f52d580/page-02.jpg",
+        "/previews/g2-2023-yamaguchi-biology-f52d580/page-03.jpg",
+        "/previews/g2-2023-yamaguchi-biology-f52d580/page-04.jpg",
+        "/previews/g2-2023-yamaguchi-biology-f52d580/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2023-yamaguchi-biology-f52d580.pdf",
+      "pdfFileName": "2023年実施_山口県_中2理科_消化と吸収（消化酵素・小腸の柔毛・吸収・血液）.pdf",
+      "fileSize": 13062732
     },
     {
       "id": "g2-2023-akita-biology-ee3b54c",
@@ -967,36 +1411,62 @@
         "/previews/g2-2023-akita-biology-ee3b54c/page-04.jpg",
         "/previews/g2-2023-akita-biology-ee3b54c/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2023-akita-biology-ee3b54c.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2023-akita-biology-ee3b54c.pdf",
       "pdfFileName": "2023年実施_秋田県_中2理科_消化と吸収（だ液とアミラーゼ・ヨウ素液とベネジクト液・タンパク質の消化・小腸の柔毛）.pdf",
-      "fileSize": 9966694
+      "fileSize": 10543785
     },
     {
-      "id": "g2-2023-toyama-biology-abe1861",
+      "id": "g2-2023-toyama-biology-f56797a",
       "grade": 2,
       "year": 2023,
       "prefecture": "富山県",
       "field": "生物",
-      "unit": "ヒトの呼吸と血液循環（肺のモデル・横隔膜・心臓のつくり・動脈血と静脈血・ヘモグロビン・細胞の呼吸）",
+      "unit": "ヒトの呼吸と血液循環（肺のモデル・横隔膜・心臓・動脈血と静脈血・ヘモグロビン・細胞の呼吸）",
       "shortUnit": "ヒトの呼吸と血液循環",
       "tags": [
         "肺のモデル",
         "横隔膜",
-        "心臓のつくり",
+        "心臓",
         "動脈血と静脈血",
         "ヘモグロビン",
         "細胞の呼吸"
       ],
       "pageCount": 4,
       "previewPages": [
-        "/previews/g2-2023-toyama-biology-abe1861/page-01.jpg",
-        "/previews/g2-2023-toyama-biology-abe1861/page-02.jpg",
-        "/previews/g2-2023-toyama-biology-abe1861/page-03.jpg",
-        "/previews/g2-2023-toyama-biology-abe1861/page-04.jpg"
+        "/previews/g2-2023-toyama-biology-f56797a/page-01.jpg",
+        "/previews/g2-2023-toyama-biology-f56797a/page-02.jpg",
+        "/previews/g2-2023-toyama-biology-f56797a/page-03.jpg",
+        "/previews/g2-2023-toyama-biology-f56797a/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2023-toyama-biology-abe1861.pdf",
-      "pdfFileName": "2023年実施_富山県_中2理科_ヒトの呼吸と血液循環（肺のモデル・横隔膜・心臓のつくり・動脈血と静脈血・ヘモグロビン・細胞の呼吸）.pdf",
-      "fileSize": 11637299
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2023-toyama-biology-f56797a.pdf",
+      "pdfFileName": "2023年実施_富山県_中2理科_ヒトの呼吸と血液循環（肺のモデル・横隔膜・心臓・動脈血と静脈血・ヘモグロビン・細胞の呼吸）.pdf",
+      "fileSize": 14351700
+    },
+    {
+      "id": "g2-2023-fukushima-biology-f11bda0",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "福島県",
+      "field": "生物",
+      "unit": "植物の体のつくりとはたらき（光合成・呼吸・道管と師管・対照実験）",
+      "shortUnit": "植物の体のつくりとはたらき",
+      "tags": [
+        "光合成",
+        "呼吸",
+        "道管と師管",
+        "対照実験"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2023-fukushima-biology-f11bda0/page-01.jpg",
+        "/previews/g2-2023-fukushima-biology-f11bda0/page-02.jpg",
+        "/previews/g2-2023-fukushima-biology-f11bda0/page-03.jpg",
+        "/previews/g2-2023-fukushima-biology-f11bda0/page-04.jpg",
+        "/previews/g2-2023-fukushima-biology-f11bda0/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2023-fukushima-biology-f11bda0.pdf",
+      "pdfFileName": "2023年実施_福島県_中2理科_植物の体のつくりとはたらき（光合成・呼吸・道管と師管・対照実験）.pdf",
+      "fileSize": 12158352
     },
     {
       "id": "g2-2023-hokkaido-biology-98c3a34",
@@ -1022,9 +1492,87 @@
         "/previews/g2-2023-hokkaido-biology-98c3a34/page-04.jpg",
         "/previews/g2-2023-hokkaido-biology-98c3a34/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2023-hokkaido-biology-98c3a34.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2023-hokkaido-biology-98c3a34.pdf",
       "pdfFileName": "2023年実施_北海道_中2理科_呼吸のしくみ（肺胞・呼吸回数・肺のモデル・横隔膜・酸素と血液・細胞の呼吸）.pdf",
-      "fileSize": 12561802
+      "fileSize": 14769046
+    },
+    {
+      "id": "g2-2023-okinawa-earth-9082d98",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "沖縄県",
+      "field": "地学",
+      "unit": "雲のでき方（水蒸気・露点・湿度・気圧・上昇気流）",
+      "shortUnit": "雲のでき方",
+      "tags": [
+        "水蒸気",
+        "露点",
+        "湿度",
+        "気圧",
+        "上昇気流"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2023-okinawa-earth-9082d98/page-01.jpg",
+        "/previews/g2-2023-okinawa-earth-9082d98/page-02.jpg",
+        "/previews/g2-2023-okinawa-earth-9082d98/page-03.jpg",
+        "/previews/g2-2023-okinawa-earth-9082d98/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2023-okinawa-earth-9082d98.pdf",
+      "pdfFileName": "2023年実施_沖縄県_中2理科_雲のでき方（水蒸気・露点・湿度・気圧・上昇気流）.pdf",
+      "fileSize": 9287329
+    },
+    {
+      "id": "g2-2023-iwate-earth-578da98",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "岩手県",
+      "field": "地学",
+      "unit": "天気の変化（天気図・前線・気圧・風向・雲）",
+      "shortUnit": "天気の変化",
+      "tags": [
+        "天気図",
+        "前線",
+        "気圧",
+        "風向",
+        "雲"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2023-iwate-earth-578da98/page-01.jpg",
+        "/previews/g2-2023-iwate-earth-578da98/page-02.jpg",
+        "/previews/g2-2023-iwate-earth-578da98/page-03.jpg",
+        "/previews/g2-2023-iwate-earth-578da98/page-04.jpg",
+        "/previews/g2-2023-iwate-earth-578da98/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2023-iwate-earth-578da98.pdf",
+      "pdfFileName": "2023年実施_岩手県_中2理科_天気の変化（天気図・前線・気圧・風向・雲）.pdf",
+      "fileSize": 12681968
+    },
+    {
+      "id": "g2-2023-mie-earth-59c16c2",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "三重県",
+      "field": "地学",
+      "unit": "雲のでき方（断熱膨張・気温低下・水蒸気の凝結・雲量）",
+      "shortUnit": "雲のでき方",
+      "tags": [
+        "断熱膨張",
+        "気温低下",
+        "水蒸気の凝結",
+        "雲量"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2023-mie-earth-59c16c2/page-01.jpg",
+        "/previews/g2-2023-mie-earth-59c16c2/page-02.jpg",
+        "/previews/g2-2023-mie-earth-59c16c2/page-03.jpg",
+        "/previews/g2-2023-mie-earth-59c16c2/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2023-mie-earth-59c16c2.pdf",
+      "pdfFileName": "2023年実施_三重県_中2理科_雲のでき方（断熱膨張・気温低下・水蒸気の凝結・雲量）.pdf",
+      "fileSize": 7107100
     },
     {
       "id": "g1-2023-yamagata-earth-17357d5",
@@ -1048,9 +1596,61 @@
         "/previews/g1-2023-yamagata-earth-17357d5/page-03.jpg",
         "/previews/g1-2023-yamagata-earth-17357d5/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2023-yamagata-earth-17357d5.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2023-yamagata-earth-17357d5.pdf",
       "pdfFileName": "2023年実施_山形県_中1理科_地層の重なりと過去の様子（堆積岩・示準化石・示相化石・地質年代・地すべり）.pdf",
       "fileSize": 11593604
+    },
+    {
+      "id": "g2-2023-yamagata-earth-baa0174",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "山形県",
+      "field": "地学",
+      "unit": "天気の変化と日本の気象（雲のでき方・積乱雲と巻積雲・小笠原気団・停滞前線・温暖前線）",
+      "shortUnit": "天気の変化と日本の気象",
+      "tags": [
+        "雲のでき方",
+        "積乱雲と巻積雲",
+        "小笠原気団",
+        "停滞前線",
+        "温暖前線"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2023-yamagata-earth-baa0174/page-01.jpg",
+        "/previews/g2-2023-yamagata-earth-baa0174/page-02.jpg",
+        "/previews/g2-2023-yamagata-earth-baa0174/page-03.jpg",
+        "/previews/g2-2023-yamagata-earth-baa0174/page-04.jpg",
+        "/previews/g2-2023-yamagata-earth-baa0174/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2023-yamagata-earth-baa0174.pdf",
+      "pdfFileName": "2023年実施_山形県_中2理科_天気の変化と日本の気象（雲のでき方・積乱雲と巻積雲・小笠原気団・停滞前線・温暖前線）.pdf",
+      "fileSize": 11042273
+    },
+    {
+      "id": "g2-2023-yamaguchi-earth-3325772",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "山口県",
+      "field": "地学",
+      "unit": "天気の変化（気象観測・天気図・前線・風向）",
+      "shortUnit": "天気の変化",
+      "tags": [
+        "気象観測",
+        "天気図",
+        "前線",
+        "風向"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2023-yamaguchi-earth-3325772/page-01.jpg",
+        "/previews/g2-2023-yamaguchi-earth-3325772/page-02.jpg",
+        "/previews/g2-2023-yamaguchi-earth-3325772/page-03.jpg",
+        "/previews/g2-2023-yamaguchi-earth-3325772/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2023-yamaguchi-earth-3325772.pdf",
+      "pdfFileName": "2023年実施_山口県_中2理科_天気の変化（気象観測・天気図・前線・風向）.pdf",
+      "fileSize": 4763129
     },
     {
       "id": "g1-2023-akita-earth-5280a59",
@@ -1075,9 +1675,36 @@
         "/previews/g1-2023-akita-earth-5280a59/page-03.jpg",
         "/previews/g1-2023-akita-earth-5280a59/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2023-akita-earth-5280a59.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2023-akita-earth-5280a59.pdf",
       "pdfFileName": "2023年実施_秋田県_中1理科_地震（プレートの沈み込み・断層・震央・P波とS波・初期微動継続時間・緊急地震速報）.pdf",
       "fileSize": 11954141
+    },
+    {
+      "id": "g2-2023-aomori-earth-855d9b7",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "青森県",
+      "field": "地学",
+      "unit": "天気の変化（気圧・前線・天気図・風向・降水）",
+      "shortUnit": "天気の変化",
+      "tags": [
+        "気圧",
+        "前線",
+        "天気図",
+        "風向",
+        "降水"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2023-aomori-earth-855d9b7/page-01.jpg",
+        "/previews/g2-2023-aomori-earth-855d9b7/page-02.jpg",
+        "/previews/g2-2023-aomori-earth-855d9b7/page-03.jpg",
+        "/previews/g2-2023-aomori-earth-855d9b7/page-04.jpg",
+        "/previews/g2-2023-aomori-earth-855d9b7/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2023-aomori-earth-855d9b7.pdf",
+      "pdfFileName": "2023年実施_青森県_中2理科_天気の変化（気圧・前線・天気図・風向・降水）.pdf",
+      "fileSize": 12461546
     },
     {
       "id": "g1-2023-shizuoka-earth-b15cd81",
@@ -1101,9 +1728,87 @@
         "/previews/g1-2023-shizuoka-earth-b15cd81/page-03.jpg",
         "/previews/g1-2023-shizuoka-earth-b15cd81/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2023-shizuoka-earth-b15cd81.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2023-shizuoka-earth-b15cd81.pdf",
       "pdfFileName": "2023年実施_静岡県_中1理科_大地の成り立ちと変化（風化・れき砂泥の運搬と堆積・花こう岩・等粒状組織・無色鉱物）.pdf",
       "fileSize": 6017618
+    },
+    {
+      "id": "g2-2023-shizuoka-earth-963c5f7",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "静岡県",
+      "field": "地学",
+      "unit": "天気の変化（気象観測・前線・天気図・気圧配置）",
+      "shortUnit": "天気の変化",
+      "tags": [
+        "気象観測",
+        "前線",
+        "天気図",
+        "気圧配置"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2023-shizuoka-earth-963c5f7/page-01.jpg",
+        "/previews/g2-2023-shizuoka-earth-963c5f7/page-02.jpg",
+        "/previews/g2-2023-shizuoka-earth-963c5f7/page-03.jpg",
+        "/previews/g2-2023-shizuoka-earth-963c5f7/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2023-shizuoka-earth-963c5f7.pdf",
+      "pdfFileName": "2023年実施_静岡県_中2理科_天気の変化（気象観測・前線・天気図・気圧配置）.pdf",
+      "fileSize": 8606265
+    },
+    {
+      "id": "g2-2023-toyama-earth-64befa0",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "富山県",
+      "field": "地学",
+      "unit": "天気の変化（気圧・湿度・天気図・前線・風向）",
+      "shortUnit": "天気の変化",
+      "tags": [
+        "気圧",
+        "湿度",
+        "天気図",
+        "前線",
+        "風向"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2023-toyama-earth-64befa0/page-01.jpg",
+        "/previews/g2-2023-toyama-earth-64befa0/page-02.jpg",
+        "/previews/g2-2023-toyama-earth-64befa0/page-03.jpg",
+        "/previews/g2-2023-toyama-earth-64befa0/page-04.jpg",
+        "/previews/g2-2023-toyama-earth-64befa0/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2023-toyama-earth-64befa0.pdf",
+      "pdfFileName": "2023年実施_富山県_中2理科_天気の変化（気圧・湿度・天気図・前線・風向）.pdf",
+      "fileSize": 19822202
+    },
+    {
+      "id": "g2-2023-fukushima-earth-c1243bc",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "福島県",
+      "field": "地学",
+      "unit": "大気中の水蒸気（飽和水蒸気量・露点・湿度・雲）",
+      "shortUnit": "大気中の水蒸気",
+      "tags": [
+        "飽和水蒸気量",
+        "露点",
+        "湿度",
+        "雲"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2023-fukushima-earth-c1243bc/page-01.jpg",
+        "/previews/g2-2023-fukushima-earth-c1243bc/page-02.jpg",
+        "/previews/g2-2023-fukushima-earth-c1243bc/page-03.jpg",
+        "/previews/g2-2023-fukushima-earth-c1243bc/page-04.jpg",
+        "/previews/g2-2023-fukushima-earth-c1243bc/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2023-fukushima-earth-c1243bc.pdf",
+      "pdfFileName": "2023年実施_福島県_中2理科_大気中の水蒸気（飽和水蒸気量・露点・湿度・雲）.pdf",
+      "fileSize": 11251436
     },
     {
       "id": "g1-2023-fukushima-earth-3f4a04e",
@@ -1128,7 +1833,7 @@
         "/previews/g1-2023-fukushima-earth-3f4a04e/page-03.jpg",
         "/previews/g1-2023-fukushima-earth-3f4a04e/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2023-fukushima-earth-3f4a04e.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2023-fukushima-earth-3f4a04e.pdf",
       "pdfFileName": "2023年実施_福島県_中1理科_地層（柱状図・凝灰岩の鍵層・示準化石・示相化石・石灰岩・地層の新旧）.pdf",
       "fileSize": 9258194
     },
@@ -1154,7 +1859,7 @@
         "/previews/g1-2023-ibaraki-physics-ba86c54/page-04.jpg",
         "/previews/g1-2023-ibaraki-physics-ba86c54/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2023-ibaraki-physics-ba86c54.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2023-ibaraki-physics-ba86c54.pdf",
       "pdfFileName": "2023年実施_茨城県_中1理科_光の性質（凸レンズ・屈折・実像・光の道すじ）.pdf",
       "fileSize": 10138639
     },
@@ -1181,7 +1886,7 @@
         "/previews/g1-2023-okinawa-physics-0702317/page-04.jpg",
         "/previews/g1-2023-okinawa-physics-0702317/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2023-okinawa-physics-0702317.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2023-okinawa-physics-0702317.pdf",
       "pdfFileName": "2023年実施_沖縄県_中1理科_光の進み方（入射角・屈折・反射・全反射・光の道すじ）.pdf",
       "fileSize": 14940588
     },
@@ -1207,7 +1912,7 @@
         "/previews/g1-2023-okinawa-physics-44872e3/page-04.jpg",
         "/previews/g1-2023-okinawa-physics-44872e3/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2023-okinawa-physics-44872e3.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2023-okinawa-physics-44872e3.pdf",
       "pdfFileName": "2023年実施_沖縄県_中1理科_水中ではたらく力（水圧・深さと水圧・浮力・気圧）.pdf",
       "fileSize": 10883619
     },
@@ -1233,7 +1938,7 @@
         "/previews/g1-2023-mie-physics-8f0b459/page-04.jpg",
         "/previews/g1-2023-mie-physics-8f0b459/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2023-mie-physics-8f0b459.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2023-mie-physics-8f0b459.pdf",
       "pdfFileName": "2023年実施_三重県_中1理科_音（弦の振動・音の高さ・振動数・振幅）.pdf",
       "fileSize": 7804817
     },
@@ -1258,7 +1963,7 @@
         "/previews/g1-2023-yamagata-physics-b2678f8/page-03.jpg",
         "/previews/g1-2023-yamagata-physics-b2678f8/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2023-yamagata-physics-b2678f8.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2023-yamagata-physics-b2678f8.pdf",
       "pdfFileName": "2023年実施_山形県_中1理科_光と凸レンズ（実像・焦点距離・光の道すじ・作図）.pdf",
       "fileSize": 10325132
     },
@@ -1285,7 +1990,7 @@
         "/previews/g1-2023-aomori-physics-139ac94/page-04.jpg",
         "/previews/g1-2023-aomori-physics-139ac94/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2023-aomori-physics-139ac94.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2023-aomori-physics-139ac94.pdf",
       "pdfFileName": "2023年実施_青森県_中1理科_光（凸レンズ・虚像・焦点距離・実像・像の作図）.pdf",
       "fileSize": 10985459
     },
@@ -1311,7 +2016,7 @@
         "/previews/g1-2023-tokushima-physics-c719542/page-04.jpg",
         "/previews/g1-2023-tokushima-physics-c719542/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2023-tokushima-physics-c719542.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2023-tokushima-physics-c719542.pdf",
       "pdfFileName": "2023年実施_徳島県_中1理科_力のはたらき（質量と重力・浮力・水圧・液体の密度と圧力）.pdf",
       "fileSize": 8439681
     },
@@ -1337,7 +2042,7 @@
         "/previews/g1-2023-fukushima-physics-0c96cce/page-04.jpg",
         "/previews/g1-2023-fukushima-physics-0c96cce/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2023-fukushima-physics-0c96cce.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2023-fukushima-physics-0c96cce.pdf",
       "pdfFileName": "2023年実施_福島県_中1理科_光（凸レンズ・実像・焦点距離・像の大きさ）.pdf",
       "fileSize": 8642934
     },
@@ -1363,7 +2068,7 @@
         "/previews/g1-2022-ibaraki-chemistry-bd211dc/page-04.jpg",
         "/previews/g1-2022-ibaraki-chemistry-bd211dc/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-ibaraki-chemistry-bd211dc.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2022-ibaraki-chemistry-bd211dc.pdf",
       "pdfFileName": "2022年実施_茨城県_中1理科_気体の性質（空気の質量と密度・水上置換法・気温と密度・気圧）.pdf",
       "fileSize": 10969821
     },
@@ -1389,7 +2094,7 @@
         "/previews/g1-2022-mie-chemistry-3c5c7e4/page-03.jpg",
         "/previews/g1-2022-mie-chemistry-3c5c7e4/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-mie-chemistry-3c5c7e4.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2022-mie-chemistry-3c5c7e4.pdf",
       "pdfFileName": "2022年実施_三重県_中1理科_水溶液と溶解度（溶解度曲線・飽和水溶液・結晶・再結晶・質量パーセント濃度）.pdf",
       "fileSize": 9505355
     },
@@ -1416,7 +2121,7 @@
         "/previews/g1-2022-yamagata-chemistry-0a752e7/page-04.jpg",
         "/previews/g1-2022-yamagata-chemistry-0a752e7/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-yamagata-chemistry-0a752e7.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2022-yamagata-chemistry-0a752e7.pdf",
       "pdfFileName": "2022年実施_山形県_中1理科_状態変化と物質の性質（蒸留・沸点・密度・水とエタノールの分離・プラスチック）.pdf",
       "fileSize": 10529407
     },
@@ -1442,7 +2147,7 @@
         "/previews/g1-2022-akita-chemistry-3ede4a7/page-03.jpg",
         "/previews/g1-2022-akita-chemistry-3ede4a7/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-akita-chemistry-3ede4a7.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2022-akita-chemistry-3ede4a7.pdf",
       "pdfFileName": "2022年実施_秋田県_中1理科_状態変化と物質の性質（沸点・蒸留・密度・水とエタノールの分離・プラスチックの性質）.pdf",
       "fileSize": 10702409
     },
@@ -1469,9 +2174,34 @@
         "/previews/g1-2022-fukushima-chemistry-7415af0/page-03.jpg",
         "/previews/g1-2022-fukushima-chemistry-7415af0/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-fukushima-chemistry-7415af0.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2022-fukushima-chemistry-7415af0.pdf",
       "pdfFileName": "2022年実施_福島県_中1理科_水溶液（溶質・溶媒・溶解度・飽和水溶液・質量パーセント濃度・再結晶）.pdf",
       "fileSize": 10145171
+    },
+    {
+      "id": "g2-2022-okinawa-biology-c80d19d",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "沖縄県",
+      "field": "生物",
+      "unit": "生物の体のつくりとはたらき（光合成・消化・呼吸・細胞の呼吸）",
+      "shortUnit": "生物の体のつくりとはたらき",
+      "tags": [
+        "光合成",
+        "消化",
+        "呼吸",
+        "細胞の呼吸"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2022-okinawa-biology-c80d19d/page-01.jpg",
+        "/previews/g2-2022-okinawa-biology-c80d19d/page-02.jpg",
+        "/previews/g2-2022-okinawa-biology-c80d19d/page-03.jpg",
+        "/previews/g2-2022-okinawa-biology-c80d19d/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2022-okinawa-biology-c80d19d.pdf",
+      "pdfFileName": "2022年実施_沖縄県_中2理科_生物の体のつくりとはたらき（光合成・消化・呼吸・細胞の呼吸）.pdf",
+      "fileSize": 9187709
     },
     {
       "id": "g2-2022-gunma-biology-22ed663",
@@ -1496,9 +2226,85 @@
         "/previews/g2-2022-gunma-biology-22ed663/page-04.jpg",
         "/previews/g2-2022-gunma-biology-22ed663/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2022-gunma-biology-22ed663.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2022-gunma-biology-22ed663.pdf",
       "pdfFileName": "2022年実施_群馬県_中2理科_光合成と呼吸（葉緑体・BTB溶液・二酸化炭素・対照実験・光合成量と呼吸量）.pdf",
-      "fileSize": 8870410
+      "fileSize": 8586208
+    },
+    {
+      "id": "g2-2022-yamagata-biology-a80ac41",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "山形県",
+      "field": "生物",
+      "unit": "動物の体のつくりとはたらき（刺激と反応・感覚器官・運動器官・神経）",
+      "shortUnit": "動物の体のつくりとはたらき",
+      "tags": [
+        "刺激と反応",
+        "感覚器官",
+        "運動器官",
+        "神経"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2022-yamagata-biology-a80ac41/page-01.jpg",
+        "/previews/g2-2022-yamagata-biology-a80ac41/page-02.jpg",
+        "/previews/g2-2022-yamagata-biology-a80ac41/page-03.jpg",
+        "/previews/g2-2022-yamagata-biology-a80ac41/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2022-yamagata-biology-a80ac41.pdf",
+      "pdfFileName": "2022年実施_山形県_中2理科_動物の体のつくりとはたらき（刺激と反応・感覚器官・運動器官・神経）.pdf",
+      "fileSize": 9490575
+    },
+    {
+      "id": "g2-2022-yamaguchi-biology-c55238d",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "山口県",
+      "field": "生物",
+      "unit": "動物の体のつくりとはたらき（呼吸・えら・毛細血管・酸素の運搬）",
+      "shortUnit": "動物の体のつくりとはたらき",
+      "tags": [
+        "呼吸",
+        "えら",
+        "毛細血管",
+        "酸素の運搬"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2022-yamaguchi-biology-c55238d/page-01.jpg",
+        "/previews/g2-2022-yamaguchi-biology-c55238d/page-02.jpg",
+        "/previews/g2-2022-yamaguchi-biology-c55238d/page-03.jpg",
+        "/previews/g2-2022-yamaguchi-biology-c55238d/page-04.jpg",
+        "/previews/g2-2022-yamaguchi-biology-c55238d/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2022-yamaguchi-biology-c55238d.pdf",
+      "pdfFileName": "2022年実施_山口県_中2理科_動物の体のつくりとはたらき（呼吸・えら・毛細血管・酸素の運搬）.pdf",
+      "fileSize": 8640188
+    },
+    {
+      "id": "g2-2022-akita-biology-0719009",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "秋田県",
+      "field": "生物",
+      "unit": "生物と細胞（細胞・顕微鏡観察・植物の体・生命活動）",
+      "shortUnit": "生物と細胞",
+      "tags": [
+        "細胞",
+        "顕微鏡観察",
+        "植物の体",
+        "生命活動"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2022-akita-biology-0719009/page-01.jpg",
+        "/previews/g2-2022-akita-biology-0719009/page-02.jpg",
+        "/previews/g2-2022-akita-biology-0719009/page-03.jpg",
+        "/previews/g2-2022-akita-biology-0719009/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2022-akita-biology-0719009.pdf",
+      "pdfFileName": "2022年実施_秋田県_中2理科_生物と細胞（細胞・顕微鏡観察・植物の体・生命活動）.pdf",
+      "fileSize": 8998206
     },
     {
       "id": "g2-2022-aomori-biology-f6f8acb",
@@ -1525,9 +2331,9 @@
         "/previews/g2-2022-aomori-biology-f6f8acb/page-04.jpg",
         "/previews/g2-2022-aomori-biology-f6f8acb/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2022-aomori-biology-f6f8acb.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2022-aomori-biology-f6f8acb.pdf",
       "pdfFileName": "2022年実施_青森県_中2理科_消化と吸収（対照実験・だ液・消化酵素・アミラーゼ・ブドウ糖・小腸の柔毛・肝臓）.pdf",
-      "fileSize": 12068564
+      "fileSize": 11917285
     },
     {
       "id": "g2-2022-tokushima-biology-02a9754",
@@ -1552,9 +2358,61 @@
         "/previews/g2-2022-tokushima-biology-02a9754/page-04.jpg",
         "/previews/g2-2022-tokushima-biology-02a9754/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2022-tokushima-biology-02a9754.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2022-tokushima-biology-02a9754.pdf",
       "pdfFileName": "2022年実施_徳島県_中2理科_刺激と反応（末しょう神経・脳とせきずい・反応時間・刺激の伝わり方・反射）.pdf",
-      "fileSize": 8779943
+      "fileSize": 9047005
+    },
+    {
+      "id": "g2-2022-tochigi-biology-73074ee",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "栃木県",
+      "field": "生物",
+      "unit": "植物の体のつくりとはたらき（光合成・呼吸・葉緑体・実験操作）",
+      "shortUnit": "植物の体のつくりとはたらき",
+      "tags": [
+        "光合成",
+        "呼吸",
+        "葉緑体",
+        "実験操作"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2022-tochigi-biology-73074ee/page-01.jpg",
+        "/previews/g2-2022-tochigi-biology-73074ee/page-02.jpg",
+        "/previews/g2-2022-tochigi-biology-73074ee/page-03.jpg",
+        "/previews/g2-2022-tochigi-biology-73074ee/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2022-tochigi-biology-73074ee.pdf",
+      "pdfFileName": "2022年実施_栃木県_中2理科_植物の体のつくりとはたらき（光合成・呼吸・葉緑体・実験操作）.pdf",
+      "fileSize": 8567414
+    },
+    {
+      "id": "g2-2022-fukushima-biology-b8feeb0",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "福島県",
+      "field": "生物",
+      "unit": "植物の体のつくりとはたらき（根・茎・葉・維管束・蒸散）",
+      "shortUnit": "植物の体のつくりとはたらき",
+      "tags": [
+        "根",
+        "茎",
+        "葉",
+        "維管束",
+        "蒸散"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2022-fukushima-biology-b8feeb0/page-01.jpg",
+        "/previews/g2-2022-fukushima-biology-b8feeb0/page-02.jpg",
+        "/previews/g2-2022-fukushima-biology-b8feeb0/page-03.jpg",
+        "/previews/g2-2022-fukushima-biology-b8feeb0/page-04.jpg",
+        "/previews/g2-2022-fukushima-biology-b8feeb0/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2022-fukushima-biology-b8feeb0.pdf",
+      "pdfFileName": "2022年実施_福島県_中2理科_植物の体のつくりとはたらき（根・茎・葉・維管束・蒸散）.pdf",
+      "fileSize": 10653591
     },
     {
       "id": "g2-2022-hokkaido-biology-72cd387",
@@ -1580,9 +2438,9 @@
         "/previews/g2-2022-hokkaido-biology-72cd387/page-04.jpg",
         "/previews/g2-2022-hokkaido-biology-72cd387/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2022-hokkaido-biology-72cd387.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2022-hokkaido-biology-72cd387.pdf",
       "pdfFileName": "2022年実施_北海道_中2理科_植物の体のつくりとはたらき（維管束・道管・茎のつくり・蒸散・気孔・光と蒸散量）.pdf",
-      "fileSize": 12128279
+      "fileSize": 12101942
     },
     {
       "id": "g1-2022-ibaraki-earth-cf75226",
@@ -1608,9 +2466,36 @@
         "/previews/g1-2022-ibaraki-earth-cf75226/page-04.jpg",
         "/previews/g1-2022-ibaraki-earth-cf75226/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-ibaraki-earth-cf75226.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2022-ibaraki-earth-cf75226.pdf",
       "pdfFileName": "2022年実施_茨城県_中1理科_地層の広がり（柱状図・ボーリング調査・示準化石・凝灰岩の鍵層・地層の傾き・堆積環境）.pdf",
       "fileSize": 8849484
+    },
+    {
+      "id": "g2-2022-okinawa-earth-807cc0a",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "沖縄県",
+      "field": "地学",
+      "unit": "天気の変化（気圧・湿度・雲・天気図・前線）",
+      "shortUnit": "天気の変化",
+      "tags": [
+        "気圧",
+        "湿度",
+        "雲",
+        "天気図",
+        "前線"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2022-okinawa-earth-807cc0a/page-01.jpg",
+        "/previews/g2-2022-okinawa-earth-807cc0a/page-02.jpg",
+        "/previews/g2-2022-okinawa-earth-807cc0a/page-03.jpg",
+        "/previews/g2-2022-okinawa-earth-807cc0a/page-04.jpg",
+        "/previews/g2-2022-okinawa-earth-807cc0a/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2022-okinawa-earth-807cc0a.pdf",
+      "pdfFileName": "2022年実施_沖縄県_中2理科_天気の変化（気圧・湿度・雲・天気図・前線）.pdf",
+      "fileSize": 13009836
     },
     {
       "id": "g1-2022-gifu-earth-702cffb",
@@ -1635,9 +2520,36 @@
         "/previews/g1-2022-gifu-earth-702cffb/page-03.jpg",
         "/previews/g1-2022-gifu-earth-702cffb/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-gifu-earth-702cffb.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2022-gifu-earth-702cffb.pdf",
       "pdfFileName": "2022年実施_岐阜県_中1理科_火山活動と火成岩・地震・地層（斑状組織・鉱物・マグマのねばりけ・噴火・火山性地震・示準化石）.pdf",
       "fileSize": 10566749
+    },
+    {
+      "id": "g2-2022-mie-earth-edc7e9f",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "三重県",
+      "field": "地学",
+      "unit": "日本の気象（気象観測・台風・天気図・風向・気圧）",
+      "shortUnit": "日本の気象",
+      "tags": [
+        "気象観測",
+        "台風",
+        "天気図",
+        "風向",
+        "気圧"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2022-mie-earth-edc7e9f/page-01.jpg",
+        "/previews/g2-2022-mie-earth-edc7e9f/page-02.jpg",
+        "/previews/g2-2022-mie-earth-edc7e9f/page-03.jpg",
+        "/previews/g2-2022-mie-earth-edc7e9f/page-04.jpg",
+        "/previews/g2-2022-mie-earth-edc7e9f/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2022-mie-earth-edc7e9f.pdf",
+      "pdfFileName": "2022年実施_三重県_中2理科_日本の気象（気象観測・台風・天気図・風向・気圧）.pdf",
+      "fileSize": 15070494
     },
     {
       "id": "g1-2022-yamagata-earth-3543f72",
@@ -1663,9 +2575,35 @@
         "/previews/g1-2022-yamagata-earth-3543f72/page-04.jpg",
         "/previews/g1-2022-yamagata-earth-3543f72/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-yamagata-earth-3543f72.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2022-yamagata-earth-3543f72.pdf",
       "pdfFileName": "2022年実施_山形県_中1理科_地震（プレート・断層・震度・マグニチュード・P波とS波・震源距離）.pdf",
       "fileSize": 10349915
+    },
+    {
+      "id": "g2-2022-akita-earth-578da98",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "秋田県",
+      "field": "地学",
+      "unit": "天気の変化（天気図・前線・気圧・風向・雲）",
+      "shortUnit": "天気の変化",
+      "tags": [
+        "天気図",
+        "前線",
+        "気圧",
+        "風向",
+        "雲"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2022-akita-earth-578da98/page-01.jpg",
+        "/previews/g2-2022-akita-earth-578da98/page-02.jpg",
+        "/previews/g2-2022-akita-earth-578da98/page-03.jpg",
+        "/previews/g2-2022-akita-earth-578da98/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2022-akita-earth-578da98.pdf",
+      "pdfFileName": "2022年実施_秋田県_中2理科_天気の変化（天気図・前線・気圧・風向・雲）.pdf",
+      "fileSize": 10512170
     },
     {
       "id": "g1-2022-shizuoka-earth-fdd554e",
@@ -1689,7 +2627,7 @@
         "/previews/g1-2022-shizuoka-earth-fdd554e/page-03.jpg",
         "/previews/g1-2022-shizuoka-earth-fdd554e/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-shizuoka-earth-fdd554e.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2022-shizuoka-earth-fdd554e.pdf",
       "pdfFileName": "2022年実施_静岡県_中1理科_地層の広がり（示準化石・堆積物の粒径・柱状図・火山灰層・地層の傾き）.pdf",
       "fileSize": 7270779
     },
@@ -1716,7 +2654,7 @@
         "/previews/g1-2022-tokushima-earth-38ab180/page-04.jpg",
         "/previews/g1-2022-tokushima-earth-38ab180/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-tokushima-earth-38ab180.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2022-tokushima-earth-38ab180.pdf",
       "pdfFileName": "2022年実施_徳島県_中1理科_地層と化石（示準化石・示相化石・堆積・凝灰岩・柱状図）.pdf",
       "fileSize": 14406220
     },
@@ -1742,9 +2680,35 @@
         "/previews/g1-2022-toyama-earth-dcea811/page-03.jpg",
         "/previews/g1-2022-toyama-earth-dcea811/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-toyama-earth-dcea811.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2022-toyama-earth-dcea811.pdf",
       "pdfFileName": "2022年実施_富山県_中1理科_地震（初期微動・地震発生時刻・P波とS波・マグニチュード・海洋プレート）.pdf",
       "fileSize": 9118746
+    },
+    {
+      "id": "g2-2022-toyama-earth-b95cc1c",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "富山県",
+      "field": "地学",
+      "unit": "天気の変化（空気中の水蒸気量・雲のでき方・低気圧・天気図記号）",
+      "shortUnit": "天気の変化",
+      "tags": [
+        "空気中の水蒸気量",
+        "雲のでき方",
+        "低気圧",
+        "天気図記号"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2022-toyama-earth-b95cc1c/page-01.jpg",
+        "/previews/g2-2022-toyama-earth-b95cc1c/page-02.jpg",
+        "/previews/g2-2022-toyama-earth-b95cc1c/page-03.jpg",
+        "/previews/g2-2022-toyama-earth-b95cc1c/page-04.jpg",
+        "/previews/g2-2022-toyama-earth-b95cc1c/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2022-toyama-earth-b95cc1c.pdf",
+      "pdfFileName": "2022年実施_富山県_中2理科_天気の変化（空気中の水蒸気量・雲のでき方・低気圧・天気図記号）.pdf",
+      "fileSize": 10831053
     },
     {
       "id": "g1-2022-fukushima-earth-78b2d80",
@@ -1768,9 +2732,62 @@
         "/previews/g1-2022-fukushima-earth-78b2d80/page-03.jpg",
         "/previews/g1-2022-fukushima-earth-78b2d80/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-fukushima-earth-78b2d80.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2022-fukushima-earth-78b2d80.pdf",
       "pdfFileName": "2022年実施_福島県_中1理科_火成岩と地層（火成岩の組織・マグマの冷え方・堆積岩・土砂の運搬と堆積・プレートの沈み込みと山地形成）.pdf",
       "fileSize": 11379731
+    },
+    {
+      "id": "g2-2022-fukushima-earth-ee97fd9",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "福島県",
+      "field": "地学",
+      "unit": "天気の変化（天気図・前線・気圧配置・季節風）",
+      "shortUnit": "天気の変化",
+      "tags": [
+        "天気図",
+        "前線",
+        "気圧配置",
+        "季節風"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2022-fukushima-earth-ee97fd9/page-01.jpg",
+        "/previews/g2-2022-fukushima-earth-ee97fd9/page-02.jpg",
+        "/previews/g2-2022-fukushima-earth-ee97fd9/page-03.jpg",
+        "/previews/g2-2022-fukushima-earth-ee97fd9/page-04.jpg",
+        "/previews/g2-2022-fukushima-earth-ee97fd9/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2022-fukushima-earth-ee97fd9.pdf",
+      "pdfFileName": "2022年実施_福島県_中2理科_天気の変化（天気図・前線・気圧配置・季節風）.pdf",
+      "fileSize": 11720435
+    },
+    {
+      "id": "g2-2022-hokkaido-earth-191be8b",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "北海道",
+      "field": "地学",
+      "unit": "天気の変化（気象観測・湿度・気圧・前線・天気図）",
+      "shortUnit": "天気の変化",
+      "tags": [
+        "気象観測",
+        "湿度",
+        "気圧",
+        "前線",
+        "天気図"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2022-hokkaido-earth-191be8b/page-01.jpg",
+        "/previews/g2-2022-hokkaido-earth-191be8b/page-02.jpg",
+        "/previews/g2-2022-hokkaido-earth-191be8b/page-03.jpg",
+        "/previews/g2-2022-hokkaido-earth-191be8b/page-04.jpg",
+        "/previews/g2-2022-hokkaido-earth-191be8b/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2022-hokkaido-earth-191be8b.pdf",
+      "pdfFileName": "2022年実施_北海道_中2理科_天気の変化（気象観測・湿度・気圧・前線・天気図）.pdf",
+      "fileSize": 14280996
     },
     {
       "id": "g1-2022-ibaraki-physics-4f2e6c2",
@@ -1794,7 +2811,7 @@
         "/previews/g1-2022-ibaraki-physics-4f2e6c2/page-04.jpg",
         "/previews/g1-2022-ibaraki-physics-4f2e6c2/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-ibaraki-physics-4f2e6c2.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2022-ibaraki-physics-4f2e6c2.pdf",
       "pdfFileName": "2022年実施_茨城県_中1理科_音の性質（振動数・音の高さ・音速・音の反射）.pdf",
       "fileSize": 12834982
     },
@@ -1821,7 +2838,7 @@
         "/previews/g1-2022-yamaguchi-physics-e207789/page-04.jpg",
         "/previews/g1-2022-yamaguchi-physics-e207789/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-yamaguchi-physics-e207789.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2022-yamaguchi-physics-e207789.pdf",
       "pdfFileName": "2022年実施_山口県_中1理科_音の性質（振動数・音の高さ・気柱の長さ・波形・音の反射）.pdf",
       "fileSize": 13953913
     },
@@ -1849,7 +2866,7 @@
         "/previews/g1-2022-tokushima-physics-2f50384/page-04.jpg",
         "/previews/g1-2022-tokushima-physics-2f50384/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-tokushima-physics-2f50384.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2022-tokushima-physics-2f50384.pdf",
       "pdfFileName": "2022年実施_徳島県_中1理科_光の性質（凸レンズ・実像・屈折・焦点・作図・望遠鏡）.pdf",
       "fileSize": 9543421
     },
@@ -1874,9 +2891,112 @@
         "/previews/g1-2022-toyama-physics-aa19915/page-03.jpg",
         "/previews/g1-2022-toyama-physics-aa19915/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2022-toyama-physics-aa19915.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2022-toyama-physics-aa19915.pdf",
       "pdfFileName": "2022年実施_富山県_中1理科_光と鏡（屈折・全反射・水中の見え方・鏡の反射と像）.pdf",
       "fileSize": 11408086
+    },
+    {
+      "id": "g2-2021-ibaraki-biology-19ffe2c",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "茨城県",
+      "field": "生物",
+      "unit": "植物の体のつくりとはたらき（蒸散・気孔・道管・対照実験）",
+      "shortUnit": "植物の体のつくりとはたらき",
+      "tags": [
+        "蒸散",
+        "気孔",
+        "道管",
+        "対照実験"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2021-ibaraki-biology-19ffe2c/page-01.jpg",
+        "/previews/g2-2021-ibaraki-biology-19ffe2c/page-02.jpg",
+        "/previews/g2-2021-ibaraki-biology-19ffe2c/page-03.jpg",
+        "/previews/g2-2021-ibaraki-biology-19ffe2c/page-04.jpg",
+        "/previews/g2-2021-ibaraki-biology-19ffe2c/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-ibaraki-biology-19ffe2c.pdf",
+      "pdfFileName": "2021年実施_茨城県_中2理科_植物の体のつくりとはたらき（蒸散・気孔・道管・対照実験）.pdf",
+      "fileSize": 18323843
+    },
+    {
+      "id": "g2-2021-okinawa-biology-899ff3c",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "沖縄県",
+      "field": "生物",
+      "unit": "生物と細胞（血液の成分・動物細胞と植物細胞・細胞の呼吸・光合成）",
+      "shortUnit": "生物と細胞",
+      "tags": [
+        "血液の成分",
+        "動物細胞と植物細胞",
+        "細胞の呼吸",
+        "光合成"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2021-okinawa-biology-899ff3c/page-01.jpg",
+        "/previews/g2-2021-okinawa-biology-899ff3c/page-02.jpg",
+        "/previews/g2-2021-okinawa-biology-899ff3c/page-03.jpg",
+        "/previews/g2-2021-okinawa-biology-899ff3c/page-04.jpg",
+        "/previews/g2-2021-okinawa-biology-899ff3c/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-okinawa-biology-899ff3c.pdf",
+      "pdfFileName": "2021年実施_沖縄県_中2理科_生物と細胞（血液の成分・動物細胞と植物細胞・細胞の呼吸・光合成）.pdf",
+      "fileSize": 13705680
+    },
+    {
+      "id": "g2-2021-iwate-biology-c2a98b8",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "岩手県",
+      "field": "生物",
+      "unit": "動物の体のつくりとはたらき（だ液・消化と吸収・刺激と反応）",
+      "shortUnit": "動物の体のつくりとはたらき",
+      "tags": [
+        "だ液",
+        "消化と吸収",
+        "刺激と反応"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2021-iwate-biology-c2a98b8/page-01.jpg",
+        "/previews/g2-2021-iwate-biology-c2a98b8/page-02.jpg",
+        "/previews/g2-2021-iwate-biology-c2a98b8/page-03.jpg",
+        "/previews/g2-2021-iwate-biology-c2a98b8/page-04.jpg",
+        "/previews/g2-2021-iwate-biology-c2a98b8/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-iwate-biology-c2a98b8.pdf",
+      "pdfFileName": "2021年実施_岩手県_中2理科_動物の体のつくりとはたらき（だ液・消化と吸収・刺激と反応）.pdf",
+      "fileSize": 11467252
+    },
+    {
+      "id": "g2-2021-gifu-biology-26ea257",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "岐阜県",
+      "field": "生物",
+      "unit": "植物の体のつくりとはたらき（光合成・呼吸・道管と師管・気孔・対照実験）",
+      "shortUnit": "植物の体のつくりとはたらき",
+      "tags": [
+        "光合成",
+        "呼吸",
+        "道管と師管",
+        "気孔",
+        "対照実験"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2021-gifu-biology-26ea257/page-01.jpg",
+        "/previews/g2-2021-gifu-biology-26ea257/page-02.jpg",
+        "/previews/g2-2021-gifu-biology-26ea257/page-03.jpg",
+        "/previews/g2-2021-gifu-biology-26ea257/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-gifu-biology-26ea257.pdf",
+      "pdfFileName": "2021年実施_岐阜県_中2理科_植物の体のつくりとはたらき（光合成・呼吸・道管と師管・気孔・対照実験）.pdf",
+      "fileSize": 12125779
     },
     {
       "id": "g1-2021-mie-biology-7844065",
@@ -1902,7 +3022,7 @@
         "/previews/g1-2021-mie-biology-7844065/page-05.jpg",
         "/previews/g1-2021-mie-biology-7844065/page-06.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2021-mie-biology-7844065.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2021-mie-biology-7844065.pdf",
       "pdfFileName": "2021年実施_三重県_中1理科_動物の分類（セキツイ動物5類・卵生と胎生・恒温動物・両生類の呼吸・軟体動物）.pdf",
       "fileSize": 14421158
     },
@@ -1928,7 +3048,7 @@
         "/previews/g1-2021-yamagata-biology-997271c/page-03.jpg",
         "/previews/g1-2021-yamagata-biology-997271c/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2021-yamagata-biology-997271c.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2021-yamagata-biology-997271c.pdf",
       "pdfFileName": "2021年実施_山形県_中1理科_花のつくりと分類（エンドウとツツジ・合弁花・花粉管・精細胞・受粉）.pdf",
       "fileSize": 8121795
     },
@@ -1954,7 +3074,7 @@
         "/previews/g1-2021-yamaguchi-biology-7a2f8b6/page-03.jpg",
         "/previews/g1-2021-yamaguchi-biology-7a2f8b6/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2021-yamaguchi-biology-7a2f8b6.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2021-yamaguchi-biology-7a2f8b6.pdf",
       "pdfFileName": "2021年実施_山口県_中1理科_植物の観察と分類（やくと花粉・単子葉類と双子葉類・維管束・胚珠と種子・根毛）.pdf",
       "fileSize": 8376655
     },
@@ -1980,7 +3100,7 @@
         "/previews/g1-2021-yamanashi-biology-563898a/page-03.jpg",
         "/previews/g1-2021-yamanashi-biology-563898a/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2021-yamanashi-biology-563898a.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2021-yamanashi-biology-563898a.pdf",
       "pdfFileName": "2021年実施_山梨県_中1理科_植物の分類（コケ・シダ・裸子植物と被子植物・単子葉類と双子葉類・離弁花と合弁花）.pdf",
       "fileSize": 8524518
     },
@@ -2007,7 +3127,7 @@
         "/previews/g1-2021-akita-biology-ee9a441/page-03.jpg",
         "/previews/g1-2021-akita-biology-ee9a441/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2021-akita-biology-ee9a441.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2021-akita-biology-ee9a441.pdf",
       "pdfFileName": "2021年実施_秋田県_中1理科_植物の特徴と分類（被子植物と裸子植物・シダ植物とコケ植物・離弁花・胚珠・維管束・仮根）.pdf",
       "fileSize": 8761952
     },
@@ -2033,9 +3153,61 @@
         "/previews/g1-2021-aomori-biology-dc087c3/page-03.jpg",
         "/previews/g1-2021-aomori-biology-dc087c3/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2021-aomori-biology-dc087c3.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2021-aomori-biology-dc087c3.pdf",
       "pdfFileName": "2021年実施_青森県_中1理科_動物の分類（セキツイ動物5類・卵生と胎生・恒温動物と変温動物・体表・呼吸）.pdf",
       "fileSize": 8522828
+    },
+    {
+      "id": "g2-2021-chiba-biology-babae75",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "千葉県",
+      "field": "生物",
+      "unit": "植物の体のつくりとはたらき（蒸散・気孔・道管・水の移動・対照実験）",
+      "shortUnit": "植物の体のつくりとはたらき",
+      "tags": [
+        "蒸散",
+        "気孔",
+        "道管",
+        "水の移動",
+        "対照実験"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2021-chiba-biology-babae75/page-01.jpg",
+        "/previews/g2-2021-chiba-biology-babae75/page-02.jpg",
+        "/previews/g2-2021-chiba-biology-babae75/page-03.jpg",
+        "/previews/g2-2021-chiba-biology-babae75/page-04.jpg",
+        "/previews/g2-2021-chiba-biology-babae75/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-chiba-biology-babae75.pdf",
+      "pdfFileName": "2021年実施_千葉県_中2理科_植物の体のつくりとはたらき（蒸散・気孔・道管・水の移動・対照実験）.pdf",
+      "fileSize": 18329486
+    },
+    {
+      "id": "g2-2021-nagasaki-biology-7fb1f18",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "長崎県",
+      "field": "生物",
+      "unit": "植物の体のつくりとはたらき（維管束・蒸散・呼吸・対照実験）",
+      "shortUnit": "植物の体のつくりとはたらき",
+      "tags": [
+        "維管束",
+        "蒸散",
+        "呼吸",
+        "対照実験"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2021-nagasaki-biology-7fb1f18/page-01.jpg",
+        "/previews/g2-2021-nagasaki-biology-7fb1f18/page-02.jpg",
+        "/previews/g2-2021-nagasaki-biology-7fb1f18/page-03.jpg",
+        "/previews/g2-2021-nagasaki-biology-7fb1f18/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-nagasaki-biology-7fb1f18.pdf",
+      "pdfFileName": "2021年実施_長崎県_中2理科_植物の体のつくりとはたらき（維管束・蒸散・呼吸・対照実験）.pdf",
+      "fileSize": 9389279
     },
     {
       "id": "g1-2021-nagasaki-biology-68f7d85",
@@ -2059,9 +3231,36 @@
         "/previews/g1-2021-nagasaki-biology-68f7d85/page-03.jpg",
         "/previews/g1-2021-nagasaki-biology-68f7d85/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2021-nagasaki-biology-68f7d85.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2021-nagasaki-biology-68f7d85.pdf",
       "pdfFileName": "2021年実施_長崎県_中1理科_動物の分類と進化（セキツイ動物5類・呼吸・卵生と胎生・節足動物・相同器官）.pdf",
       "fileSize": 7549886
+    },
+    {
+      "id": "g2-2021-tokyo-biology-7289cb1",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "東京都",
+      "field": "生物",
+      "unit": "植物の体のつくりとはたらき（葉のつくり・気孔・光合成・呼吸・対照実験）",
+      "shortUnit": "植物の体のつくりとはたらき",
+      "tags": [
+        "葉のつくり",
+        "気孔",
+        "光合成",
+        "呼吸",
+        "対照実験"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2021-tokyo-biology-7289cb1/page-01.jpg",
+        "/previews/g2-2021-tokyo-biology-7289cb1/page-02.jpg",
+        "/previews/g2-2021-tokyo-biology-7289cb1/page-03.jpg",
+        "/previews/g2-2021-tokyo-biology-7289cb1/page-04.jpg",
+        "/previews/g2-2021-tokyo-biology-7289cb1/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-tokyo-biology-7289cb1.pdf",
+      "pdfFileName": "2021年実施_東京都_中2理科_植物の体のつくりとはたらき（葉のつくり・気孔・光合成・呼吸・対照実験）.pdf",
+      "fileSize": 15441847
     },
     {
       "id": "g2-2021-tochigi-biology-1e21124",
@@ -2086,9 +3285,9 @@
         "/previews/g2-2021-tochigi-biology-1e21124/page-03.jpg",
         "/previews/g2-2021-tochigi-biology-1e21124/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2021-tochigi-biology-1e21124.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-tochigi-biology-1e21124.pdf",
       "pdfFileName": "2021年実施_栃木県_中2理科_植物の体のつくりとはたらき（維管束・道管と師管・蒸散・気孔・葉の表裏・光と蒸散量）.pdf",
-      "fileSize": 7184984
+      "fileSize": 7994877
     },
     {
       "id": "g2-2021-toyama-biology-e815b74",
@@ -2113,9 +3312,9 @@
         "/previews/g2-2021-toyama-biology-e815b74/page-04.jpg",
         "/previews/g2-2021-toyama-biology-e815b74/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2021-toyama-biology-e815b74.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-toyama-biology-e815b74.pdf",
       "pdfFileName": "2021年実施_富山県_中2理科_消化と吸収（だ液・アミラーゼ・ヨウ素液とベネジクト液・対照実験・小腸の柔毛）.pdf",
-      "fileSize": 13595835
+      "fileSize": 13596086
     },
     {
       "id": "g1-2021-fukuoka-biology-e09d8dd",
@@ -2140,7 +3339,7 @@
         "/previews/g1-2021-fukuoka-biology-e09d8dd/page-03.jpg",
         "/previews/g1-2021-fukuoka-biology-e09d8dd/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2021-fukuoka-biology-e09d8dd.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2021-fukuoka-biology-e09d8dd.pdf",
       "pdfFileName": "2021年実施_福岡県_中1理科_動物の分類（セキツイ動物5類・呼吸・卵生と胎生・恒温動物・節足動物・軟体動物）.pdf",
       "fileSize": 6888894
     },
@@ -2166,9 +3365,38 @@
         "/previews/g2-2021-fukushima-biology-5fcc97d/page-03.jpg",
         "/previews/g2-2021-fukushima-biology-5fcc97d/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2021-fukushima-biology-5fcc97d.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-fukushima-biology-5fcc97d.pdf",
       "pdfFileName": "2021年実施_福島県_中2理科_植物の体のつくりとはたらき（気孔・蒸散・塩化コバルト紙・葉の表裏・吸水）.pdf",
-      "fileSize": 8363424
+      "fileSize": 8455790
+    },
+    {
+      "id": "g2-2021-fukushima-biology-596b828",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "福島県",
+      "field": "生物",
+      "unit": "動物の体のつくりとはたらき（刺激と反応・感覚器官・感覚神経・運動神経・中枢神経・反射・筋肉）",
+      "shortUnit": "動物の体のつくりとはたらき",
+      "tags": [
+        "刺激と反応",
+        "感覚器官",
+        "感覚神経",
+        "運動神経",
+        "中枢神経",
+        "反射",
+        "筋肉"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2021-fukushima-biology-596b828/page-01.jpg",
+        "/previews/g2-2021-fukushima-biology-596b828/page-02.jpg",
+        "/previews/g2-2021-fukushima-biology-596b828/page-03.jpg",
+        "/previews/g2-2021-fukushima-biology-596b828/page-04.jpg",
+        "/previews/g2-2021-fukushima-biology-596b828/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-fukushima-biology-596b828.pdf",
+      "pdfFileName": "2021年実施_福島県_中2理科_動物の体のつくりとはたらき（刺激と反応・感覚器官・感覚神経・運動神経・中枢神経・反射・筋肉）.pdf",
+      "fileSize": 10665633
     },
     {
       "id": "g2-2021-hokkaido-biology-9ad3332",
@@ -2193,9 +3421,300 @@
         "/previews/g2-2021-hokkaido-biology-9ad3332/page-04.jpg",
         "/previews/g2-2021-hokkaido-biology-9ad3332/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g2-2021-hokkaido-biology-9ad3332.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-hokkaido-biology-9ad3332.pdf",
       "pdfFileName": "2021年実施_北海道_中2理科_消化酵素のはたらき（アミラーゼ・タンパク質分解酵素・ヨウ素液・ベネジクト液・対照実験）.pdf",
-      "fileSize": 18455684
+      "fileSize": 19020065
+    },
+    {
+      "id": "g2-2021-okinawa-earth-0af6849",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "沖縄県",
+      "field": "地学",
+      "unit": "気象（季節風・気団・露点・湿度）",
+      "shortUnit": "気象",
+      "tags": [
+        "季節風",
+        "気団",
+        "露点",
+        "湿度"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2021-okinawa-earth-0af6849/page-01.jpg",
+        "/previews/g2-2021-okinawa-earth-0af6849/page-02.jpg",
+        "/previews/g2-2021-okinawa-earth-0af6849/page-03.jpg",
+        "/previews/g2-2021-okinawa-earth-0af6849/page-04.jpg",
+        "/previews/g2-2021-okinawa-earth-0af6849/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-okinawa-earth-0af6849.pdf",
+      "pdfFileName": "2021年実施_沖縄県_中2理科_気象（季節風・気団・露点・湿度）.pdf",
+      "fileSize": 11450961
+    },
+    {
+      "id": "g2-2021-gifu-earth-b2d44a4",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "岐阜県",
+      "field": "地学",
+      "unit": "天気の変化（温暖前線・温帯低気圧・気圧・天気記号・風向）",
+      "shortUnit": "天気の変化",
+      "tags": [
+        "温暖前線",
+        "温帯低気圧",
+        "気圧",
+        "天気記号",
+        "風向"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2021-gifu-earth-b2d44a4/page-01.jpg",
+        "/previews/g2-2021-gifu-earth-b2d44a4/page-02.jpg",
+        "/previews/g2-2021-gifu-earth-b2d44a4/page-03.jpg",
+        "/previews/g2-2021-gifu-earth-b2d44a4/page-04.jpg",
+        "/previews/g2-2021-gifu-earth-b2d44a4/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-gifu-earth-b2d44a4.pdf",
+      "pdfFileName": "2021年実施_岐阜県_中2理科_天気の変化（温暖前線・温帯低気圧・気圧・天気記号・風向）.pdf",
+      "fileSize": 8747074
+    },
+    {
+      "id": "g2-2021-miyazaki-earth-b21ed38",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "宮崎県",
+      "field": "地学",
+      "unit": "天気の変化（天気図・前線・気圧・風向・降水）",
+      "shortUnit": "天気の変化",
+      "tags": [
+        "天気図",
+        "前線",
+        "気圧",
+        "風向",
+        "降水"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2021-miyazaki-earth-b21ed38/page-01.jpg",
+        "/previews/g2-2021-miyazaki-earth-b21ed38/page-02.jpg",
+        "/previews/g2-2021-miyazaki-earth-b21ed38/page-03.jpg",
+        "/previews/g2-2021-miyazaki-earth-b21ed38/page-04.jpg",
+        "/previews/g2-2021-miyazaki-earth-b21ed38/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-miyazaki-earth-b21ed38.pdf",
+      "pdfFileName": "2021年実施_宮崎県_中2理科_天気の変化（天気図・前線・気圧・風向・降水）.pdf",
+      "fileSize": 11549284
+    },
+    {
+      "id": "g1-2021-saitama-earth-bad59c5",
+      "grade": 1,
+      "year": 2021,
+      "prefecture": "埼玉県",
+      "field": "地学",
+      "unit": "地震と地球内部のはたらき（プレートの運動・震度・P波とS波・初期微動継続時間・緊急地震速報）",
+      "shortUnit": "地震と地球内部のはたらき",
+      "tags": [
+        "プレートの運動",
+        "震度",
+        "P波とS波",
+        "初期微動継続時間",
+        "緊急地震速報"
+      ],
+      "pageCount": 6,
+      "previewPages": [
+        "/previews/g1-2021-saitama-earth-bad59c5/page-01.jpg",
+        "/previews/g1-2021-saitama-earth-bad59c5/page-02.jpg",
+        "/previews/g1-2021-saitama-earth-bad59c5/page-03.jpg",
+        "/previews/g1-2021-saitama-earth-bad59c5/page-04.jpg",
+        "/previews/g1-2021-saitama-earth-bad59c5/page-05.jpg",
+        "/previews/g1-2021-saitama-earth-bad59c5/page-06.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2021-saitama-earth-bad59c5.pdf",
+      "pdfFileName": "2021年実施_埼玉県_中1理科_地震と地球内部のはたらき（プレートの運動・震度・P波とS波・初期微動継続時間・緊急地震速報）.pdf",
+      "fileSize": 14170741
+    },
+    {
+      "id": "g2-2021-yamagata-earth-fa4b555",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "山形県",
+      "field": "地学",
+      "unit": "天気の変化（露点・飽和水蒸気量・湿度・水の循環）",
+      "shortUnit": "天気の変化",
+      "tags": [
+        "露点",
+        "飽和水蒸気量",
+        "湿度",
+        "水の循環"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2021-yamagata-earth-fa4b555/page-01.jpg",
+        "/previews/g2-2021-yamagata-earth-fa4b555/page-02.jpg",
+        "/previews/g2-2021-yamagata-earth-fa4b555/page-03.jpg",
+        "/previews/g2-2021-yamagata-earth-fa4b555/page-04.jpg",
+        "/previews/g2-2021-yamagata-earth-fa4b555/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-yamagata-earth-fa4b555.pdf",
+      "pdfFileName": "2021年実施_山形県_中2理科_天気の変化（露点・飽和水蒸気量・湿度・水の循環）.pdf",
+      "fileSize": 10750169
+    },
+    {
+      "id": "g2-2021-yamanashi-earth-53e0193",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "山梨県",
+      "field": "地学",
+      "unit": "雲のでき方と天気（気圧・断熱膨張・露点・湿度・雲）",
+      "shortUnit": "雲のでき方と天気",
+      "tags": [
+        "気圧",
+        "断熱膨張",
+        "露点",
+        "湿度",
+        "雲"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2021-yamanashi-earth-53e0193/page-01.jpg",
+        "/previews/g2-2021-yamanashi-earth-53e0193/page-02.jpg",
+        "/previews/g2-2021-yamanashi-earth-53e0193/page-03.jpg",
+        "/previews/g2-2021-yamanashi-earth-53e0193/page-04.jpg",
+        "/previews/g2-2021-yamanashi-earth-53e0193/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-yamanashi-earth-53e0193.pdf",
+      "pdfFileName": "2021年実施_山梨県_中2理科_雲のでき方と天気（気圧・断熱膨張・露点・湿度・雲）.pdf",
+      "fileSize": 11054183
+    },
+    {
+      "id": "g2-2021-shizuoka-earth-c4de7c6",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "静岡県",
+      "field": "地学",
+      "unit": "気象（気象観測・天気図・前線・気圧配置）",
+      "shortUnit": "気象",
+      "tags": [
+        "気象観測",
+        "天気図",
+        "前線",
+        "気圧配置"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2021-shizuoka-earth-c4de7c6/page-01.jpg",
+        "/previews/g2-2021-shizuoka-earth-c4de7c6/page-02.jpg",
+        "/previews/g2-2021-shizuoka-earth-c4de7c6/page-03.jpg",
+        "/previews/g2-2021-shizuoka-earth-c4de7c6/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-shizuoka-earth-c4de7c6.pdf",
+      "pdfFileName": "2021年実施_静岡県_中2理科_気象（気象観測・天気図・前線・気圧配置）.pdf",
+      "fileSize": 7716465
+    },
+    {
+      "id": "g2-2021-chiba-earth-64befa0",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "千葉県",
+      "field": "地学",
+      "unit": "天気の変化（気圧・湿度・天気図・前線・風向）",
+      "shortUnit": "天気の変化",
+      "tags": [
+        "気圧",
+        "湿度",
+        "天気図",
+        "前線",
+        "風向"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2021-chiba-earth-64befa0/page-01.jpg",
+        "/previews/g2-2021-chiba-earth-64befa0/page-02.jpg",
+        "/previews/g2-2021-chiba-earth-64befa0/page-03.jpg",
+        "/previews/g2-2021-chiba-earth-64befa0/page-04.jpg",
+        "/previews/g2-2021-chiba-earth-64befa0/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-chiba-earth-64befa0.pdf",
+      "pdfFileName": "2021年実施_千葉県_中2理科_天気の変化（気圧・湿度・天気図・前線・風向）.pdf",
+      "fileSize": 29747226
+    },
+    {
+      "id": "g2-2021-tokyo-earth-16a3cf1",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "東京都",
+      "field": "地学",
+      "unit": "天気の変化（空気中の水蒸気量・前線の通過・気象観測・日本の気象）",
+      "shortUnit": "天気の変化",
+      "tags": [
+        "空気中の水蒸気量",
+        "前線の通過",
+        "気象観測",
+        "日本の気象"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2021-tokyo-earth-16a3cf1/page-01.jpg",
+        "/previews/g2-2021-tokyo-earth-16a3cf1/page-02.jpg",
+        "/previews/g2-2021-tokyo-earth-16a3cf1/page-03.jpg",
+        "/previews/g2-2021-tokyo-earth-16a3cf1/page-04.jpg",
+        "/previews/g2-2021-tokyo-earth-16a3cf1/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-tokyo-earth-16a3cf1.pdf",
+      "pdfFileName": "2021年実施_東京都_中2理科_天気の変化（空気中の水蒸気量・前線の通過・気象観測・日本の気象）.pdf",
+      "fileSize": 14984052
+    },
+    {
+      "id": "g2-2021-tochigi-earth-4c7d19a",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "栃木県",
+      "field": "地学",
+      "unit": "天気の変化（天気図・前線・気圧・風向・湿度）",
+      "shortUnit": "天気の変化",
+      "tags": [
+        "天気図",
+        "前線",
+        "気圧",
+        "風向",
+        "湿度"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2021-tochigi-earth-4c7d19a/page-01.jpg",
+        "/previews/g2-2021-tochigi-earth-4c7d19a/page-02.jpg",
+        "/previews/g2-2021-tochigi-earth-4c7d19a/page-03.jpg",
+        "/previews/g2-2021-tochigi-earth-4c7d19a/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-tochigi-earth-4c7d19a.pdf",
+      "pdfFileName": "2021年実施_栃木県_中2理科_天気の変化（天気図・前線・気圧・風向・湿度）.pdf",
+      "fileSize": 7375734
+    },
+    {
+      "id": "g2-2021-fukuoka-earth-6f5f130",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "福岡県",
+      "field": "地学",
+      "unit": "日本の気象（天気図・気圧配置・寒冷前線・移動性高気圧・春の天気）",
+      "shortUnit": "日本の気象",
+      "tags": [
+        "天気図",
+        "気圧配置",
+        "寒冷前線",
+        "移動性高気圧",
+        "春の天気"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2021-fukuoka-earth-6f5f130/page-01.jpg",
+        "/previews/g2-2021-fukuoka-earth-6f5f130/page-02.jpg",
+        "/previews/g2-2021-fukuoka-earth-6f5f130/page-03.jpg",
+        "/previews/g2-2021-fukuoka-earth-6f5f130/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-fukuoka-earth-6f5f130.pdf",
+      "pdfFileName": "2021年実施_福岡県_中2理科_日本の気象（天気図・気圧配置・寒冷前線・移動性高気圧・春の天気）.pdf",
+      "fileSize": 17754539
     },
     {
       "id": "g1-2020-nagasaki-biology-a368092",
@@ -2220,7 +3739,7 @@
         "/previews/g1-2020-nagasaki-biology-a368092/page-03.jpg",
         "/previews/g1-2020-nagasaki-biology-a368092/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2020-nagasaki-biology-a368092.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2020-nagasaki-biology-a368092.pdf",
       "pdfFileName": "2020年実施_長崎県_中1理科_植物の体のつくりと分類・生殖（裸子植物と被子植物・双子葉類・シダ植物とコケ植物・維管束・仮根・花粉管と受精）.pdf",
       "fileSize": 7334457
     },
@@ -2245,7 +3764,7 @@
         "/previews/g1-2020-tochigi-biology-67a80db/page-03.jpg",
         "/previews/g1-2020-tochigi-biology-67a80db/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2020-tochigi-biology-67a80db.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2020-tochigi-biology-67a80db.pdf",
       "pdfFileName": "2020年実施_栃木県_中1理科_植物のつくりと分類（花のつくりと受粉・双子葉類と単子葉類・シダ植物とコケ植物・被子植物と裸子植物）.pdf",
       "fileSize": 8037365
     },
@@ -2271,7 +3790,7 @@
         "/previews/g1-2019-ibaraki-biology-2ecb7d9/page-03.jpg",
         "/previews/g1-2019-ibaraki-biology-2ecb7d9/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2019-ibaraki-biology-2ecb7d9.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2019-ibaraki-biology-2ecb7d9.pdf",
       "pdfFileName": "2019年実施_茨城県_中1理科_動物の分類（脊椎動物と無脊椎動物・外骨格・呼吸・卵生と胎生・相同器官）.pdf",
       "fileSize": 6963243
     },
@@ -2298,7 +3817,7 @@
         "/previews/g1-2019-miyazaki-biology-f67673c/page-04.jpg",
         "/previews/g1-2019-miyazaki-biology-f67673c/page-05.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2019-miyazaki-biology-f67673c.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2019-miyazaki-biology-f67673c.pdf",
       "pdfFileName": "2019年実施_宮崎県_中1理科_動物の分類（脊椎動物・体温・呼吸・卵生と胎生・相同器官と進化）.pdf",
       "fileSize": 7269104
     },
@@ -2324,7 +3843,7 @@
         "/previews/g1-2019-aomori-biology-873804f/page-03.jpg",
         "/previews/g1-2019-aomori-biology-873804f/page-04.jpg"
       ],
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v1/g1-2019-aomori-biology-873804f.pdf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2019-aomori-biology-873804f.pdf",
       "pdfFileName": "2019年実施_青森県_中1理科_植物の分類（コケ植物・シダ植物・種子植物・被子植物と裸子植物・単子葉類と双子葉類）.pdf",
       "fileSize": 7906484
     }

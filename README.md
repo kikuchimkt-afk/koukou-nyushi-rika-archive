@@ -35,6 +35,7 @@ npm run dev
 ```powershell
 $env:SOURCE_ROOT = 'C:\path\to\output\pdf'
 $env:PDFTOPPM = 'C:\path\to\pdftoppm.exe'
+$env:RELEASE_TAG = 'pdfs-v2'
 npm run build-content
 npm run check-content
 ```
@@ -44,5 +45,7 @@ npm run check-content
 - `public/previews/<問題ID>/page-*.jpg`
 - `data/archive.generated.json`
 - `.release-assets/*.pdf`（Git管理・Vercel送信の対象外）
+
+再生成時は、現在の最終版PDFに対応しない古いプレビューとリリース用PDFを自動的に削除します。同じIDのPDF内容を差し替える場合は、新しいGitHub Releaseタグを指定し、API取得URLにもタグをバージョン値として付与します。
 
 中2・中3も同じファイル名規則で追加できます。

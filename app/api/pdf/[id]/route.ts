@@ -10,12 +10,17 @@ export const dynamic = "force-dynamic";
 export async function GET(request: Request, context: { params: Promise<{ id: string }> }) {
   const { id } = await context.params;
   const item = data.items.find((candidate) => candidate.id === id);
+  const requestUrl = new URL(request.url);
 
   if (!item) {
     return Response.json({ error: "問題が見つかりません。" }, { status: 404 });
   }
 
-  const chunk = Number(new URL(request.url).searchParams.get("chunk"));
+  if (requestUrl.searchParams.get("v") !== data.releaseTag) {
+    return Response.json({ error: "PDFデータの版が一致しません。ページを再読込してください。" }, { status: 409 });
+  }
+
+  const chunk = Number(requestUrl.searchParams.get("chunk"));
   if (!Number.isInteger(chunk) || chunk < 0) {
     return Response.json({ error: "チャンク番号が不正です。" }, { status: 400 });
   }

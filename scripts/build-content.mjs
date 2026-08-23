@@ -8,7 +8,7 @@ const args = parseArgs(process.argv.slice(2));
 const repoRoot = path.resolve(import.meta.dirname, "..");
 const sourceRoot = path.resolve(args["source-root"] || process.env.SOURCE_ROOT || "");
 const pdftoppm = args.pdftoppm || process.env.PDFTOPPM || "pdftoppm";
-const releaseTag = args["release-tag"] || process.env.RELEASE_TAG || "pdfs-v1";
+const releaseTag = args["release-tag"] || process.env.RELEASE_TAG || "pdfs-v2";
 const githubRepo = args["github-repo"] || process.env.GITHUB_REPO || "kikuchimkt-afk/koukou-nyushi-rika-archive";
 const previewRoot = path.join(repoRoot, "public", "previews");
 const releaseRoot = path.join(repoRoot, ".release-assets");
@@ -111,6 +111,20 @@ for (const [index, source] of sourcePdfs.entries()) {
   console.log(`[${index + 1}/${sourcePdfs.length}] ${id} ${rendered.length}p ${source.name}`);
 }
 
+const wantedPreviewIds = new Set(items.map((item) => item.id));
+for (const entry of await readdir(previewRoot, { withFileTypes: true })) {
+  if (entry.isDirectory() && /^g[123]-/.test(entry.name) && !wantedPreviewIds.has(entry.name)) {
+    await rm(path.join(previewRoot, entry.name), { recursive: true, force: true });
+  }
+}
+
+const wantedReleaseNames = new Set(items.map((item) => `${item.id}.pdf`));
+for (const entry of await readdir(releaseRoot, { withFileTypes: true })) {
+  if (entry.isFile() && /^g[123]-.+\.pdf$/i.test(entry.name) && !wantedReleaseNames.has(entry.name)) {
+    await rm(path.join(releaseRoot, entry.name), { force: true });
+  }
+}
+
 items.sort((a, b) =>
   b.year - a.year ||
   a.field.localeCompare(b.field, "ja") ||
@@ -169,6 +183,10 @@ function parsePdfName(filename) {
 
 function detectField(sourceDir, unit) {
   const parent = path.basename(sourceDir);
+  if (parent.includes("_生物_")) return "生物";
+  if (parent.includes("_地学_")) return "地学";
+  if (parent.includes("_物理_")) return "物理";
+  if (parent.includes("_化学_")) return "化学";
   if (parent.includes("地学生物")) return /動物|植物|生物|分類|細胞|遺伝|生殖|消化|呼吸|循環|神経|感覚/.test(unit) ? "生物" : "地学";
   if (parent.includes("化学物理")) {
     if (/^(大気圧|水圧|浮力|力|光|音|凸レンズ|鏡)/.test(unit)) return "物理";

@@ -4,8 +4,16 @@ import { PDFDocument } from "pdf-lib";
 const baseUrl = process.env.MERGE_TEST_BASE_URL || "http://127.0.0.1:3170";
 const chunkSize = 3 * 1024 * 1024;
 const data = JSON.parse(readFileSync(new URL("../data/archive.generated.json", import.meta.url), "utf8"));
-const items = data.items.slice(0, 2);
+const samples = [
+  data.items.find((item) => item.grade === 1),
+  data.items.find((item) => item.grade === 1 && item.year === 2021 && item.prefecture === "埼玉県" && item.field === "地学"),
+  data.items.find((item) => item.grade === 2 && item.field === "生物"),
+  data.items.find((item) => item.grade === 2 && item.field === "地学"),
+];
+if (samples.some((item) => !item)) throw new Error("結合テストに必要な学年・分野の資料がありません。");
+const items = [...new Map(samples.map((item) => [item.id, item])).values()];
 const merged = await PDFDocument.create();
+const releaseVersion = encodeURIComponent(data.releaseTag);
 
 for (const item of items) {
   const bytes = new Uint8Array(item.fileSize);
@@ -13,7 +21,7 @@ for (const item of items) {
   const chunkCount = Math.ceil(item.fileSize / chunkSize);
 
   for (let chunk = 0; chunk < chunkCount; chunk += 1) {
-    const response = await fetch(`${baseUrl}/api/pdf/${encodeURIComponent(item.id)}?chunk=${chunk}`);
+    const response = await fetch(`${baseUrl}/api/pdf/${encodeURIComponent(item.id)}?chunk=${chunk}&v=${releaseVersion}`);
     if (!response.ok) throw new Error(`${item.id} chunk ${chunk}: HTTP ${response.status}`);
     const part = new Uint8Array(await response.arrayBuffer());
     bytes.set(part, offset);
