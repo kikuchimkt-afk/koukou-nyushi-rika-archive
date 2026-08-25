@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-25T17:10:43.262Z",
+  "generatedAt": "2026-08-25T18:07:46.040Z",
   "releaseTag": "pdfs-v2",
-  "totalItems": 193,
-  "totalPages": 880,
+  "totalItems": 197,
+  "totalPages": 897,
   "items": [
     {
       "id": "g2-2025-yamagata-chemistry-ca7a6af",
@@ -2694,6 +2694,34 @@
       "fileSize": 10883619
     },
     {
+      "id": "g2-2023-gifu-physics-e20499d",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "岐阜県",
+      "field": "物理",
+      "unit": "電流と回路（電圧・電流・抵抗・オームの法則・直列回路・並列回路・電力量）",
+      "shortUnit": "電流と回路",
+      "tags": [
+        "電圧",
+        "電流",
+        "抵抗",
+        "オームの法則",
+        "直列回路",
+        "並列回路",
+        "電力量"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2023-gifu-physics-e20499d/page-01.jpg",
+        "/previews/g2-2023-gifu-physics-e20499d/page-02.jpg",
+        "/previews/g2-2023-gifu-physics-e20499d/page-03.jpg",
+        "/previews/g2-2023-gifu-physics-e20499d/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2023-gifu-physics-e20499d.pdf",
+      "pdfFileName": "2023年実施_岐阜県_中2理科_電流と回路（電圧・電流・抵抗・オームの法則・直列回路・並列回路・電力量）.pdf",
+      "fileSize": 17037974
+    },
+    {
       "id": "g1-2023-mie-physics-8f0b459",
       "grade": 1,
       "year": 2023,
@@ -2743,6 +2771,63 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2023-yamagata-physics-b2678f8.pdf",
       "pdfFileName": "2023年実施_山形県_中1理科_光と凸レンズ（実像・焦点距離・光の道すじ・作図）.pdf",
       "fileSize": 10325132
+    },
+    {
+      "id": "g2-2023-yamaguchi-physics-44a8087",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "山口県",
+      "field": "物理",
+      "unit": "電流の正体（真空放電・陰極線・電子・電磁誘導・静電気）",
+      "shortUnit": "電流の正体",
+      "tags": [
+        "真空放電",
+        "陰極線",
+        "電子",
+        "電磁誘導",
+        "静電気"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2023-yamaguchi-physics-44a8087/page-01.jpg",
+        "/previews/g2-2023-yamaguchi-physics-44a8087/page-02.jpg",
+        "/previews/g2-2023-yamaguchi-physics-44a8087/page-03.jpg",
+        "/previews/g2-2023-yamaguchi-physics-44a8087/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2023-yamaguchi-physics-44a8087.pdf",
+      "pdfFileName": "2023年実施_山口県_中2理科_電流の正体（真空放電・陰極線・電子・電磁誘導・静電気）.pdf",
+      "fileSize": 11329370
+    },
+    {
+      "id": "g2-2023-kagoshima-physics-4836353",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "鹿児島県",
+      "field": "物理",
+      "unit": "凸レンズと電流のはたらき（屈折・実像・作図・電流・電圧・抵抗・直列回路・並列回路・電力）",
+      "shortUnit": "凸レンズと電流のはたらき",
+      "tags": [
+        "屈折",
+        "実像",
+        "作図",
+        "電流",
+        "電圧",
+        "抵抗",
+        "直列回路",
+        "並列回路",
+        "電力"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2023-kagoshima-physics-4836353/page-01.jpg",
+        "/previews/g2-2023-kagoshima-physics-4836353/page-02.jpg",
+        "/previews/g2-2023-kagoshima-physics-4836353/page-03.jpg",
+        "/previews/g2-2023-kagoshima-physics-4836353/page-04.jpg",
+        "/previews/g2-2023-kagoshima-physics-4836353/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2023-kagoshima-physics-4836353.pdf",
+      "pdfFileName": "2023年実施_鹿児島県_中2理科_凸レンズと電流のはたらき（屈折・実像・作図・電流・電圧・抵抗・直列回路・並列回路・電力）.pdf",
+      "fileSize": 18520202
     },
     {
       "id": "g1-2023-aomori-physics-139ac94",
@@ -2796,6 +2881,34 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2023-tokushima-physics-c719542.pdf",
       "pdfFileName": "2023年実施_徳島県_中1理科_力のはたらき（質量と重力・浮力・水圧・液体の密度と圧力）.pdf",
       "fileSize": 8439681
+    },
+    {
+      "id": "g2-2023-toyama-physics-6d6e396",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "富山県",
+      "field": "物理",
+      "unit": "電熱線の発熱と電力（電流・電圧・抵抗・電力・水の温度上昇・グラフ・実験方法）",
+      "shortUnit": "電熱線の発熱と電力",
+      "tags": [
+        "電流",
+        "電圧",
+        "抵抗",
+        "電力",
+        "水の温度上昇",
+        "グラフ",
+        "実験方法"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2023-toyama-physics-6d6e396/page-01.jpg",
+        "/previews/g2-2023-toyama-physics-6d6e396/page-02.jpg",
+        "/previews/g2-2023-toyama-physics-6d6e396/page-03.jpg",
+        "/previews/g2-2023-toyama-physics-6d6e396/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2023-toyama-physics-6d6e396.pdf",
+      "pdfFileName": "2023年実施_富山県_中2理科_電熱線の発熱と電力（電流・電圧・抵抗・電力・水の温度上昇・グラフ・実験方法）.pdf",
+      "fileSize": 16011525
     },
     {
       "id": "g1-2023-fukushima-physics-0c96cce",
