@@ -12,6 +12,7 @@ const expectedCounts = new Map([
   ["1:物理", 20],
   ["1:生物", 16],
   ["1:地学", 21],
+  ["2:化学", 10],
   ["2:生物", 44],
   ["2:地学", 33],
 ]);
@@ -60,7 +61,7 @@ const countedPages = data.items.reduce((sum, item) => sum + item.previewPages.le
 if (countedPages !== data.totalPages) errors.push(`ページ数不一致: ${countedPages} != ${data.totalPages}`);
 if (data.items.length !== data.totalItems) errors.push(`題数不一致: ${data.items.length} != ${data.totalItems}`);
 if (data.releaseTag !== "pdfs-v2") errors.push(`公開PDF版不一致: ${data.releaseTag} != pdfs-v2`);
-if (data.totalItems !== 146) errors.push(`公開予定題数不一致: ${data.totalItems} != 146`);
+if (data.totalItems !== 156) errors.push(`公開予定題数不一致: ${data.totalItems} != 156`);
 for (const [key, expected] of expectedCounts) {
   const actual = actualCounts.get(key) || 0;
   if (actual !== expected) errors.push(`分野別題数不一致: ${key} ${actual} != ${expected}`);
