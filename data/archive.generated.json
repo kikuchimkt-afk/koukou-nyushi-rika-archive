@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-25T09:03:46.147Z",
+  "generatedAt": "2026-08-25T17:10:43.262Z",
   "releaseTag": "pdfs-v2",
-  "totalItems": 167,
-  "totalPages": 763,
+  "totalItems": 193,
+  "totalPages": 880,
   "items": [
     {
       "id": "g2-2025-yamagata-chemistry-ca7a6af",
@@ -1747,6 +1747,59 @@
       "fileSize": 13732512
     },
     {
+      "id": "g2-2023-okinawa-chemistry-0cd5f15",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "沖縄県",
+      "field": "化学",
+      "unit": "化学変化と熱（発熱反応・吸熱反応・酸素とアンモニアの発生・化学反応式・実験操作）",
+      "shortUnit": "化学変化と熱",
+      "tags": [
+        "発熱反応",
+        "吸熱反応",
+        "酸素とアンモニアの発生",
+        "化学反応式",
+        "実験操作"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2023-okinawa-chemistry-0cd5f15/page-01.jpg",
+        "/previews/g2-2023-okinawa-chemistry-0cd5f15/page-02.jpg",
+        "/previews/g2-2023-okinawa-chemistry-0cd5f15/page-03.jpg",
+        "/previews/g2-2023-okinawa-chemistry-0cd5f15/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2023-okinawa-chemistry-0cd5f15.pdf",
+      "pdfFileName": "2023年実施_沖縄県_中2理科_化学変化と熱（発熱反応・吸熱反応・酸素とアンモニアの発生・化学反応式・実験操作）.pdf",
+      "fileSize": 11577930
+    },
+    {
+      "id": "g2-2023-mie-chemistry-24ed7e2",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "三重県",
+      "field": "化学",
+      "unit": "酸化と還元（銅の酸化・酸化銅の還元・化学反応式・質量比・反応する物質の量）",
+      "shortUnit": "酸化と還元",
+      "tags": [
+        "銅の酸化",
+        "酸化銅の還元",
+        "化学反応式",
+        "質量比",
+        "反応する物質の量"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2023-mie-chemistry-24ed7e2/page-01.jpg",
+        "/previews/g2-2023-mie-chemistry-24ed7e2/page-02.jpg",
+        "/previews/g2-2023-mie-chemistry-24ed7e2/page-03.jpg",
+        "/previews/g2-2023-mie-chemistry-24ed7e2/page-04.jpg",
+        "/previews/g2-2023-mie-chemistry-24ed7e2/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2023-mie-chemistry-24ed7e2.pdf",
+      "pdfFileName": "2023年実施_三重県_中2理科_酸化と還元（銅の酸化・酸化銅の還元・化学反応式・質量比・反応する物質の量）.pdf",
+      "fileSize": 17829022
+    },
+    {
       "id": "g1-2023-mie-chemistry-adc735c",
       "grade": 1,
       "year": 2023,
@@ -1769,6 +1822,110 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2023-mie-chemistry-adc735c.pdf",
       "pdfFileName": "2023年実施_三重県_中1理科_状態変化（沸点・蒸留・水とエタノールの分離）.pdf",
       "fileSize": 7891767
+    },
+    {
+      "id": "g2-2023-yamagata-chemistry-c7d97ad",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "山形県",
+      "field": "化学",
+      "unit": "物質の分解と質量（酸化銀の熱分解・化学反応式・質量保存・質量変化の規則性・反応の過不足）",
+      "shortUnit": "物質の分解と質量",
+      "tags": [
+        "酸化銀の熱分解",
+        "化学反応式",
+        "質量保存",
+        "質量変化の規則性",
+        "反応の過不足"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2023-yamagata-chemistry-c7d97ad/page-01.jpg",
+        "/previews/g2-2023-yamagata-chemistry-c7d97ad/page-02.jpg",
+        "/previews/g2-2023-yamagata-chemistry-c7d97ad/page-03.jpg",
+        "/previews/g2-2023-yamagata-chemistry-c7d97ad/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2023-yamagata-chemistry-c7d97ad.pdf",
+      "pdfFileName": "2023年実施_山形県_中2理科_物質の分解と質量（酸化銀の熱分解・化学反応式・質量保存・質量変化の規則性・反応の過不足）.pdf",
+      "fileSize": 9720209
+    },
+    {
+      "id": "g2-2023-yamaguchi-chemistry-3416a8d",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "山口県",
+      "field": "化学",
+      "unit": "物質の熱分解と気体の性質（水・アンモニア・二酸化炭素・BTB溶液・塩化コバルト紙）",
+      "shortUnit": "物質の熱分解と気体の性質",
+      "tags": [
+        "水",
+        "アンモニア",
+        "二酸化炭素",
+        "BTB溶液",
+        "塩化コバルト紙"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2023-yamaguchi-chemistry-3416a8d/page-01.jpg",
+        "/previews/g2-2023-yamaguchi-chemistry-3416a8d/page-02.jpg",
+        "/previews/g2-2023-yamaguchi-chemistry-3416a8d/page-03.jpg",
+        "/previews/g2-2023-yamaguchi-chemistry-3416a8d/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2023-yamaguchi-chemistry-3416a8d.pdf",
+      "pdfFileName": "2023年実施_山口県_中2理科_物質の熱分解と気体の性質（水・アンモニア・二酸化炭素・BTB溶液・塩化コバルト紙）.pdf",
+      "fileSize": 6793540
+    },
+    {
+      "id": "g2-2023-akita-chemistry-f74478f",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "秋田県",
+      "field": "化学",
+      "unit": "水素の燃焼と化学反応式（気体の体積比・質量保存・原子と分子のモデル・有機物）",
+      "shortUnit": "水素の燃焼と化学反応式",
+      "tags": [
+        "気体の体積比",
+        "質量保存",
+        "原子と分子のモデル",
+        "有機物"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2023-akita-chemistry-f74478f/page-01.jpg",
+        "/previews/g2-2023-akita-chemistry-f74478f/page-02.jpg",
+        "/previews/g2-2023-akita-chemistry-f74478f/page-03.jpg",
+        "/previews/g2-2023-akita-chemistry-f74478f/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2023-akita-chemistry-f74478f.pdf",
+      "pdfFileName": "2023年実施_秋田県_中2理科_水素の燃焼と化学反応式（気体の体積比・質量保存・原子と分子のモデル・有機物）.pdf",
+      "fileSize": 15101392
+    },
+    {
+      "id": "g2-2023-aomori-chemistry-a748203",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "青森県",
+      "field": "化学",
+      "unit": "金属の酸化（マグネシウムと銅・化学反応式・質量比・燃焼・原子）",
+      "shortUnit": "金属の酸化",
+      "tags": [
+        "マグネシウムと銅",
+        "化学反応式",
+        "質量比",
+        "燃焼",
+        "原子"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2023-aomori-chemistry-a748203/page-01.jpg",
+        "/previews/g2-2023-aomori-chemistry-a748203/page-02.jpg",
+        "/previews/g2-2023-aomori-chemistry-a748203/page-03.jpg",
+        "/previews/g2-2023-aomori-chemistry-a748203/page-04.jpg",
+        "/previews/g2-2023-aomori-chemistry-a748203/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2023-aomori-chemistry-a748203.pdf",
+      "pdfFileName": "2023年実施_青森県_中2理科_金属の酸化（マグネシウムと銅・化学反応式・質量比・燃焼・原子）.pdf",
+      "fileSize": 16985240
     },
     {
       "id": "g1-2023-tokushima-chemistry-90fe9f7",
@@ -1823,6 +1980,33 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2023-fukushima-chemistry-57779b2.pdf",
       "pdfFileName": "2023年実施_福島県_中1理科_水溶液と物質の性質（混合物・ろ過・プラスチック・密度・質量パーセント濃度）.pdf",
       "fileSize": 9831164
+    },
+    {
+      "id": "g2-2023-hokkaido-chemistry-1aa3879",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "北海道",
+      "field": "化学",
+      "unit": "金属の酸化と物質の質量（銅とマグネシウム・質量保存・質量比・二酸化炭素との反応・粒子モデル）",
+      "shortUnit": "金属の酸化と物質の質量",
+      "tags": [
+        "銅とマグネシウム",
+        "質量保存",
+        "質量比",
+        "二酸化炭素との反応",
+        "粒子モデル"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2023-hokkaido-chemistry-1aa3879/page-01.jpg",
+        "/previews/g2-2023-hokkaido-chemistry-1aa3879/page-02.jpg",
+        "/previews/g2-2023-hokkaido-chemistry-1aa3879/page-03.jpg",
+        "/previews/g2-2023-hokkaido-chemistry-1aa3879/page-04.jpg",
+        "/previews/g2-2023-hokkaido-chemistry-1aa3879/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2023-hokkaido-chemistry-1aa3879.pdf",
+      "pdfFileName": "2023年実施_北海道_中2理科_金属の酸化と物質の質量（銅とマグネシウム・質量保存・質量比・二酸化炭素との反応・粒子モデル）.pdf",
+      "fileSize": 23124342
     },
     {
       "id": "g2-2023-ibaraki-biology-8962382",
@@ -2666,6 +2850,60 @@
       "fileSize": 10969821
     },
     {
+      "id": "g2-2022-ibaraki-chemistry-9188961",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "茨城県",
+      "field": "化学",
+      "unit": "質量保存の法則（炭酸カルシウムと塩酸・二酸化炭素・化学反応式・反応物の過不足・グラフ）",
+      "shortUnit": "質量保存の法則",
+      "tags": [
+        "炭酸カルシウムと塩酸",
+        "二酸化炭素",
+        "化学反応式",
+        "反応物の過不足",
+        "グラフ"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2022-ibaraki-chemistry-9188961/page-01.jpg",
+        "/previews/g2-2022-ibaraki-chemistry-9188961/page-02.jpg",
+        "/previews/g2-2022-ibaraki-chemistry-9188961/page-03.jpg",
+        "/previews/g2-2022-ibaraki-chemistry-9188961/page-04.jpg",
+        "/previews/g2-2022-ibaraki-chemistry-9188961/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2022-ibaraki-chemistry-9188961.pdf",
+      "pdfFileName": "2022年実施_茨城県_中2理科_質量保存の法則（炭酸カルシウムと塩酸・二酸化炭素・化学反応式・反応物の過不足・グラフ）.pdf",
+      "fileSize": 24831216
+    },
+    {
+      "id": "g2-2022-iwate-chemistry-b618395",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "岩手県",
+      "field": "化学",
+      "unit": "化学変化と物質の質量（酸化銅の還元・質量保存・化学反応式・質量比・反応物の過不足）",
+      "shortUnit": "化学変化と物質の質量",
+      "tags": [
+        "酸化銅の還元",
+        "質量保存",
+        "化学反応式",
+        "質量比",
+        "反応物の過不足"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2022-iwate-chemistry-b618395/page-01.jpg",
+        "/previews/g2-2022-iwate-chemistry-b618395/page-02.jpg",
+        "/previews/g2-2022-iwate-chemistry-b618395/page-03.jpg",
+        "/previews/g2-2022-iwate-chemistry-b618395/page-04.jpg",
+        "/previews/g2-2022-iwate-chemistry-b618395/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2022-iwate-chemistry-b618395.pdf",
+      "pdfFileName": "2022年実施_岩手県_中2理科_化学変化と物質の質量（酸化銅の還元・質量保存・化学反応式・質量比・反応物の過不足）.pdf",
+      "fileSize": 16661139
+    },
+    {
       "id": "g1-2022-mie-chemistry-3c5c7e4",
       "grade": 1,
       "year": 2022,
@@ -2690,6 +2928,31 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2022-mie-chemistry-3c5c7e4.pdf",
       "pdfFileName": "2022年実施_三重県_中1理科_水溶液と溶解度（溶解度曲線・飽和水溶液・結晶・再結晶・質量パーセント濃度）.pdf",
       "fileSize": 9505355
+    },
+    {
+      "id": "g2-2022-yamagata-chemistry-b7d021d",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "山形県",
+      "field": "化学",
+      "unit": "化学変化と物質の質量（質量保存・反応物質の質量比・化学式・気体の発生と性質）",
+      "shortUnit": "化学変化と物質の質量",
+      "tags": [
+        "質量保存",
+        "反応物質の質量比",
+        "化学式",
+        "気体の発生と性質"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2022-yamagata-chemistry-b7d021d/page-01.jpg",
+        "/previews/g2-2022-yamagata-chemistry-b7d021d/page-02.jpg",
+        "/previews/g2-2022-yamagata-chemistry-b7d021d/page-03.jpg",
+        "/previews/g2-2022-yamagata-chemistry-b7d021d/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2022-yamagata-chemistry-b7d021d.pdf",
+      "pdfFileName": "2022年実施_山形県_中2理科_化学変化と物質の質量（質量保存・反応物質の質量比・化学式・気体の発生と性質）.pdf",
+      "fileSize": 10743184
     },
     {
       "id": "g1-2022-yamagata-chemistry-0a752e7",
@@ -2743,6 +3006,110 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2022-akita-chemistry-3ede4a7.pdf",
       "pdfFileName": "2022年実施_秋田県_中1理科_状態変化と物質の性質（沸点・蒸留・密度・水とエタノールの分離・プラスチックの性質）.pdf",
       "fileSize": 10702409
+    },
+    {
+      "id": "g2-2022-aomori-chemistry-c256ae9",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "青森県",
+      "field": "化学",
+      "unit": "気体の発生と物質の質量（二酸化炭素・化学式・気体の確認・実験操作・反応する物質の質量関係）",
+      "shortUnit": "気体の発生と物質の質量",
+      "tags": [
+        "二酸化炭素",
+        "化学式",
+        "気体の確認",
+        "実験操作",
+        "反応する物質の質量関係"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2022-aomori-chemistry-c256ae9/page-01.jpg",
+        "/previews/g2-2022-aomori-chemistry-c256ae9/page-02.jpg",
+        "/previews/g2-2022-aomori-chemistry-c256ae9/page-03.jpg",
+        "/previews/g2-2022-aomori-chemistry-c256ae9/page-04.jpg",
+        "/previews/g2-2022-aomori-chemistry-c256ae9/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2022-aomori-chemistry-c256ae9.pdf",
+      "pdfFileName": "2022年実施_青森県_中2理科_気体の発生と物質の質量（二酸化炭素・化学式・気体の確認・実験操作・反応する物質の質量関係）.pdf",
+      "fileSize": 14959171
+    },
+    {
+      "id": "g2-2022-tochigi-chemistry-4fddb36",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "栃木県",
+      "field": "化学",
+      "unit": "化学変化と物質の質量（炭酸水素ナトリウムと塩酸・二酸化炭素・化学式・質量関係・グラフ・仮説検証）",
+      "shortUnit": "化学変化と物質の質量",
+      "tags": [
+        "炭酸水素ナトリウムと塩酸",
+        "二酸化炭素",
+        "化学式",
+        "質量関係",
+        "グラフ",
+        "仮説検証"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2022-tochigi-chemistry-4fddb36/page-01.jpg",
+        "/previews/g2-2022-tochigi-chemistry-4fddb36/page-02.jpg",
+        "/previews/g2-2022-tochigi-chemistry-4fddb36/page-03.jpg",
+        "/previews/g2-2022-tochigi-chemistry-4fddb36/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2022-tochigi-chemistry-4fddb36.pdf",
+      "pdfFileName": "2022年実施_栃木県_中2理科_化学変化と物質の質量（炭酸水素ナトリウムと塩酸・二酸化炭素・化学式・質量関係・グラフ・仮説検証）.pdf",
+      "fileSize": 11859543
+    },
+    {
+      "id": "g2-2022-toyama-chemistry-b17f74a",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "富山県",
+      "field": "化学",
+      "unit": "銅の酸化と酸化銅の還元（反応する物質の質量比・化学反応式・原子と分子）",
+      "shortUnit": "銅の酸化と酸化銅の還元",
+      "tags": [
+        "反応する物質の質量比",
+        "化学反応式",
+        "原子と分子"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2022-toyama-chemistry-b17f74a/page-01.jpg",
+        "/previews/g2-2022-toyama-chemistry-b17f74a/page-02.jpg",
+        "/previews/g2-2022-toyama-chemistry-b17f74a/page-03.jpg",
+        "/previews/g2-2022-toyama-chemistry-b17f74a/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2022-toyama-chemistry-b17f74a.pdf",
+      "pdfFileName": "2022年実施_富山県_中2理科_銅の酸化と酸化銅の還元（反応する物質の質量比・化学反応式・原子と分子）.pdf",
+      "fileSize": 12221382
+    },
+    {
+      "id": "g2-2022-fukushima-chemistry-5bc9d83",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "福島県",
+      "field": "化学",
+      "unit": "酸化と還元（酸化銀の熱分解・酸化銅の還元・化学反応式・質量比・実験操作）",
+      "shortUnit": "酸化と還元",
+      "tags": [
+        "酸化銀の熱分解",
+        "酸化銅の還元",
+        "化学反応式",
+        "質量比",
+        "実験操作"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2022-fukushima-chemistry-5bc9d83/page-01.jpg",
+        "/previews/g2-2022-fukushima-chemistry-5bc9d83/page-02.jpg",
+        "/previews/g2-2022-fukushima-chemistry-5bc9d83/page-03.jpg",
+        "/previews/g2-2022-fukushima-chemistry-5bc9d83/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2022-fukushima-chemistry-5bc9d83.pdf",
+      "pdfFileName": "2022年実施_福島県_中2理科_酸化と還元（酸化銀の熱分解・酸化銅の還元・化学反応式・質量比・実験操作）.pdf",
+      "fileSize": 12494416
     },
     {
       "id": "g1-2022-fukushima-chemistry-7415af0",
@@ -3487,6 +3854,319 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2022-toyama-physics-aa19915.pdf",
       "pdfFileName": "2022年実施_富山県_中1理科_光と鏡（屈折・全反射・水中の見え方・鏡の反射と像）.pdf",
       "fileSize": 11408086
+    },
+    {
+      "id": "g2-2021-ehime-chemistry-108459a",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "愛媛県",
+      "field": "化学",
+      "unit": "状態変化と酸化還元（融点と沸点・酸化銅の還元・二酸化炭素・化学反応式・質量比）",
+      "shortUnit": "状態変化と酸化還元",
+      "tags": [
+        "融点と沸点",
+        "酸化銅の還元",
+        "二酸化炭素",
+        "化学反応式",
+        "質量比"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2021-ehime-chemistry-108459a/page-01.jpg",
+        "/previews/g2-2021-ehime-chemistry-108459a/page-02.jpg",
+        "/previews/g2-2021-ehime-chemistry-108459a/page-03.jpg",
+        "/previews/g2-2021-ehime-chemistry-108459a/page-04.jpg",
+        "/previews/g2-2021-ehime-chemistry-108459a/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-ehime-chemistry-108459a.pdf",
+      "pdfFileName": "2021年実施_愛媛県_中2理科_状態変化と酸化還元（融点と沸点・酸化銅の還元・二酸化炭素・化学反応式・質量比）.pdf",
+      "fileSize": 14066690
+    },
+    {
+      "id": "g2-2021-ibaraki-chemistry-5bd7c24",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "茨城県",
+      "field": "化学",
+      "unit": "物質の分解（炭酸水素ナトリウムの熱分解・原子のモデル・化学反応式・質量保存）",
+      "shortUnit": "物質の分解",
+      "tags": [
+        "炭酸水素ナトリウムの熱分解",
+        "原子のモデル",
+        "化学反応式",
+        "質量保存"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2021-ibaraki-chemistry-5bd7c24/page-01.jpg",
+        "/previews/g2-2021-ibaraki-chemistry-5bd7c24/page-02.jpg",
+        "/previews/g2-2021-ibaraki-chemistry-5bd7c24/page-03.jpg",
+        "/previews/g2-2021-ibaraki-chemistry-5bd7c24/page-04.jpg",
+        "/previews/g2-2021-ibaraki-chemistry-5bd7c24/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-ibaraki-chemistry-5bd7c24.pdf",
+      "pdfFileName": "2021年実施_茨城県_中2理科_物質の分解（炭酸水素ナトリウムの熱分解・原子のモデル・化学反応式・質量保存）.pdf",
+      "fileSize": 13550373
+    },
+    {
+      "id": "g2-2021-okinawa-chemistry-4cbdca7",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "沖縄県",
+      "field": "化学",
+      "unit": "物質の分解と質量（酸化銀の熱分解・気体の性質・化学反応式・質量変化）",
+      "shortUnit": "物質の分解と質量",
+      "tags": [
+        "酸化銀の熱分解",
+        "気体の性質",
+        "化学反応式",
+        "質量変化"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2021-okinawa-chemistry-4cbdca7/page-01.jpg",
+        "/previews/g2-2021-okinawa-chemistry-4cbdca7/page-02.jpg",
+        "/previews/g2-2021-okinawa-chemistry-4cbdca7/page-03.jpg",
+        "/previews/g2-2021-okinawa-chemistry-4cbdca7/page-04.jpg",
+        "/previews/g2-2021-okinawa-chemistry-4cbdca7/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-okinawa-chemistry-4cbdca7.pdf",
+      "pdfFileName": "2021年実施_沖縄県_中2理科_物質の分解と質量（酸化銀の熱分解・気体の性質・化学反応式・質量変化）.pdf",
+      "fileSize": 12449701
+    },
+    {
+      "id": "g2-2021-yamagata-chemistry-60d7fde",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "山形県",
+      "field": "化学",
+      "unit": "酸化と還元（酸化銅の還元・化学反応式・質量保存・質量比・反応物の過不足）",
+      "shortUnit": "酸化と還元",
+      "tags": [
+        "酸化銅の還元",
+        "化学反応式",
+        "質量保存",
+        "質量比",
+        "反応物の過不足"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2021-yamagata-chemistry-60d7fde/page-01.jpg",
+        "/previews/g2-2021-yamagata-chemistry-60d7fde/page-02.jpg",
+        "/previews/g2-2021-yamagata-chemistry-60d7fde/page-03.jpg",
+        "/previews/g2-2021-yamagata-chemistry-60d7fde/page-04.jpg",
+        "/previews/g2-2021-yamagata-chemistry-60d7fde/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-yamagata-chemistry-60d7fde.pdf",
+      "pdfFileName": "2021年実施_山形県_中2理科_酸化と還元（酸化銅の還元・化学反応式・質量保存・質量比・反応物の過不足）.pdf",
+      "fileSize": 14322480
+    },
+    {
+      "id": "g2-2021-yamaguchi-chemistry-8c90bbf",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "山口県",
+      "field": "化学",
+      "unit": "酸化と還元（酸化銅の還元・化学反応式・質量保存・反応する物質の質量比）",
+      "shortUnit": "酸化と還元",
+      "tags": [
+        "酸化銅の還元",
+        "化学反応式",
+        "質量保存",
+        "反応する物質の質量比"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2021-yamaguchi-chemistry-8c90bbf/page-01.jpg",
+        "/previews/g2-2021-yamaguchi-chemistry-8c90bbf/page-02.jpg",
+        "/previews/g2-2021-yamaguchi-chemistry-8c90bbf/page-03.jpg",
+        "/previews/g2-2021-yamaguchi-chemistry-8c90bbf/page-04.jpg",
+        "/previews/g2-2021-yamaguchi-chemistry-8c90bbf/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-yamaguchi-chemistry-8c90bbf.pdf",
+      "pdfFileName": "2021年実施_山口県_中2理科_酸化と還元（酸化銅の還元・化学反応式・質量保存・反応する物質の質量比）.pdf",
+      "fileSize": 14870370
+    },
+    {
+      "id": "g2-2021-yamanashi-chemistry-6d28ef5",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "山梨県",
+      "field": "化学",
+      "unit": "金属の性質と銅の酸化（粒子モデル・化学反応式・密閉容器・質量保存）",
+      "shortUnit": "金属の性質と銅の酸化",
+      "tags": [
+        "粒子モデル",
+        "化学反応式",
+        "密閉容器",
+        "質量保存"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2021-yamanashi-chemistry-6d28ef5/page-01.jpg",
+        "/previews/g2-2021-yamanashi-chemistry-6d28ef5/page-02.jpg",
+        "/previews/g2-2021-yamanashi-chemistry-6d28ef5/page-03.jpg",
+        "/previews/g2-2021-yamanashi-chemistry-6d28ef5/page-04.jpg",
+        "/previews/g2-2021-yamanashi-chemistry-6d28ef5/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-yamanashi-chemistry-6d28ef5.pdf",
+      "pdfFileName": "2021年実施_山梨県_中2理科_金属の性質と銅の酸化（粒子モデル・化学反応式・密閉容器・質量保存）.pdf",
+      "fileSize": 14267552
+    },
+    {
+      "id": "g2-2021-akita-chemistry-3ce4c91",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "秋田県",
+      "field": "化学",
+      "unit": "マグネシウムの燃焼と光・音（金属の酸化・酸化物・粒子モデル・化学反応式・質量比・光の速さと音の速さ・音の大小と高低）",
+      "shortUnit": "マグネシウムの燃焼と光・音",
+      "tags": [
+        "金属の酸化",
+        "酸化物",
+        "粒子モデル",
+        "化学反応式",
+        "質量比",
+        "光の速さと音の速さ",
+        "音の大小と高低"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2021-akita-chemistry-3ce4c91/page-01.jpg",
+        "/previews/g2-2021-akita-chemistry-3ce4c91/page-02.jpg",
+        "/previews/g2-2021-akita-chemistry-3ce4c91/page-03.jpg",
+        "/previews/g2-2021-akita-chemistry-3ce4c91/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-akita-chemistry-3ce4c91.pdf",
+      "pdfFileName": "2021年実施_秋田県_中2理科_マグネシウムの燃焼と光・音（金属の酸化・酸化物・粒子モデル・化学反応式・質量比・光の速さと音の速さ・音の大小と高低）.pdf",
+      "fileSize": 11096245
+    },
+    {
+      "id": "g2-2021-chiba-chemistry-ae1b371",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "千葉県",
+      "field": "化学",
+      "unit": "金属の酸化と物質の質量（銅とマグネシウム・化学反応式・質量関係・グラフ）",
+      "shortUnit": "金属の酸化と物質の質量",
+      "tags": [
+        "銅とマグネシウム",
+        "化学反応式",
+        "質量関係",
+        "グラフ"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2021-chiba-chemistry-ae1b371/page-01.jpg",
+        "/previews/g2-2021-chiba-chemistry-ae1b371/page-02.jpg",
+        "/previews/g2-2021-chiba-chemistry-ae1b371/page-03.jpg",
+        "/previews/g2-2021-chiba-chemistry-ae1b371/page-04.jpg",
+        "/previews/g2-2021-chiba-chemistry-ae1b371/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-chiba-chemistry-ae1b371.pdf",
+      "pdfFileName": "2021年実施_千葉県_中2理科_金属の酸化と物質の質量（銅とマグネシウム・化学反応式・質量関係・グラフ）.pdf",
+      "fileSize": 24833220
+    },
+    {
+      "id": "g2-2021-nagasaki-chemistry-02d83bd",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "長崎県",
+      "field": "化学",
+      "unit": "鉄と硫黄の化学変化（硫化鉄・磁性・反応の限界・水素と硫化水素の発生）",
+      "shortUnit": "鉄と硫黄の化学変化",
+      "tags": [
+        "硫化鉄",
+        "磁性",
+        "反応の限界",
+        "水素と硫化水素の発生"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2021-nagasaki-chemistry-02d83bd/page-01.jpg",
+        "/previews/g2-2021-nagasaki-chemistry-02d83bd/page-02.jpg",
+        "/previews/g2-2021-nagasaki-chemistry-02d83bd/page-03.jpg",
+        "/previews/g2-2021-nagasaki-chemistry-02d83bd/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-nagasaki-chemistry-02d83bd.pdf",
+      "pdfFileName": "2021年実施_長崎県_中2理科_鉄と硫黄の化学変化（硫化鉄・磁性・反応の限界・水素と硫化水素の発生）.pdf",
+      "fileSize": 12974465
+    },
+    {
+      "id": "g2-2021-tokushima-chemistry-f53f166",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "徳島県",
+      "field": "化学",
+      "unit": "化学変化（鉄と硫黄の化合・発熱反応・混合物と化合物・気体の性質・化学反応式）",
+      "shortUnit": "化学変化",
+      "tags": [
+        "鉄と硫黄の化合",
+        "発熱反応",
+        "混合物と化合物",
+        "気体の性質",
+        "化学反応式"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2021-tokushima-chemistry-f53f166/page-01.jpg",
+        "/previews/g2-2021-tokushima-chemistry-f53f166/page-02.jpg",
+        "/previews/g2-2021-tokushima-chemistry-f53f166/page-03.jpg",
+        "/previews/g2-2021-tokushima-chemistry-f53f166/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-tokushima-chemistry-f53f166.pdf",
+      "pdfFileName": "2021年実施_徳島県_中2理科_化学変化（鉄と硫黄の化合・発熱反応・混合物と化合物・気体の性質・化学反応式）.pdf",
+      "fileSize": 11070089
+    },
+    {
+      "id": "g2-2021-fukuoka-chemistry-08223cc",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "福岡県",
+      "field": "化学",
+      "unit": "炭酸水素ナトリウムの熱分解（水と二酸化炭素の確認・化学反応式・実験操作）",
+      "shortUnit": "炭酸水素ナトリウムの熱分解",
+      "tags": [
+        "水と二酸化炭素の確認",
+        "化学反応式",
+        "実験操作"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2021-fukuoka-chemistry-08223cc/page-01.jpg",
+        "/previews/g2-2021-fukuoka-chemistry-08223cc/page-02.jpg",
+        "/previews/g2-2021-fukuoka-chemistry-08223cc/page-03.jpg",
+        "/previews/g2-2021-fukuoka-chemistry-08223cc/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-fukuoka-chemistry-08223cc.pdf",
+      "pdfFileName": "2021年実施_福岡県_中2理科_炭酸水素ナトリウムの熱分解（水と二酸化炭素の確認・化学反応式・実験操作）.pdf",
+      "fileSize": 14692342
+    },
+    {
+      "id": "g2-2021-fukushima-chemistry-39fa1e3",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "福島県",
+      "field": "化学",
+      "unit": "酸化と物質の質量（銅とマグネシウムの酸化・化学反応式・質量比・グラフ・反応物の過不足）",
+      "shortUnit": "酸化と物質の質量",
+      "tags": [
+        "銅とマグネシウムの酸化",
+        "化学反応式",
+        "質量比",
+        "グラフ",
+        "反応物の過不足"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2021-fukushima-chemistry-39fa1e3/page-01.jpg",
+        "/previews/g2-2021-fukushima-chemistry-39fa1e3/page-02.jpg",
+        "/previews/g2-2021-fukushima-chemistry-39fa1e3/page-03.jpg",
+        "/previews/g2-2021-fukushima-chemistry-39fa1e3/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2021-fukushima-chemistry-39fa1e3.pdf",
+      "pdfFileName": "2021年実施_福島県_中2理科_酸化と物質の質量（銅とマグネシウムの酸化・化学反応式・質量比・グラフ・反応物の過不足）.pdf",
+      "fileSize": 10212868
     },
     {
       "id": "g2-2021-ibaraki-biology-19ffe2c",
