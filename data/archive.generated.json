@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-25T06:55:47.574Z",
+  "generatedAt": "2026-08-25T09:03:46.147Z",
   "releaseTag": "pdfs-v2",
-  "totalItems": 156,
-  "totalPages": 711,
+  "totalItems": 167,
+  "totalPages": 763,
   "items": [
     {
       "id": "g2-2025-yamagata-chemistry-ca7a6af",
@@ -432,6 +432,67 @@
       "fileSize": 11925596
     },
     {
+      "id": "g2-2025-iwate-physics-8fa8b4b",
+      "grade": 2,
+      "year": 2025,
+      "prefecture": "岩手県",
+      "field": "物理",
+      "unit": "電流と回路（抵抗・直列回路・並列回路・電圧・電流・電力・電力量・電子・磁界・エネルギー変換）",
+      "shortUnit": "電流と回路",
+      "tags": [
+        "抵抗",
+        "直列回路",
+        "並列回路",
+        "電圧",
+        "電流",
+        "電力",
+        "電力量",
+        "電子",
+        "磁界",
+        "エネルギー変換"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2025-iwate-physics-8fa8b4b/page-01.jpg",
+        "/previews/g2-2025-iwate-physics-8fa8b4b/page-02.jpg",
+        "/previews/g2-2025-iwate-physics-8fa8b4b/page-03.jpg",
+        "/previews/g2-2025-iwate-physics-8fa8b4b/page-04.jpg",
+        "/previews/g2-2025-iwate-physics-8fa8b4b/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2025-iwate-physics-8fa8b4b.pdf",
+      "pdfFileName": "2025年実施_岩手県_中2理科_電流と回路（抵抗・直列回路・並列回路・電圧・電流・電力・電力量・電子・磁界・エネルギー変換）.pdf",
+      "fileSize": 15250023
+    },
+    {
+      "id": "g2-2025-yamagata-physics-50a0bec",
+      "grade": 2,
+      "year": 2025,
+      "prefecture": "山形県",
+      "field": "物理",
+      "unit": "電流による発熱（回路図・電圧・電流・電力・電力量・水の温度上昇・グラフ・対流）",
+      "shortUnit": "電流による発熱",
+      "tags": [
+        "回路図",
+        "電圧",
+        "電流",
+        "電力",
+        "電力量",
+        "水の温度上昇",
+        "グラフ",
+        "対流"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2025-yamagata-physics-50a0bec/page-01.jpg",
+        "/previews/g2-2025-yamagata-physics-50a0bec/page-02.jpg",
+        "/previews/g2-2025-yamagata-physics-50a0bec/page-03.jpg",
+        "/previews/g2-2025-yamagata-physics-50a0bec/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2025-yamagata-physics-50a0bec.pdf",
+      "pdfFileName": "2025年実施_山形県_中2理科_電流による発熱（回路図・電圧・電流・電力・電力量・水の温度上昇・グラフ・対流）.pdf",
+      "fileSize": 11272271
+    },
+    {
       "id": "g1-2025-yamagata-physics-0a7d2fa",
       "grade": 1,
       "year": 2025,
@@ -455,6 +516,31 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2025-yamagata-physics-0a7d2fa.pdf",
       "pdfFileName": "2025年実施_山形県_中1理科_力のはたらき（2力のつり合い・ばねの伸び・フックの法則・重力とニュートン）.pdf",
       "fileSize": 5771848
+    },
+    {
+      "id": "g2-2025-yamaguchi-physics-0258ccd",
+      "grade": 2,
+      "year": 2025,
+      "prefecture": "山口県",
+      "field": "物理",
+      "unit": "電流と磁界（磁力線・磁界の向きと強さ・電流がつくる磁界・方位磁針）",
+      "shortUnit": "電流と磁界",
+      "tags": [
+        "磁力線",
+        "磁界の向きと強さ",
+        "電流がつくる磁界",
+        "方位磁針"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2025-yamaguchi-physics-0258ccd/page-01.jpg",
+        "/previews/g2-2025-yamaguchi-physics-0258ccd/page-02.jpg",
+        "/previews/g2-2025-yamaguchi-physics-0258ccd/page-03.jpg",
+        "/previews/g2-2025-yamaguchi-physics-0258ccd/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2025-yamaguchi-physics-0258ccd.pdf",
+      "pdfFileName": "2025年実施_山口県_中2理科_電流と磁界（磁力線・磁界の向きと強さ・電流がつくる磁界・方位磁針）.pdf",
+      "fileSize": 6923705
     },
     {
       "id": "g1-2025-toyama-physics-2f7e767",
@@ -481,6 +567,36 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2025-toyama-physics-2f7e767.pdf",
       "pdfFileName": "2025年実施_富山県_中1理科_光と音（凸レンズの実像・光の屈折・焦点・作図・像の明るさと大きさ）.pdf",
       "fileSize": 13535650
+    },
+    {
+      "id": "g2-2025-fukushima-physics-3f2d75f",
+      "grade": 2,
+      "year": 2025,
+      "prefecture": "福島県",
+      "field": "物理",
+      "unit": "電流の正体と放射線（クルックス管・陰極線・放電・電子・X線・放射線の種類・性質・利用）",
+      "shortUnit": "電流の正体と放射線",
+      "tags": [
+        "クルックス管",
+        "陰極線",
+        "放電",
+        "電子",
+        "X線",
+        "放射線の種類",
+        "性質",
+        "利用"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2025-fukushima-physics-3f2d75f/page-01.jpg",
+        "/previews/g2-2025-fukushima-physics-3f2d75f/page-02.jpg",
+        "/previews/g2-2025-fukushima-physics-3f2d75f/page-03.jpg",
+        "/previews/g2-2025-fukushima-physics-3f2d75f/page-04.jpg",
+        "/previews/g2-2025-fukushima-physics-3f2d75f/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2025-fukushima-physics-3f2d75f.pdf",
+      "pdfFileName": "2025年実施_福島県_中2理科_電流の正体と放射線（クルックス管・陰極線・放電・電子・X線・放射線の種類・性質・利用）.pdf",
+      "fileSize": 12981243
     },
     {
       "id": "g2-2024-okinawa-chemistry-8fe16ab",
@@ -1327,6 +1443,34 @@
       "fileSize": 8263016
     },
     {
+      "id": "g2-2024-mie-physics-0eb873d",
+      "grade": 2,
+      "year": 2024,
+      "prefecture": "三重県",
+      "field": "物理",
+      "unit": "電流のはたらき（電圧と電流・オームの法則・抵抗・直列回路・並列回路・電力）",
+      "shortUnit": "電流のはたらき",
+      "tags": [
+        "電圧と電流",
+        "オームの法則",
+        "抵抗",
+        "直列回路",
+        "並列回路",
+        "電力"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2024-mie-physics-0eb873d/page-01.jpg",
+        "/previews/g2-2024-mie-physics-0eb873d/page-02.jpg",
+        "/previews/g2-2024-mie-physics-0eb873d/page-03.jpg",
+        "/previews/g2-2024-mie-physics-0eb873d/page-04.jpg",
+        "/previews/g2-2024-mie-physics-0eb873d/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2024-mie-physics-0eb873d.pdf",
+      "pdfFileName": "2024年実施_三重県_中2理科_電流のはたらき（電圧と電流・オームの法則・抵抗・直列回路・並列回路・電力）.pdf",
+      "fileSize": 15165842
+    },
+    {
       "id": "g1-2024-mie-physics-efa9502",
       "grade": 1,
       "year": 2024,
@@ -1403,6 +1547,151 @@
       "fileSize": 5620815
     },
     {
+      "id": "g2-2024-yamaguchi-physics-4483d83",
+      "grade": 2,
+      "year": 2024,
+      "prefecture": "山口県",
+      "field": "物理",
+      "unit": "電気の利用（オームの法則・並列回路・抵抗と消費電力・発熱量・交流・家庭用電気器具と安全）",
+      "shortUnit": "電気の利用",
+      "tags": [
+        "オームの法則",
+        "並列回路",
+        "抵抗と消費電力",
+        "発熱量",
+        "交流",
+        "家庭用電気器具と安全"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2024-yamaguchi-physics-4483d83/page-01.jpg",
+        "/previews/g2-2024-yamaguchi-physics-4483d83/page-02.jpg",
+        "/previews/g2-2024-yamaguchi-physics-4483d83/page-03.jpg",
+        "/previews/g2-2024-yamaguchi-physics-4483d83/page-04.jpg",
+        "/previews/g2-2024-yamaguchi-physics-4483d83/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2024-yamaguchi-physics-4483d83.pdf",
+      "pdfFileName": "2024年実施_山口県_中2理科_電気の利用（オームの法則・並列回路・抵抗と消費電力・発熱量・交流・家庭用電気器具と安全）.pdf",
+      "fileSize": 16947140
+    },
+    {
+      "id": "g2-2024-akita-physics-0cff303",
+      "grade": 2,
+      "year": 2024,
+      "prefecture": "秋田県",
+      "field": "物理",
+      "unit": "電流と電力量（回路図・電圧計・並列回路・電流・電圧・電力量・発熱と安全・金属・密度）",
+      "shortUnit": "電流と電力量",
+      "tags": [
+        "回路図",
+        "電圧計",
+        "並列回路",
+        "電流",
+        "電圧",
+        "電力量",
+        "発熱と安全",
+        "金属",
+        "密度"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2024-akita-physics-0cff303/page-01.jpg",
+        "/previews/g2-2024-akita-physics-0cff303/page-02.jpg",
+        "/previews/g2-2024-akita-physics-0cff303/page-03.jpg",
+        "/previews/g2-2024-akita-physics-0cff303/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2024-akita-physics-0cff303.pdf",
+      "pdfFileName": "2024年実施_秋田県_中2理科_電流と電力量（回路図・電圧計・並列回路・電流・電圧・電力量・発熱と安全・金属・密度）.pdf",
+      "fileSize": 13876962
+    },
+    {
+      "id": "g2-2024-aomori-physics-77dc460",
+      "grade": 2,
+      "year": 2024,
+      "prefecture": "青森県",
+      "field": "物理",
+      "unit": "電流の性質（電流計・電圧計・オームの法則・直列回路・並列回路・合成抵抗・電力・電力量）",
+      "shortUnit": "電流の性質",
+      "tags": [
+        "電流計",
+        "電圧計",
+        "オームの法則",
+        "直列回路",
+        "並列回路",
+        "合成抵抗",
+        "電力",
+        "電力量"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2024-aomori-physics-77dc460/page-01.jpg",
+        "/previews/g2-2024-aomori-physics-77dc460/page-02.jpg",
+        "/previews/g2-2024-aomori-physics-77dc460/page-03.jpg",
+        "/previews/g2-2024-aomori-physics-77dc460/page-04.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2024-aomori-physics-77dc460.pdf",
+      "pdfFileName": "2024年実施_青森県_中2理科_電流の性質（電流計・電圧計・オームの法則・直列回路・並列回路・合成抵抗・電力・電力量）.pdf",
+      "fileSize": 13095354
+    },
+    {
+      "id": "g2-2024-tokushima-physics-fdb439b",
+      "grade": 2,
+      "year": 2024,
+      "prefecture": "徳島県",
+      "field": "物理",
+      "unit": "電流回路（導体・切りかえスイッチ・回路図・電圧と電流・オームの法則・電気抵抗・電流計・電圧計）",
+      "shortUnit": "電流回路",
+      "tags": [
+        "導体",
+        "切りかえスイッチ",
+        "回路図",
+        "電圧と電流",
+        "オームの法則",
+        "電気抵抗",
+        "電流計",
+        "電圧計"
+      ],
+      "pageCount": 6,
+      "previewPages": [
+        "/previews/g2-2024-tokushima-physics-fdb439b/page-01.jpg",
+        "/previews/g2-2024-tokushima-physics-fdb439b/page-02.jpg",
+        "/previews/g2-2024-tokushima-physics-fdb439b/page-03.jpg",
+        "/previews/g2-2024-tokushima-physics-fdb439b/page-04.jpg",
+        "/previews/g2-2024-tokushima-physics-fdb439b/page-05.jpg",
+        "/previews/g2-2024-tokushima-physics-fdb439b/page-06.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2024-tokushima-physics-fdb439b.pdf",
+      "pdfFileName": "2024年実施_徳島県_中2理科_電流回路（導体・切りかえスイッチ・回路図・電圧と電流・オームの法則・電気抵抗・電流計・電圧計）.pdf",
+      "fileSize": 18213408
+    },
+    {
+      "id": "g2-2024-toyama-physics-ea8636f",
+      "grade": 2,
+      "year": 2024,
+      "prefecture": "富山県",
+      "field": "物理",
+      "unit": "電流と磁界（フレミングの左手の法則・コイルが受ける力・交流・周波数・発光ダイオード）",
+      "shortUnit": "電流と磁界",
+      "tags": [
+        "フレミングの左手の法則",
+        "コイルが受ける力",
+        "交流",
+        "周波数",
+        "発光ダイオード"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2024-toyama-physics-ea8636f/page-01.jpg",
+        "/previews/g2-2024-toyama-physics-ea8636f/page-02.jpg",
+        "/previews/g2-2024-toyama-physics-ea8636f/page-03.jpg",
+        "/previews/g2-2024-toyama-physics-ea8636f/page-04.jpg",
+        "/previews/g2-2024-toyama-physics-ea8636f/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2024-toyama-physics-ea8636f.pdf",
+      "pdfFileName": "2024年実施_富山県_中2理科_電流と磁界（フレミングの左手の法則・コイルが受ける力・交流・周波数・発光ダイオード）.pdf",
+      "fileSize": 17853131
+    },
+    {
       "id": "g1-2024-fukushima-physics-e435a0b",
       "grade": 1,
       "year": 2024,
@@ -1427,6 +1716,35 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2024-fukushima-physics-e435a0b.pdf",
       "pdfFileName": "2024年実施_福島県_中1理科_水圧と浮力（ばねばかり・水圧・圧力・力のつり合い）.pdf",
       "fileSize": 10475950
+    },
+    {
+      "id": "g2-2024-fukushima-physics-abbc077",
+      "grade": 2,
+      "year": 2024,
+      "prefecture": "福島県",
+      "field": "物理",
+      "unit": "電流のはたらき（電流計・電圧計・抵抗・電力・電力量・電熱線の発熱・水の温度上昇）",
+      "shortUnit": "電流のはたらき",
+      "tags": [
+        "電流計",
+        "電圧計",
+        "抵抗",
+        "電力",
+        "電力量",
+        "電熱線の発熱",
+        "水の温度上昇"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2024-fukushima-physics-abbc077/page-01.jpg",
+        "/previews/g2-2024-fukushima-physics-abbc077/page-02.jpg",
+        "/previews/g2-2024-fukushima-physics-abbc077/page-03.jpg",
+        "/previews/g2-2024-fukushima-physics-abbc077/page-04.jpg",
+        "/previews/g2-2024-fukushima-physics-abbc077/page-05.jpg"
+      ],
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2024-fukushima-physics-abbc077.pdf",
+      "pdfFileName": "2024年実施_福島県_中2理科_電流のはたらき（電流計・電圧計・抵抗・電力・電力量・電熱線の発熱・水の温度上昇）.pdf",
+      "fileSize": 13732512
     },
     {
       "id": "g1-2023-mie-chemistry-adc735c",

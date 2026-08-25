@@ -10,6 +10,7 @@ const samples = [
   data.items.find((item) => item.grade === 2 && item.field === "生物"),
   data.items.find((item) => item.grade === 2 && item.field === "地学"),
   data.items.find((item) => item.grade === 2 && item.field === "化学"),
+  data.items.find((item) => item.grade === 2 && item.field === "物理"),
 ];
 if (samples.some((item) => !item)) throw new Error("結合テストに必要な学年・分野の資料がありません。");
 const items = [...new Map(samples.map((item) => [item.id, item])).values()];
