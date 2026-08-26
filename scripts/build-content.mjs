@@ -1,5 +1,5 @@
 import { createHash } from "node:crypto";
-import { copyFile, mkdir, readdir, rename, rm, stat, writeFile } from "node:fs/promises";
+import { copyFile, mkdir, readFile, readdir, rename, rm, stat, writeFile } from "node:fs/promises";
 import { spawnSync } from "node:child_process";
 import path from "node:path";
 import process from "node:process";
@@ -80,15 +80,18 @@ for (const [index, source] of sourcePdfs.entries()) {
     .sort((a, b) => pageNumber(a) - pageNumber(b));
   if (!rendered.length) fail(`プレビュー画像が生成されませんでした: ${source.name}`);
 
+  const releaseName = `${id}.pdf`;
+  const releasePath = path.join(releaseRoot, releaseName);
+  await copyFile(source.sourcePath, releasePath);
+  const contentVersion = createHash("sha256").update(await readFile(releasePath)).digest("hex");
+
   const previewPages = [];
   for (const [pageIndex, renderedName] of rendered.entries()) {
     const pageName = `page-${String(pageIndex + 1).padStart(2, "0")}.jpg`;
     await rename(path.join(previewDir, renderedName), path.join(previewDir, pageName));
-    previewPages.push(`/previews/${id}/${pageName}`);
+    previewPages.push(`/previews/${id}/${pageName}?v=${contentVersion}`);
   }
 
-  const releaseName = `${id}.pdf`;
-  await copyFile(source.sourcePath, path.join(releaseRoot, releaseName));
   const fileStats = await stat(source.sourcePath);
   const { shortUnit, tags } = splitUnit(parsed.unit);
 
@@ -103,7 +106,8 @@ for (const [index, source] of sourcePdfs.entries()) {
     tags,
     pageCount: previewPages.length,
     previewPages,
-    pdfUrl: `https://github.com/${githubRepo}/releases/download/${releaseTag}/${releaseName}`,
+    contentVersion,
+    pdfUrl: `https://github.com/${githubRepo}/releases/download/${releaseTag}/${releaseName}?rev=${contentVersion}`,
     pdfFileName: source.name,
     fileSize: fileStats.size,
   });

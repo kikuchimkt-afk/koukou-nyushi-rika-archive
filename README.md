@@ -50,6 +50,6 @@ npm run check-content
 - `data/archive.generated.json`
 - `.release-assets/*.pdf`（Git管理・Vercel送信の対象外）
 
-再生成時は、現在の最終版PDFに対応しない古いプレビューとリリース用PDFを自動的に削除します。同じIDのPDF内容を差し替える場合は、新しいGitHub Releaseタグを指定し、API取得URLにもタグをバージョン値として付与します。
+再生成時は、現在の最終版PDFに対応しない古いプレビューとリリース用PDFを自動的に削除します。各PDFにはSHA-256由来の `contentVersion` を付与し、プレビュー・直接PDF・結合用APIのURLへ反映します。同じIDのPDFを同じReleaseタグ内で差し替えても、新しい内容版のURLへ切り替わります。
 
 中2・中3も同じファイル名規則で追加できます。

@@ -16,7 +16,8 @@ export async function GET(request: Request, context: { params: Promise<{ id: str
     return Response.json({ error: "問題が見つかりません。" }, { status: 404 });
   }
 
-  if (requestUrl.searchParams.get("v") !== data.releaseTag) {
+  const contentVersion = `${data.releaseTag}-${item.contentVersion}`;
+  if (requestUrl.searchParams.get("v") !== contentVersion) {
     return Response.json({ error: "PDFデータの版が一致しません。ページを再読込してください。" }, { status: 409 });
   }
 
@@ -58,6 +59,7 @@ export async function GET(request: Request, context: { params: Promise<{ id: str
       "Content-Length": String(payload.byteLength),
       "Cache-Control": "public, max-age=31536000, s-maxage=31536000, immutable",
       "X-PDF-Chunk": String(chunk),
+      "X-PDF-Content-Version": item.contentVersion,
       "X-PDF-Range": `${start}-${end}/${item.fileSize}`,
     },
   });

@@ -13,6 +13,7 @@ export type ArchiveItem = {
   tags: string[];
   pageCount: number;
   previewPages: string[];
+  contentVersion: string;
   pdfUrl: string;
   pdfFileName: string;
   fileSize: number;

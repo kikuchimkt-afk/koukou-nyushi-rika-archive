@@ -1,3 +1,4 @@
+import { createHash } from "node:crypto";
 import { readFileSync } from "node:fs";
 import { PDFDocument } from "pdf-lib";
 
@@ -15,22 +16,35 @@ const samples = [
 if (samples.some((item) => !item)) throw new Error("結合テストに必要な学年・分野の資料がありません。");
 const items = [...new Map(samples.map((item) => [item.id, item])).values()];
 const merged = await PDFDocument.create();
-const releaseVersion = encodeURIComponent(data.releaseTag);
 
 for (const item of items) {
+  const contentVersion = encodeURIComponent(`${data.releaseTag}-${item.contentVersion}`);
   const bytes = new Uint8Array(item.fileSize);
   let offset = 0;
   const chunkCount = Math.ceil(item.fileSize / chunkSize);
 
   for (let chunk = 0; chunk < chunkCount; chunk += 1) {
-    const response = await fetch(`${baseUrl}/api/pdf/${encodeURIComponent(item.id)}?chunk=${chunk}&v=${releaseVersion}`);
+    const response = await fetch(`${baseUrl}/api/pdf/${encodeURIComponent(item.id)}?chunk=${chunk}&v=${contentVersion}`);
     if (!response.ok) throw new Error(`${item.id} chunk ${chunk}: HTTP ${response.status}`);
+    const start = chunk * chunkSize;
+    const end = Math.min(item.fileSize - 1, start + chunkSize - 1);
+    const expectedRange = `${start}-${end}/${item.fileSize}`;
+    if (response.headers.get("x-pdf-content-version") !== item.contentVersion) {
+      throw new Error(`${item.id} chunk ${chunk}: PDF content version mismatch`);
+    }
+    if (response.headers.get("x-pdf-range") !== expectedRange) {
+      throw new Error(`${item.id} chunk ${chunk}: PDF range mismatch`);
+    }
     const part = new Uint8Array(await response.arrayBuffer());
     bytes.set(part, offset);
     offset += part.byteLength;
   }
 
   if (offset !== item.fileSize) throw new Error(`${item.id}: ${offset} bytes, expected ${item.fileSize}`);
+  const actualVersion = createHash("sha256").update(bytes).digest("hex");
+  if (actualVersion !== item.contentVersion) {
+    throw new Error(`${item.id}: SHA-256 ${actualVersion}, expected ${item.contentVersion}`);
+  }
   const source = await PDFDocument.load(bytes);
   const pages = await merged.copyPages(source, source.getPageIndices());
   pages.forEach((page) => merged.addPage(page));

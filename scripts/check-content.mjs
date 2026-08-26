@@ -1,3 +1,4 @@
+import { createHash } from "node:crypto";
 import { access, readFile, readdir, stat } from "node:fs/promises";
 import path from "node:path";
 import process from "node:process";
@@ -25,18 +26,33 @@ for (const item of data.items) {
   const countKey = `${item.grade}:${item.field}`;
   actualCounts.set(countKey, (actualCounts.get(countKey) || 0) + 1);
   const releaseName = `${item.id}.pdf`;
+  const releasePath = path.join(repoRoot, ".release-assets", releaseName);
   releaseNames.add(releaseName);
+  if (!/^[a-f0-9]{64}$/.test(item.contentVersion || "")) {
+    errors.push(`PDF内容版が不正: ${item.id} ${item.contentVersion || "(なし)"}`);
+  }
   try {
-    const releaseInfo = await stat(path.join(repoRoot, ".release-assets", releaseName));
+    const releaseInfo = await stat(releasePath);
     if (releaseInfo.size !== item.fileSize) {
       errors.push(`PDFサイズ不一致: ${releaseName} ${releaseInfo.size} != ${item.fileSize}`);
+    }
+    const actualVersion = createHash("sha256").update(await readFile(releasePath)).digest("hex");
+    if (actualVersion !== item.contentVersion) {
+      errors.push(`PDF内容版不一致: ${releaseName} ${actualVersion} != ${item.contentVersion}`);
     }
   } catch {
     errors.push(`PDFなし: ${releaseName}`);
   }
+  if (!item.pdfUrl.endsWith(`?rev=${item.contentVersion}`)) {
+    errors.push(`PDF URLの内容版不一致: ${item.id}`);
+  }
   if (!item.previewPages.length) errors.push(`プレビューなし: ${item.id}`);
   for (const preview of item.previewPages) {
-    const filePath = path.join(repoRoot, "public", preview.replace(/^\//, ""));
+    if (!preview.endsWith(`?v=${item.contentVersion}`)) {
+      errors.push(`プレビューURLの内容版不一致: ${preview}`);
+    }
+    const previewPath = preview.split("?", 1)[0];
+    const filePath = path.join(repoRoot, "public", previewPath.replace(/^\//, ""));
     try {
       await access(filePath);
       const info = await stat(filePath);

@@ -195,10 +195,9 @@ export function ArchiveBrowser({ data }: Props) {
       const mergedPdf = await PDFDocument.create();
       mergedPdf.setTitle(`高校入試 理科 選定問題 ${snapshot.length}題`);
       mergedPdf.setSubject(snapshot.map((item) => `${item.year}年 ${item.prefecture} ${item.shortUnit}`).join(" / "));
-      const releaseVersion = encodeURIComponent(data.releaseTag);
-
       for (let itemIndex = 0; itemIndex < snapshot.length; itemIndex += 1) {
         const item = snapshot[itemIndex];
+        const contentVersion = encodeURIComponent(`${data.releaseTag}-${item.contentVersion}`);
         const pdfBytes = new Uint8Array(item.fileSize);
         let itemOffset = 0;
         const chunkCount = Math.ceil(item.fileSize / PDF_CHUNK_SIZE);
@@ -209,7 +208,7 @@ export function ArchiveBrowser({ data }: Props) {
         });
 
         for (let chunk = 0; chunk < chunkCount; chunk += 1) {
-          const response = await fetch(`/api/pdf/${encodeURIComponent(item.id)}?chunk=${chunk}&v=${releaseVersion}`);
+          const response = await fetch(`/api/pdf/${encodeURIComponent(item.id)}?chunk=${chunk}&v=${contentVersion}`);
           if (!response.ok) throw new Error(`${item.prefecture}「${item.shortUnit}」の取得に失敗しました。`);
           const part = await response.arrayBuffer();
           pdfBytes.set(new Uint8Array(part), itemOffset);
