@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T05:46:10.116Z",
+  "generatedAt": "2026-08-26T06:43:57.925Z",
   "releaseTag": "pdfs-v2",
   "totalItems": 197,
   "totalPages": 897,
@@ -2813,15 +2813,15 @@
       ],
       "pageCount": 4,
       "previewPages": [
-        "/previews/g2-2023-gifu-physics-e20499d/page-01.jpg?v=40b1f725f4b84667a296c76fb9c28251d7f546754b82df51b86bee2df6aaef5b",
-        "/previews/g2-2023-gifu-physics-e20499d/page-02.jpg?v=40b1f725f4b84667a296c76fb9c28251d7f546754b82df51b86bee2df6aaef5b",
-        "/previews/g2-2023-gifu-physics-e20499d/page-03.jpg?v=40b1f725f4b84667a296c76fb9c28251d7f546754b82df51b86bee2df6aaef5b",
-        "/previews/g2-2023-gifu-physics-e20499d/page-04.jpg?v=40b1f725f4b84667a296c76fb9c28251d7f546754b82df51b86bee2df6aaef5b"
+        "/previews/g2-2023-gifu-physics-e20499d/page-01.jpg?v=d2bc5722d4d8a2f67505f13bc881432a27da26a5854323c2e93751879128690a",
+        "/previews/g2-2023-gifu-physics-e20499d/page-02.jpg?v=d2bc5722d4d8a2f67505f13bc881432a27da26a5854323c2e93751879128690a",
+        "/previews/g2-2023-gifu-physics-e20499d/page-03.jpg?v=d2bc5722d4d8a2f67505f13bc881432a27da26a5854323c2e93751879128690a",
+        "/previews/g2-2023-gifu-physics-e20499d/page-04.jpg?v=d2bc5722d4d8a2f67505f13bc881432a27da26a5854323c2e93751879128690a"
       ],
-      "contentVersion": "40b1f725f4b84667a296c76fb9c28251d7f546754b82df51b86bee2df6aaef5b",
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2023-gifu-physics-e20499d.pdf?rev=40b1f725f4b84667a296c76fb9c28251d7f546754b82df51b86bee2df6aaef5b",
+      "contentVersion": "d2bc5722d4d8a2f67505f13bc881432a27da26a5854323c2e93751879128690a",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2023-gifu-physics-e20499d.pdf?rev=d2bc5722d4d8a2f67505f13bc881432a27da26a5854323c2e93751879128690a",
       "pdfFileName": "2023年実施_岐阜県_中2理科_電流と回路（電圧・電流・抵抗・オームの法則・直列回路・並列回路・電力量）.pdf",
-      "fileSize": 17082149
+      "fileSize": 10970501
     },
     {
       "id": "g1-2023-mie-physics-8f0b459",
