@@ -32,22 +32,22 @@ const FIELD_META: Record<ScienceField, { image: string; eyebrow: string; descrip
   物理: {
     image: "/images/field-physics.webp",
     eyebrow: "LIGHT · SOUND · FORCE",
-    description: "光、音、力、圧力を、図と実験から考える問題",
+    description: "光・電流・力・運動・エネルギーを、図と実験から考える問題",
   },
   化学: {
     image: "/images/field-chemistry.webp",
     eyebrow: "MATTER · SOLUTION",
-    description: "物質、状態変化、水溶液、気体を扱う問題",
+    description: "物質・水溶液・化学変化・イオンを、実験から考える問題",
   },
   地学: {
     image: "/images/field-earth.webp",
     eyebrow: "EARTH · STRATA",
-    description: "地層、火山、岩石、地震から大地を読む問題",
+    description: "大地・気象・天体の変化を、観察や資料から読み取る問題",
   },
   生物: {
     image: "/images/field-biology.webp",
     eyebrow: "LIFE · CLASSIFICATION",
-    description: "生物の特徴や分類を観察結果から考える問題",
+    description: "生物の特徴・体のはたらき・成長と生殖・自然界のつり合いを考える問題",
   },
 };
 
@@ -277,7 +277,7 @@ export function ArchiveBrowser({ data }: Props) {
         <div className="hero-overlay" />
         <div className="hero-content shell">
           <p className="eyebrow">SCIENCE ENTRANCE EXAM ARCHIVE</p>
-          <div className="hero-grade"><span>中1・中2</span> 物理・化学・地学・生物</div>
+          <div className="hero-grade"><span>{[1, 2, 3].filter((grade) => gradeCounts.get(grade)).map((grade) => `中${grade}`).join("・")}</span> 物理・化学・地学・生物</div>
           <h1 className="app-title">SCIENTIA<span>スキエンティア</span></h1>
           <p className="hero-copy">
             高校入試の理科大問を、単元別に整理しました。PDFを開く前に全ページを画像で確認でき、問題選定を短時間で進められます。

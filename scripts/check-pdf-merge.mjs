@@ -13,6 +13,13 @@ const samples = [
   data.items.find((item) => item.grade === 2 && item.field === "化学"),
   data.items.find((item) => item.grade === 2 && item.field === "物理"),
 ];
+if (data.items.some((item) => item.grade === 3)) {
+  for (const field of ["物理", "化学", "地学", "生物"]) {
+    samples.push(data.items
+      .filter((item) => item.grade === 3 && item.field === field)
+      .sort((a, b) => a.fileSize - b.fileSize)[0]);
+  }
+}
 if (samples.some((item) => !item)) throw new Error("結合テストに必要な学年・分野の資料がありません。");
 const items = [...new Map(samples.map((item) => [item.id, item])).values()];
 const merged = await PDFDocument.create();

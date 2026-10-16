@@ -1,9 +1,38 @@
 {
-  "generatedAt": "2026-08-26T06:43:57.925Z",
+  "generatedAt": "2026-10-16T09:05:41.986Z",
   "releaseTag": "pdfs-v2",
-  "totalItems": 197,
-  "totalPages": 897,
+  "totalItems": 213,
+  "totalPages": 969,
   "items": [
+    {
+      "id": "g3-2025-iwate-chemistry-b1b4aef",
+      "grade": 3,
+      "year": 2025,
+      "prefecture": "岩手県",
+      "field": "化学",
+      "unit": "酸・アルカリと中和（硫酸・水酸化バリウム・硫酸バリウム・沈殿・pH・質量と体積のグラフ）",
+      "shortUnit": "酸・アルカリと中和",
+      "tags": [
+        "硫酸",
+        "水酸化バリウム",
+        "硫酸バリウム",
+        "沈殿",
+        "pH",
+        "質量と体積のグラフ"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2025-iwate-chemistry-b1b4aef/page-01.jpg?v=4d849a567444f8dcf26885328d50b8c16f93a963c3b7f60fee58f7f358c43d79",
+        "/previews/g3-2025-iwate-chemistry-b1b4aef/page-02.jpg?v=4d849a567444f8dcf26885328d50b8c16f93a963c3b7f60fee58f7f358c43d79",
+        "/previews/g3-2025-iwate-chemistry-b1b4aef/page-03.jpg?v=4d849a567444f8dcf26885328d50b8c16f93a963c3b7f60fee58f7f358c43d79",
+        "/previews/g3-2025-iwate-chemistry-b1b4aef/page-04.jpg?v=4d849a567444f8dcf26885328d50b8c16f93a963c3b7f60fee58f7f358c43d79",
+        "/previews/g3-2025-iwate-chemistry-b1b4aef/page-05.jpg?v=4d849a567444f8dcf26885328d50b8c16f93a963c3b7f60fee58f7f358c43d79"
+      ],
+      "contentVersion": "4d849a567444f8dcf26885328d50b8c16f93a963c3b7f60fee58f7f358c43d79",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2025-iwate-chemistry-b1b4aef.pdf?rev=4d849a567444f8dcf26885328d50b8c16f93a963c3b7f60fee58f7f358c43d79",
+      "pdfFileName": "2025年実施_岩手県_中3理科_酸・アルカリと中和（硫酸・水酸化バリウム・硫酸バリウム・沈殿・pH・質量と体積のグラフ）.pdf",
+      "fileSize": 16621834
+    },
     {
       "id": "g2-2025-yamagata-chemistry-ca7a6af",
       "grade": 2,
@@ -32,6 +61,62 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2025-yamagata-chemistry-ca7a6af.pdf?rev=9fcd465123d74f7c86c5daf5842e0466e0098bd3fa4380fb31f9cd0bfb0e954e",
       "pdfFileName": "2025年実施_山形県_中2理科_化学変化と物質の質量（炭酸水素ナトリウム・塩酸・二酸化炭素の発生・質量保存・化学反応式・反応物の質量比・ベーキングパウダー）.pdf",
       "fileSize": 13539321
+    },
+    {
+      "id": "g3-2025-yamagata-chemistry-8fa3e65",
+      "grade": 3,
+      "year": 2025,
+      "prefecture": "山形県",
+      "field": "化学",
+      "unit": "水溶液とイオン（塩化銅水溶液の電気分解・電解質・非電解質・イオンのモデル・塩素）",
+      "shortUnit": "水溶液とイオン",
+      "tags": [
+        "塩化銅水溶液の電気分解",
+        "電解質",
+        "非電解質",
+        "イオンのモデル",
+        "塩素"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2025-yamagata-chemistry-8fa3e65/page-01.jpg?v=54dd5076aaebe427aa25250e7ea89d9b2128190b3acd4a638ccf87ac4fa2bbc0",
+        "/previews/g3-2025-yamagata-chemistry-8fa3e65/page-02.jpg?v=54dd5076aaebe427aa25250e7ea89d9b2128190b3acd4a638ccf87ac4fa2bbc0",
+        "/previews/g3-2025-yamagata-chemistry-8fa3e65/page-03.jpg?v=54dd5076aaebe427aa25250e7ea89d9b2128190b3acd4a638ccf87ac4fa2bbc0",
+        "/previews/g3-2025-yamagata-chemistry-8fa3e65/page-04.jpg?v=54dd5076aaebe427aa25250e7ea89d9b2128190b3acd4a638ccf87ac4fa2bbc0"
+      ],
+      "contentVersion": "54dd5076aaebe427aa25250e7ea89d9b2128190b3acd4a638ccf87ac4fa2bbc0",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2025-yamagata-chemistry-8fa3e65.pdf?rev=54dd5076aaebe427aa25250e7ea89d9b2128190b3acd4a638ccf87ac4fa2bbc0",
+      "pdfFileName": "2025年実施_山形県_中3理科_水溶液とイオン（塩化銅水溶液の電気分解・電解質・非電解質・イオンのモデル・塩素）.pdf",
+      "fileSize": 8702725
+    },
+    {
+      "id": "g3-2025-yamaguchi-chemistry-ef18c77",
+      "grade": 3,
+      "year": 2025,
+      "prefecture": "山口県",
+      "field": "化学",
+      "unit": "化学変化とイオン（塩化銅の電気分解・電離・銅イオン・塩化物イオン・ダニエル電池・電子と電流）",
+      "shortUnit": "化学変化とイオン",
+      "tags": [
+        "塩化銅の電気分解",
+        "電離",
+        "銅イオン",
+        "塩化物イオン",
+        "ダニエル電池",
+        "電子と電流"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2025-yamaguchi-chemistry-ef18c77/page-01.jpg?v=72e1e7166e109dca9655069ecf18d964ad04d14810a48163715e7e78f7329635",
+        "/previews/g3-2025-yamaguchi-chemistry-ef18c77/page-02.jpg?v=72e1e7166e109dca9655069ecf18d964ad04d14810a48163715e7e78f7329635",
+        "/previews/g3-2025-yamaguchi-chemistry-ef18c77/page-03.jpg?v=72e1e7166e109dca9655069ecf18d964ad04d14810a48163715e7e78f7329635",
+        "/previews/g3-2025-yamaguchi-chemistry-ef18c77/page-04.jpg?v=72e1e7166e109dca9655069ecf18d964ad04d14810a48163715e7e78f7329635",
+        "/previews/g3-2025-yamaguchi-chemistry-ef18c77/page-05.jpg?v=72e1e7166e109dca9655069ecf18d964ad04d14810a48163715e7e78f7329635"
+      ],
+      "contentVersion": "72e1e7166e109dca9655069ecf18d964ad04d14810a48163715e7e78f7329635",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2025-yamaguchi-chemistry-ef18c77.pdf?rev=72e1e7166e109dca9655069ecf18d964ad04d14810a48163715e7e78f7329635",
+      "pdfFileName": "2025年実施_山口県_中3理科_化学変化とイオン（塩化銅の電気分解・電離・銅イオン・塩化物イオン・ダニエル電池・電子と電流）.pdf",
+      "fileSize": 14484756
     },
     {
       "id": "g2-2025-yamaguchi-chemistry-74633ef",
@@ -91,6 +176,33 @@
       "fileSize": 26742154
     },
     {
+      "id": "g3-2025-toyama-chemistry-5af6047",
+      "grade": 3,
+      "year": 2025,
+      "prefecture": "富山県",
+      "field": "化学",
+      "unit": "化学変化と電池（ダニエル電池・金属イオン・電子の移動・イオン化傾向・エネルギー変換）",
+      "shortUnit": "化学変化と電池",
+      "tags": [
+        "ダニエル電池",
+        "金属イオン",
+        "電子の移動",
+        "イオン化傾向",
+        "エネルギー変換"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2025-toyama-chemistry-5af6047/page-01.jpg?v=35c189e93609986ecc406815a8e00be92098088be71d46bf25a34fc775229bc4",
+        "/previews/g3-2025-toyama-chemistry-5af6047/page-02.jpg?v=35c189e93609986ecc406815a8e00be92098088be71d46bf25a34fc775229bc4",
+        "/previews/g3-2025-toyama-chemistry-5af6047/page-03.jpg?v=35c189e93609986ecc406815a8e00be92098088be71d46bf25a34fc775229bc4",
+        "/previews/g3-2025-toyama-chemistry-5af6047/page-04.jpg?v=35c189e93609986ecc406815a8e00be92098088be71d46bf25a34fc775229bc4"
+      ],
+      "contentVersion": "35c189e93609986ecc406815a8e00be92098088be71d46bf25a34fc775229bc4",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2025-toyama-chemistry-5af6047.pdf?rev=35c189e93609986ecc406815a8e00be92098088be71d46bf25a34fc775229bc4",
+      "pdfFileName": "2025年実施_富山県_中3理科_化学変化と電池（ダニエル電池・金属イオン・電子の移動・イオン化傾向・エネルギー変換）.pdf",
+      "fileSize": 15091500
+    },
+    {
       "id": "g1-2025-toyama-chemistry-a8e5b22",
       "grade": 1,
       "year": 2025,
@@ -116,6 +228,89 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2025-toyama-chemistry-a8e5b22.pdf?rev=9cb73d2be451bda08f7a7840659b2c452dfb39ee720119cdb9ce07e8d4387b3c",
       "pdfFileName": "2025年実施_富山県_中1理科_状態変化と物質の性質（粒子モデル・融点・密度・体積と質量・浮き沈み）.pdf",
       "fileSize": 8914015
+    },
+    {
+      "id": "g3-2025-fukushima-chemistry-d0ba5ef",
+      "grade": 3,
+      "year": 2025,
+      "prefecture": "福島県",
+      "field": "化学",
+      "unit": "化学変化と電池（燃料電池・水の電気分解・水の合成・化学エネルギー・気体の体積比）",
+      "shortUnit": "化学変化と電池",
+      "tags": [
+        "燃料電池",
+        "水の電気分解",
+        "水の合成",
+        "化学エネルギー",
+        "気体の体積比"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2025-fukushima-chemistry-d0ba5ef/page-01.jpg?v=78b824a28ecea08b42a962e0fdf62b0ccba9ac37ae8d816042cfb35b4ce32d23",
+        "/previews/g3-2025-fukushima-chemistry-d0ba5ef/page-02.jpg?v=78b824a28ecea08b42a962e0fdf62b0ccba9ac37ae8d816042cfb35b4ce32d23",
+        "/previews/g3-2025-fukushima-chemistry-d0ba5ef/page-03.jpg?v=78b824a28ecea08b42a962e0fdf62b0ccba9ac37ae8d816042cfb35b4ce32d23",
+        "/previews/g3-2025-fukushima-chemistry-d0ba5ef/page-04.jpg?v=78b824a28ecea08b42a962e0fdf62b0ccba9ac37ae8d816042cfb35b4ce32d23",
+        "/previews/g3-2025-fukushima-chemistry-d0ba5ef/page-05.jpg?v=78b824a28ecea08b42a962e0fdf62b0ccba9ac37ae8d816042cfb35b4ce32d23"
+      ],
+      "contentVersion": "78b824a28ecea08b42a962e0fdf62b0ccba9ac37ae8d816042cfb35b4ce32d23",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2025-fukushima-chemistry-d0ba5ef.pdf?rev=78b824a28ecea08b42a962e0fdf62b0ccba9ac37ae8d816042cfb35b4ce32d23",
+      "pdfFileName": "2025年実施_福島県_中3理科_化学変化と電池（燃料電池・水の電気分解・水の合成・化学エネルギー・気体の体積比）.pdf",
+      "fileSize": 12594642
+    },
+    {
+      "id": "g3-2025-iwate-biology-0dfb5e2",
+      "grade": 3,
+      "year": 2025,
+      "prefecture": "岩手県",
+      "field": "生物",
+      "unit": "遺伝の規則性と遺伝子（メンデルの実験・分離の法則・遺伝子の組合せ・有性生殖・減数分裂）",
+      "shortUnit": "遺伝の規則性と遺伝子",
+      "tags": [
+        "メンデルの実験",
+        "分離の法則",
+        "遺伝子の組合せ",
+        "有性生殖",
+        "減数分裂"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2025-iwate-biology-0dfb5e2/page-01.jpg?v=c03a715b28a449b1c35b683e41195b72e8f3da4719432a9fad5cd29349181784",
+        "/previews/g3-2025-iwate-biology-0dfb5e2/page-02.jpg?v=c03a715b28a449b1c35b683e41195b72e8f3da4719432a9fad5cd29349181784",
+        "/previews/g3-2025-iwate-biology-0dfb5e2/page-03.jpg?v=c03a715b28a449b1c35b683e41195b72e8f3da4719432a9fad5cd29349181784",
+        "/previews/g3-2025-iwate-biology-0dfb5e2/page-04.jpg?v=c03a715b28a449b1c35b683e41195b72e8f3da4719432a9fad5cd29349181784"
+      ],
+      "contentVersion": "c03a715b28a449b1c35b683e41195b72e8f3da4719432a9fad5cd29349181784",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2025-iwate-biology-0dfb5e2.pdf?rev=c03a715b28a449b1c35b683e41195b72e8f3da4719432a9fad5cd29349181784",
+      "pdfFileName": "2025年実施_岩手県_中3理科_遺伝の規則性と遺伝子（メンデルの実験・分離の法則・遺伝子の組合せ・有性生殖・減数分裂）.pdf",
+      "fileSize": 10958295
+    },
+    {
+      "id": "g3-2025-yamagata-biology-5d289be",
+      "grade": 3,
+      "year": 2025,
+      "prefecture": "山形県",
+      "field": "生物",
+      "unit": "自然界のつり合い（食物連鎖・食物網・生産者・消費者・分解者・生物の数量関係）",
+      "shortUnit": "自然界のつり合い",
+      "tags": [
+        "食物連鎖",
+        "食物網",
+        "生産者",
+        "消費者",
+        "分解者",
+        "生物の数量関係"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2025-yamagata-biology-5d289be/page-01.jpg?v=6476c3599a816389707cbf1ac81d0f5f17f34d1bcae0ea93b3c8813093ce8a98",
+        "/previews/g3-2025-yamagata-biology-5d289be/page-02.jpg?v=6476c3599a816389707cbf1ac81d0f5f17f34d1bcae0ea93b3c8813093ce8a98",
+        "/previews/g3-2025-yamagata-biology-5d289be/page-03.jpg?v=6476c3599a816389707cbf1ac81d0f5f17f34d1bcae0ea93b3c8813093ce8a98",
+        "/previews/g3-2025-yamagata-biology-5d289be/page-04.jpg?v=6476c3599a816389707cbf1ac81d0f5f17f34d1bcae0ea93b3c8813093ce8a98"
+      ],
+      "contentVersion": "6476c3599a816389707cbf1ac81d0f5f17f34d1bcae0ea93b3c8813093ce8a98",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2025-yamagata-biology-5d289be.pdf?rev=6476c3599a816389707cbf1ac81d0f5f17f34d1bcae0ea93b3c8813093ce8a98",
+      "pdfFileName": "2025年実施_山形県_中3理科_自然界のつり合い（食物連鎖・食物網・生産者・消費者・分解者・生物の数量関係）.pdf",
+      "fileSize": 12987445
     },
     {
       "id": "g2-2025-yamagata-biology-557d62a",
@@ -144,6 +339,32 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2025-yamagata-biology-557d62a.pdf?rev=6e75fee07de58b7c41b38baf92a84208258baa09b31b815f5837e3ed4e023eb6",
       "pdfFileName": "2025年実施_山形県_中2理科_植物の体のつくりとはたらき（維管束と道管・葉脈・双子葉類・気孔・蒸散・対照実験）.pdf",
       "fileSize": 9834318
+    },
+    {
+      "id": "g3-2025-yamaguchi-biology-f0143c8",
+      "grade": 3,
+      "year": 2025,
+      "prefecture": "山口県",
+      "field": "生物",
+      "unit": "生物の成長と細胞分裂（体細胞分裂・染色体の変化・細胞分裂の順序・顕微鏡の操作）",
+      "shortUnit": "生物の成長と細胞分裂",
+      "tags": [
+        "体細胞分裂",
+        "染色体の変化",
+        "細胞分裂の順序",
+        "顕微鏡の操作"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2025-yamaguchi-biology-f0143c8/page-01.jpg?v=a58a8b11644246d47b0c922b6b7dbc3bddfff90f2968ae3bfada1da06d90bfb4",
+        "/previews/g3-2025-yamaguchi-biology-f0143c8/page-02.jpg?v=a58a8b11644246d47b0c922b6b7dbc3bddfff90f2968ae3bfada1da06d90bfb4",
+        "/previews/g3-2025-yamaguchi-biology-f0143c8/page-03.jpg?v=a58a8b11644246d47b0c922b6b7dbc3bddfff90f2968ae3bfada1da06d90bfb4",
+        "/previews/g3-2025-yamaguchi-biology-f0143c8/page-04.jpg?v=a58a8b11644246d47b0c922b6b7dbc3bddfff90f2968ae3bfada1da06d90bfb4"
+      ],
+      "contentVersion": "a58a8b11644246d47b0c922b6b7dbc3bddfff90f2968ae3bfada1da06d90bfb4",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2025-yamaguchi-biology-f0143c8.pdf?rev=a58a8b11644246d47b0c922b6b7dbc3bddfff90f2968ae3bfada1da06d90bfb4",
+      "pdfFileName": "2025年実施_山口県_中3理科_生物の成長と細胞分裂（体細胞分裂・染色体の変化・細胞分裂の順序・顕微鏡の操作）.pdf",
+      "fileSize": 6602178
     },
     {
       "id": "g1-2025-yamaguchi-biology-33ced11",
@@ -199,6 +420,35 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2025-tokushima-biology-3b02d06.pdf?rev=acdb490f397e9e052ed0a09b415a52006329ab03ae27fb7353d32df0fb5591e8",
       "pdfFileName": "2025年実施_徳島県_中2理科_消化と吸収（消化酵素・ヨウ素溶液とベネジクト液・セロハンチューブ・栄養素の分解・小腸の柔毛）.pdf",
       "fileSize": 13632847
+    },
+    {
+      "id": "g3-2025-toyama-biology-0c095e5",
+      "grade": 3,
+      "year": 2025,
+      "prefecture": "富山県",
+      "field": "生物",
+      "unit": "生物の成長と生殖（花粉管・受精・有性生殖・無性生殖・栄養生殖・遺伝子・顕微鏡）",
+      "shortUnit": "生物の成長と生殖",
+      "tags": [
+        "花粉管",
+        "受精",
+        "有性生殖",
+        "無性生殖",
+        "栄養生殖",
+        "遺伝子",
+        "顕微鏡"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2025-toyama-biology-0c095e5/page-01.jpg?v=7219c6b8bb2364471fd0b6f899221f79fbc77418a8aae65647047aa55796b136",
+        "/previews/g3-2025-toyama-biology-0c095e5/page-02.jpg?v=7219c6b8bb2364471fd0b6f899221f79fbc77418a8aae65647047aa55796b136",
+        "/previews/g3-2025-toyama-biology-0c095e5/page-03.jpg?v=7219c6b8bb2364471fd0b6f899221f79fbc77418a8aae65647047aa55796b136",
+        "/previews/g3-2025-toyama-biology-0c095e5/page-04.jpg?v=7219c6b8bb2364471fd0b6f899221f79fbc77418a8aae65647047aa55796b136"
+      ],
+      "contentVersion": "7219c6b8bb2364471fd0b6f899221f79fbc77418a8aae65647047aa55796b136",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2025-toyama-biology-0c095e5.pdf?rev=7219c6b8bb2364471fd0b6f899221f79fbc77418a8aae65647047aa55796b136",
+      "pdfFileName": "2025年実施_富山県_中3理科_生物の成長と生殖（花粉管・受精・有性生殖・無性生殖・栄養生殖・遺伝子・顕微鏡）.pdf",
+      "fileSize": 11967857
     },
     {
       "id": "g2-2025-toyama-biology-b3931c8",
@@ -257,6 +507,62 @@
       "fileSize": 10901426
     },
     {
+      "id": "g3-2025-fukushima-biology-b059964",
+      "grade": 3,
+      "year": 2025,
+      "prefecture": "福島県",
+      "field": "生物",
+      "unit": "生物の成長と生殖（体細胞分裂・染色体数・根の成長・細胞の大きさ・無性生殖）",
+      "shortUnit": "生物の成長と生殖",
+      "tags": [
+        "体細胞分裂",
+        "染色体数",
+        "根の成長",
+        "細胞の大きさ",
+        "無性生殖"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2025-fukushima-biology-b059964/page-01.jpg?v=35cd2a5021b5cadec26cd9f93af6413944608a00f6597eebc97fb3967251366e",
+        "/previews/g3-2025-fukushima-biology-b059964/page-02.jpg?v=35cd2a5021b5cadec26cd9f93af6413944608a00f6597eebc97fb3967251366e",
+        "/previews/g3-2025-fukushima-biology-b059964/page-03.jpg?v=35cd2a5021b5cadec26cd9f93af6413944608a00f6597eebc97fb3967251366e",
+        "/previews/g3-2025-fukushima-biology-b059964/page-04.jpg?v=35cd2a5021b5cadec26cd9f93af6413944608a00f6597eebc97fb3967251366e",
+        "/previews/g3-2025-fukushima-biology-b059964/page-05.jpg?v=35cd2a5021b5cadec26cd9f93af6413944608a00f6597eebc97fb3967251366e"
+      ],
+      "contentVersion": "35cd2a5021b5cadec26cd9f93af6413944608a00f6597eebc97fb3967251366e",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2025-fukushima-biology-b059964.pdf?rev=35cd2a5021b5cadec26cd9f93af6413944608a00f6597eebc97fb3967251366e",
+      "pdfFileName": "2025年実施_福島県_中3理科_生物の成長と生殖（体細胞分裂・染色体数・根の成長・細胞の大きさ・無性生殖）.pdf",
+      "fileSize": 12306892
+    },
+    {
+      "id": "g3-2025-iwate-earth-4f5dddc",
+      "grade": 3,
+      "year": 2025,
+      "prefecture": "岩手県",
+      "field": "地学",
+      "unit": "天体の動きと地球の自転・公転（太陽の黒点・透明半球・日周運動・南中時刻・季節の変化）",
+      "shortUnit": "天体の動きと地球の自転・公転",
+      "tags": [
+        "太陽の黒点",
+        "透明半球",
+        "日周運動",
+        "南中時刻",
+        "季節の変化"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2025-iwate-earth-4f5dddc/page-01.jpg?v=9f01a104e3dbf3818f227b6710b44ea407f3406ccb19ea1aa197c930f239cbb8",
+        "/previews/g3-2025-iwate-earth-4f5dddc/page-02.jpg?v=9f01a104e3dbf3818f227b6710b44ea407f3406ccb19ea1aa197c930f239cbb8",
+        "/previews/g3-2025-iwate-earth-4f5dddc/page-03.jpg?v=9f01a104e3dbf3818f227b6710b44ea407f3406ccb19ea1aa197c930f239cbb8",
+        "/previews/g3-2025-iwate-earth-4f5dddc/page-04.jpg?v=9f01a104e3dbf3818f227b6710b44ea407f3406ccb19ea1aa197c930f239cbb8",
+        "/previews/g3-2025-iwate-earth-4f5dddc/page-05.jpg?v=9f01a104e3dbf3818f227b6710b44ea407f3406ccb19ea1aa197c930f239cbb8"
+      ],
+      "contentVersion": "9f01a104e3dbf3818f227b6710b44ea407f3406ccb19ea1aa197c930f239cbb8",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2025-iwate-earth-4f5dddc.pdf?rev=9f01a104e3dbf3818f227b6710b44ea407f3406ccb19ea1aa197c930f239cbb8",
+      "pdfFileName": "2025年実施_岩手県_中3理科_天体の動きと地球の自転・公転（太陽の黒点・透明半球・日周運動・南中時刻・季節の変化）.pdf",
+      "fileSize": 15392792
+    },
+    {
       "id": "g1-2025-yamagata-earth-f356357",
       "grade": 1,
       "year": 2025,
@@ -282,6 +588,33 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2025-yamagata-earth-f356357.pdf?rev=52be4d82f569b8315963fd8be25bc6bda1aff1320fe7a8c0901282837a37ca6a",
       "pdfFileName": "2025年実施_山形県_中1理科_火山活動と火成岩（花こう岩・玄武岩・等粒状組織・風化・ルーペの使い方）.pdf",
       "fileSize": 10591102
+    },
+    {
+      "id": "g3-2025-yamagata-earth-6e5cc12",
+      "grade": 3,
+      "year": 2025,
+      "prefecture": "山形県",
+      "field": "地学",
+      "unit": "天体の動きと地球の自転・公転（透明半球・太陽の日周運動・南中高度・季節と日の出・日の入り）",
+      "shortUnit": "天体の動きと地球の自転・公転",
+      "tags": [
+        "透明半球",
+        "太陽の日周運動",
+        "南中高度",
+        "季節と日の出",
+        "日の入り"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2025-yamagata-earth-6e5cc12/page-01.jpg?v=baedc02235e42716dbc585bc12d71d4ac717fac9765c8c43c75642fe294f198f",
+        "/previews/g3-2025-yamagata-earth-6e5cc12/page-02.jpg?v=baedc02235e42716dbc585bc12d71d4ac717fac9765c8c43c75642fe294f198f",
+        "/previews/g3-2025-yamagata-earth-6e5cc12/page-03.jpg?v=baedc02235e42716dbc585bc12d71d4ac717fac9765c8c43c75642fe294f198f",
+        "/previews/g3-2025-yamagata-earth-6e5cc12/page-04.jpg?v=baedc02235e42716dbc585bc12d71d4ac717fac9765c8c43c75642fe294f198f"
+      ],
+      "contentVersion": "baedc02235e42716dbc585bc12d71d4ac717fac9765c8c43c75642fe294f198f",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2025-yamagata-earth-6e5cc12.pdf?rev=baedc02235e42716dbc585bc12d71d4ac717fac9765c8c43c75642fe294f198f",
+      "pdfFileName": "2025年実施_山形県_中3理科_天体の動きと地球の自転・公転（透明半球・太陽の日周運動・南中高度・季節と日の出・日の入り）.pdf",
+      "fileSize": 11927685
     },
     {
       "id": "g1-2025-yamaguchi-earth-645c578",
@@ -563,6 +896,63 @@
       "fileSize": 6923705
     },
     {
+      "id": "g3-2025-yamaguchi-physics-8852824",
+      "grade": 3,
+      "year": 2025,
+      "prefecture": "山口県",
+      "field": "物理",
+      "unit": "力と物体の運動（斜面の運動・力の分解・自由落下・空気抵抗・慣性の法則・時間と距離のグラフ）",
+      "shortUnit": "力と物体の運動",
+      "tags": [
+        "斜面の運動",
+        "力の分解",
+        "自由落下",
+        "空気抵抗",
+        "慣性の法則",
+        "時間と距離のグラフ"
+      ],
+      "pageCount": 6,
+      "previewPages": [
+        "/previews/g3-2025-yamaguchi-physics-8852824/page-01.jpg?v=9a3689a6cc517e87bf889eee42adfdfe9670c93281026c490018a08c87750c2d",
+        "/previews/g3-2025-yamaguchi-physics-8852824/page-02.jpg?v=9a3689a6cc517e87bf889eee42adfdfe9670c93281026c490018a08c87750c2d",
+        "/previews/g3-2025-yamaguchi-physics-8852824/page-03.jpg?v=9a3689a6cc517e87bf889eee42adfdfe9670c93281026c490018a08c87750c2d",
+        "/previews/g3-2025-yamaguchi-physics-8852824/page-04.jpg?v=9a3689a6cc517e87bf889eee42adfdfe9670c93281026c490018a08c87750c2d",
+        "/previews/g3-2025-yamaguchi-physics-8852824/page-05.jpg?v=9a3689a6cc517e87bf889eee42adfdfe9670c93281026c490018a08c87750c2d",
+        "/previews/g3-2025-yamaguchi-physics-8852824/page-06.jpg?v=9a3689a6cc517e87bf889eee42adfdfe9670c93281026c490018a08c87750c2d"
+      ],
+      "contentVersion": "9a3689a6cc517e87bf889eee42adfdfe9670c93281026c490018a08c87750c2d",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2025-yamaguchi-physics-8852824.pdf?rev=9a3689a6cc517e87bf889eee42adfdfe9670c93281026c490018a08c87750c2d",
+      "pdfFileName": "2025年実施_山口県_中3理科_力と物体の運動（斜面の運動・力の分解・自由落下・空気抵抗・慣性の法則・時間と距離のグラフ）.pdf",
+      "fileSize": 21670387
+    },
+    {
+      "id": "g3-2025-tokushima-physics-403cc03",
+      "grade": 3,
+      "year": 2025,
+      "prefecture": "徳島県",
+      "field": "物理",
+      "unit": "仕事と仕事率（仕事の原理・定滑車と動滑車・力のつり合い・平均の速さ・クレーン）",
+      "shortUnit": "仕事と仕事率",
+      "tags": [
+        "仕事の原理",
+        "定滑車と動滑車",
+        "力のつり合い",
+        "平均の速さ",
+        "クレーン"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2025-tokushima-physics-403cc03/page-01.jpg?v=22c1d87c2b9a613dfcc72135052a4cef840333f00ee6368d137077da35f4f615",
+        "/previews/g3-2025-tokushima-physics-403cc03/page-02.jpg?v=22c1d87c2b9a613dfcc72135052a4cef840333f00ee6368d137077da35f4f615",
+        "/previews/g3-2025-tokushima-physics-403cc03/page-03.jpg?v=22c1d87c2b9a613dfcc72135052a4cef840333f00ee6368d137077da35f4f615",
+        "/previews/g3-2025-tokushima-physics-403cc03/page-04.jpg?v=22c1d87c2b9a613dfcc72135052a4cef840333f00ee6368d137077da35f4f615"
+      ],
+      "contentVersion": "22c1d87c2b9a613dfcc72135052a4cef840333f00ee6368d137077da35f4f615",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2025-tokushima-physics-403cc03.pdf?rev=22c1d87c2b9a613dfcc72135052a4cef840333f00ee6368d137077da35f4f615",
+      "pdfFileName": "2025年実施_徳島県_中3理科_仕事と仕事率（仕事の原理・定滑車と動滑車・力のつり合い・平均の速さ・クレーン）.pdf",
+      "fileSize": 13833438
+    },
+    {
       "id": "g1-2025-toyama-physics-2f7e767",
       "grade": 1,
       "year": 2025,
@@ -588,6 +978,34 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2025-toyama-physics-2f7e767.pdf?rev=2080db78b0489e1cb1d7bf57ec33ff9749db043dc1a5a9d752c5aeb41a1d1e84",
       "pdfFileName": "2025年実施_富山県_中1理科_光と音（凸レンズの実像・光の屈折・焦点・作図・像の明るさと大きさ）.pdf",
       "fileSize": 13535650
+    },
+    {
+      "id": "g3-2025-toyama-physics-00970ce",
+      "grade": 3,
+      "year": 2025,
+      "prefecture": "富山県",
+      "field": "物理",
+      "unit": "力と物体の運動（斜面を下る運動・等速直線運動・平均の速さ・時間と距離・速さのグラフ）",
+      "shortUnit": "力と物体の運動",
+      "tags": [
+        "斜面を下る運動",
+        "等速直線運動",
+        "平均の速さ",
+        "時間と距離",
+        "速さのグラフ"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2025-toyama-physics-00970ce/page-01.jpg?v=0bf59220e7ce106b277351f42a9d4dd5fed8453f8daf32ceedde60bd7a2aa8c6",
+        "/previews/g3-2025-toyama-physics-00970ce/page-02.jpg?v=0bf59220e7ce106b277351f42a9d4dd5fed8453f8daf32ceedde60bd7a2aa8c6",
+        "/previews/g3-2025-toyama-physics-00970ce/page-03.jpg?v=0bf59220e7ce106b277351f42a9d4dd5fed8453f8daf32ceedde60bd7a2aa8c6",
+        "/previews/g3-2025-toyama-physics-00970ce/page-04.jpg?v=0bf59220e7ce106b277351f42a9d4dd5fed8453f8daf32ceedde60bd7a2aa8c6",
+        "/previews/g3-2025-toyama-physics-00970ce/page-05.jpg?v=0bf59220e7ce106b277351f42a9d4dd5fed8453f8daf32ceedde60bd7a2aa8c6"
+      ],
+      "contentVersion": "0bf59220e7ce106b277351f42a9d4dd5fed8453f8daf32ceedde60bd7a2aa8c6",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2025-toyama-physics-00970ce.pdf?rev=0bf59220e7ce106b277351f42a9d4dd5fed8453f8daf32ceedde60bd7a2aa8c6",
+      "pdfFileName": "2025年実施_富山県_中3理科_力と物体の運動（斜面を下る運動・等速直線運動・平均の速さ・時間と距離・速さのグラフ）.pdf",
+      "fileSize": 17080843
     },
     {
       "id": "g2-2025-fukushima-physics-3f2d75f",
@@ -619,6 +1037,32 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g2-2025-fukushima-physics-3f2d75f.pdf?rev=639168392e9a04b05fc28f5fe8e100727e5badb6bd0a18a353a9fcbc39a15ee6",
       "pdfFileName": "2025年実施_福島県_中2理科_電流の正体と放射線（クルックス管・陰極線・放電・電子・X線・放射線の種類・性質・利用）.pdf",
       "fileSize": 12981243
+    },
+    {
+      "id": "g3-2025-fukushima-physics-7420aae",
+      "grade": 3,
+      "year": 2025,
+      "prefecture": "福島県",
+      "field": "物理",
+      "unit": "力のつり合いと作用・反作用（ばね・弾性力・フックの法則・力の矢印）",
+      "shortUnit": "力のつり合いと作用・反作用",
+      "tags": [
+        "ばね",
+        "弾性力",
+        "フックの法則",
+        "力の矢印"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2025-fukushima-physics-7420aae/page-01.jpg?v=ebc90a9e090760b752a38e5b7bfdc172a423a67c8d587142491ca2383fce1c91",
+        "/previews/g3-2025-fukushima-physics-7420aae/page-02.jpg?v=ebc90a9e090760b752a38e5b7bfdc172a423a67c8d587142491ca2383fce1c91",
+        "/previews/g3-2025-fukushima-physics-7420aae/page-03.jpg?v=ebc90a9e090760b752a38e5b7bfdc172a423a67c8d587142491ca2383fce1c91",
+        "/previews/g3-2025-fukushima-physics-7420aae/page-04.jpg?v=ebc90a9e090760b752a38e5b7bfdc172a423a67c8d587142491ca2383fce1c91"
+      ],
+      "contentVersion": "ebc90a9e090760b752a38e5b7bfdc172a423a67c8d587142491ca2383fce1c91",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2025-fukushima-physics-7420aae.pdf?rev=ebc90a9e090760b752a38e5b7bfdc172a423a67c8d587142491ca2383fce1c91",
+      "pdfFileName": "2025年実施_福島県_中3理科_力のつり合いと作用・反作用（ばね・弾性力・フックの法則・力の矢印）.pdf",
+      "fileSize": 11760922
     },
     {
       "id": "g2-2024-okinawa-chemistry-8fe16ab",
