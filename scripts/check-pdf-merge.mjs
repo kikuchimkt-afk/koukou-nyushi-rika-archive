@@ -3,7 +3,7 @@ import { readFileSync } from "node:fs";
 import { PDFDocument } from "pdf-lib";
 
 const baseUrl = process.env.MERGE_TEST_BASE_URL || "http://127.0.0.1:3170";
-const grade3Year = Number(process.env.MERGE_TEST_YEAR || 2023);
+const grade3Year = Number(process.env.MERGE_TEST_YEAR || 2022);
 const chunkSize = 3 * 1024 * 1024;
 const data = JSON.parse(readFileSync(new URL("../data/archive.generated.json", import.meta.url), "utf8"));
 const samples = [

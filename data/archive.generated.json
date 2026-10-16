@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-16T11:18:05.993Z",
+  "generatedAt": "2026-10-16T14:15:03.107960Z",
   "releaseTag": "pdfs-v2",
-  "totalItems": 266,
-  "totalPages": 1212,
+  "totalItems": 303,
+  "totalPages": 1377,
   "items": [
     {
       "id": "g3-2025-iwate-chemistry-b1b4aef",
@@ -7264,6 +7264,990 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g1-2019-aomori-biology-873804f.pdf?rev=e8401f17283d4002d7e2c0d7c2572309236a3edca220f77a501e6dbdd81a09f4",
       "pdfFileName": "2019年実施_青森県_中1理科_植物の分類（コケ植物・シダ植物・種子植物・被子植物と裸子植物・単子葉類と双子葉類）.pdf",
       "fileSize": 7906484
+    },
+    {
+      "id": "g3-2022-akita-physics-c65218c",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "秋田県",
+      "field": "物理",
+      "unit": "水中の物体にはたらく力（浮力・水圧・力のつり合い・アルキメデスの原理）",
+      "shortUnit": "水中の物体にはたらく力",
+      "tags": [
+        "浮力",
+        "水圧",
+        "力のつり合い",
+        "アルキメデスの原理"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-akita-physics-c65218c/page-01.jpg?v=a1db7b2b68730d5ef8f7e66e9fb9a368c4dc49631ae92bd79db66f0ecc3b581d",
+        "/previews/g3-2022-akita-physics-c65218c/page-02.jpg?v=a1db7b2b68730d5ef8f7e66e9fb9a368c4dc49631ae92bd79db66f0ecc3b581d",
+        "/previews/g3-2022-akita-physics-c65218c/page-03.jpg?v=a1db7b2b68730d5ef8f7e66e9fb9a368c4dc49631ae92bd79db66f0ecc3b581d",
+        "/previews/g3-2022-akita-physics-c65218c/page-04.jpg?v=a1db7b2b68730d5ef8f7e66e9fb9a368c4dc49631ae92bd79db66f0ecc3b581d"
+      ],
+      "contentVersion": "a1db7b2b68730d5ef8f7e66e9fb9a368c4dc49631ae92bd79db66f0ecc3b581d",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-akita-physics-c65218c.pdf?rev=a1db7b2b68730d5ef8f7e66e9fb9a368c4dc49631ae92bd79db66f0ecc3b581d",
+      "pdfFileName": "2022年実施_秋田県_中3理科_水中の物体にはたらく力（浮力・水圧・力のつり合い・アルキメデスの原理）.pdf",
+      "fileSize": 16347718
+    },
+    {
+      "id": "g3-2022-aomori-physics-dbaf39f",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "青森県",
+      "field": "物理",
+      "unit": "運動とエネルギー（等速直線運動・速さ・運動エネルギー・位置エネルギー）",
+      "shortUnit": "運動とエネルギー",
+      "tags": [
+        "等速直線運動",
+        "速さ",
+        "運動エネルギー",
+        "位置エネルギー"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2022-aomori-physics-dbaf39f/page-01.jpg?v=929542e7d287c05c59d9eee41e94467483d9c1a18c29827d4b6307cf0a56a37f",
+        "/previews/g3-2022-aomori-physics-dbaf39f/page-02.jpg?v=929542e7d287c05c59d9eee41e94467483d9c1a18c29827d4b6307cf0a56a37f",
+        "/previews/g3-2022-aomori-physics-dbaf39f/page-03.jpg?v=929542e7d287c05c59d9eee41e94467483d9c1a18c29827d4b6307cf0a56a37f",
+        "/previews/g3-2022-aomori-physics-dbaf39f/page-04.jpg?v=929542e7d287c05c59d9eee41e94467483d9c1a18c29827d4b6307cf0a56a37f",
+        "/previews/g3-2022-aomori-physics-dbaf39f/page-05.jpg?v=929542e7d287c05c59d9eee41e94467483d9c1a18c29827d4b6307cf0a56a37f"
+      ],
+      "contentVersion": "929542e7d287c05c59d9eee41e94467483d9c1a18c29827d4b6307cf0a56a37f",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-aomori-physics-dbaf39f.pdf?rev=929542e7d287c05c59d9eee41e94467483d9c1a18c29827d4b6307cf0a56a37f",
+      "pdfFileName": "2022年実施_青森県_中3理科_運動とエネルギー（等速直線運動・速さ・運動エネルギー・位置エネルギー）.pdf",
+      "fileSize": 15365669
+    },
+    {
+      "id": "g3-2022-aomori-earth-3c6d8ed",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "青森県",
+      "field": "地学",
+      "unit": "天体の動き（天球・日周運動・地球の自転と公転・星座の南中）",
+      "shortUnit": "天体の動き",
+      "tags": [
+        "天球",
+        "日周運動",
+        "地球の自転と公転",
+        "星座の南中"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-aomori-earth-3c6d8ed/page-01.jpg?v=97bf24e48f58bf508765a4db208ae297d105efc361cf2759950c630b17dd5bad",
+        "/previews/g3-2022-aomori-earth-3c6d8ed/page-02.jpg?v=97bf24e48f58bf508765a4db208ae297d105efc361cf2759950c630b17dd5bad",
+        "/previews/g3-2022-aomori-earth-3c6d8ed/page-03.jpg?v=97bf24e48f58bf508765a4db208ae297d105efc361cf2759950c630b17dd5bad",
+        "/previews/g3-2022-aomori-earth-3c6d8ed/page-04.jpg?v=97bf24e48f58bf508765a4db208ae297d105efc361cf2759950c630b17dd5bad"
+      ],
+      "contentVersion": "97bf24e48f58bf508765a4db208ae297d105efc361cf2759950c630b17dd5bad",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-aomori-earth-3c6d8ed.pdf?rev=97bf24e48f58bf508765a4db208ae297d105efc361cf2759950c630b17dd5bad",
+      "pdfFileName": "2022年実施_青森県_中3理科_天体の動き（天球・日周運動・地球の自転と公転・星座の南中）.pdf",
+      "fileSize": 11475448
+    },
+    {
+      "id": "g3-2022-ehime-chemistry-011fc15",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "愛媛県",
+      "field": "化学",
+      "unit": "金属とイオン・電池（イオン化傾向・ダニエル電池・電子の移動・金属の酸化）",
+      "shortUnit": "金属とイオン・電池",
+      "tags": [
+        "イオン化傾向",
+        "ダニエル電池",
+        "電子の移動",
+        "金属の酸化"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-ehime-chemistry-011fc15/page-01.jpg?v=a94186f32adc416fbedbf7c4fd8ec3cedc37d91c1a77818818fe6e705e487d8f",
+        "/previews/g3-2022-ehime-chemistry-011fc15/page-02.jpg?v=a94186f32adc416fbedbf7c4fd8ec3cedc37d91c1a77818818fe6e705e487d8f",
+        "/previews/g3-2022-ehime-chemistry-011fc15/page-03.jpg?v=a94186f32adc416fbedbf7c4fd8ec3cedc37d91c1a77818818fe6e705e487d8f",
+        "/previews/g3-2022-ehime-chemistry-011fc15/page-04.jpg?v=a94186f32adc416fbedbf7c4fd8ec3cedc37d91c1a77818818fe6e705e487d8f"
+      ],
+      "contentVersion": "a94186f32adc416fbedbf7c4fd8ec3cedc37d91c1a77818818fe6e705e487d8f",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-ehime-chemistry-011fc15.pdf?rev=a94186f32adc416fbedbf7c4fd8ec3cedc37d91c1a77818818fe6e705e487d8f",
+      "pdfFileName": "2022年実施_愛媛県_中3理科_金属とイオン・電池（イオン化傾向・ダニエル電池・電子の移動・金属の酸化）.pdf",
+      "fileSize": 14654417
+    },
+    {
+      "id": "g3-2022-fukushima-biology-f65460f",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "福島県",
+      "field": "生物",
+      "unit": "生物のふえ方（無性生殖・有性生殖・体細胞分裂・減数分裂・染色体）",
+      "shortUnit": "生物のふえ方",
+      "tags": [
+        "無性生殖",
+        "有性生殖",
+        "体細胞分裂",
+        "減数分裂",
+        "染色体"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-fukushima-biology-f65460f/page-01.jpg?v=de1e83bf73c06114ebfbcf33103ae4167349c6dbff28056a6ef9a12b421dc710",
+        "/previews/g3-2022-fukushima-biology-f65460f/page-02.jpg?v=de1e83bf73c06114ebfbcf33103ae4167349c6dbff28056a6ef9a12b421dc710",
+        "/previews/g3-2022-fukushima-biology-f65460f/page-03.jpg?v=de1e83bf73c06114ebfbcf33103ae4167349c6dbff28056a6ef9a12b421dc710",
+        "/previews/g3-2022-fukushima-biology-f65460f/page-04.jpg?v=de1e83bf73c06114ebfbcf33103ae4167349c6dbff28056a6ef9a12b421dc710"
+      ],
+      "contentVersion": "de1e83bf73c06114ebfbcf33103ae4167349c6dbff28056a6ef9a12b421dc710",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-fukushima-biology-f65460f.pdf?rev=de1e83bf73c06114ebfbcf33103ae4167349c6dbff28056a6ef9a12b421dc710",
+      "pdfFileName": "2022年実施_福島県_中3理科_生物のふえ方（無性生殖・有性生殖・体細胞分裂・減数分裂・染色体）.pdf",
+      "fileSize": 12062459
+    },
+    {
+      "id": "g3-2022-fukushima-physics-87c997c",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "福島県",
+      "field": "物理",
+      "unit": "力のはたらき（合力・力の合成と分解・平行四辺形・力のつり合い）",
+      "shortUnit": "力のはたらき",
+      "tags": [
+        "合力",
+        "力の合成と分解",
+        "平行四辺形",
+        "力のつり合い"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2022-fukushima-physics-87c997c/page-01.jpg?v=b0ea09b18e6b1a11227606ef1c4afbc8d88c986e30c0175e4fc6d59c3e0377ae",
+        "/previews/g3-2022-fukushima-physics-87c997c/page-02.jpg?v=b0ea09b18e6b1a11227606ef1c4afbc8d88c986e30c0175e4fc6d59c3e0377ae",
+        "/previews/g3-2022-fukushima-physics-87c997c/page-03.jpg?v=b0ea09b18e6b1a11227606ef1c4afbc8d88c986e30c0175e4fc6d59c3e0377ae",
+        "/previews/g3-2022-fukushima-physics-87c997c/page-04.jpg?v=b0ea09b18e6b1a11227606ef1c4afbc8d88c986e30c0175e4fc6d59c3e0377ae",
+        "/previews/g3-2022-fukushima-physics-87c997c/page-05.jpg?v=b0ea09b18e6b1a11227606ef1c4afbc8d88c986e30c0175e4fc6d59c3e0377ae"
+      ],
+      "contentVersion": "b0ea09b18e6b1a11227606ef1c4afbc8d88c986e30c0175e4fc6d59c3e0377ae",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-fukushima-physics-87c997c.pdf?rev=b0ea09b18e6b1a11227606ef1c4afbc8d88c986e30c0175e4fc6d59c3e0377ae",
+      "pdfFileName": "2022年実施_福島県_中3理科_力のはたらき（合力・力の合成と分解・平行四辺形・力のつり合い）.pdf",
+      "fileSize": 16037422
+    },
+    {
+      "id": "g3-2022-gifu-biology-5ea7a91",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "岐阜県",
+      "field": "生物",
+      "unit": "自然界のつり合い（生態系・食物網・分解者・対照実験・炭素の循環）",
+      "shortUnit": "自然界のつり合い",
+      "tags": [
+        "生態系",
+        "食物網",
+        "分解者",
+        "対照実験",
+        "炭素の循環"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-gifu-biology-5ea7a91/page-01.jpg?v=1b85e0e02afdd0047970a08ed4d5a52633abebceac28637091d5922c7282ba0f",
+        "/previews/g3-2022-gifu-biology-5ea7a91/page-02.jpg?v=1b85e0e02afdd0047970a08ed4d5a52633abebceac28637091d5922c7282ba0f",
+        "/previews/g3-2022-gifu-biology-5ea7a91/page-03.jpg?v=1b85e0e02afdd0047970a08ed4d5a52633abebceac28637091d5922c7282ba0f",
+        "/previews/g3-2022-gifu-biology-5ea7a91/page-04.jpg?v=1b85e0e02afdd0047970a08ed4d5a52633abebceac28637091d5922c7282ba0f"
+      ],
+      "contentVersion": "1b85e0e02afdd0047970a08ed4d5a52633abebceac28637091d5922c7282ba0f",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-gifu-biology-5ea7a91.pdf?rev=1b85e0e02afdd0047970a08ed4d5a52633abebceac28637091d5922c7282ba0f",
+      "pdfFileName": "2022年実施_岐阜県_中3理科_自然界のつり合い（生態系・食物網・分解者・対照実験・炭素の循環）.pdf",
+      "fileSize": 13930664
+    },
+    {
+      "id": "g3-2022-gifu-physics-a50c43d",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "岐阜県",
+      "field": "物理",
+      "unit": "運動とエネルギー（斜面の運動・仕事・仕事率・摩擦・力学的エネルギー）",
+      "shortUnit": "運動とエネルギー",
+      "tags": [
+        "斜面の運動",
+        "仕事",
+        "仕事率",
+        "摩擦",
+        "力学的エネルギー"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-gifu-physics-a50c43d/page-01.jpg?v=d1e17bb9c174705e5274d611b3e8d9e5ee05a4c14fccc5c21938d4ad67c04829",
+        "/previews/g3-2022-gifu-physics-a50c43d/page-02.jpg?v=d1e17bb9c174705e5274d611b3e8d9e5ee05a4c14fccc5c21938d4ad67c04829",
+        "/previews/g3-2022-gifu-physics-a50c43d/page-03.jpg?v=d1e17bb9c174705e5274d611b3e8d9e5ee05a4c14fccc5c21938d4ad67c04829",
+        "/previews/g3-2022-gifu-physics-a50c43d/page-04.jpg?v=d1e17bb9c174705e5274d611b3e8d9e5ee05a4c14fccc5c21938d4ad67c04829"
+      ],
+      "contentVersion": "d1e17bb9c174705e5274d611b3e8d9e5ee05a4c14fccc5c21938d4ad67c04829",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-gifu-physics-a50c43d.pdf?rev=d1e17bb9c174705e5274d611b3e8d9e5ee05a4c14fccc5c21938d4ad67c04829",
+      "pdfFileName": "2022年実施_岐阜県_中3理科_運動とエネルギー（斜面の運動・仕事・仕事率・摩擦・力学的エネルギー）.pdf",
+      "fileSize": 14004122
+    },
+    {
+      "id": "g3-2022-gunma-chemistry-6d6536c",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "群馬県",
+      "field": "化学",
+      "unit": "イオンと電池（ダニエル電池・電子の移動・イオン化傾向・マイクロスケール実験）",
+      "shortUnit": "イオンと電池",
+      "tags": [
+        "ダニエル電池",
+        "電子の移動",
+        "イオン化傾向",
+        "マイクロスケール実験"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2022-gunma-chemistry-6d6536c/page-01.jpg?v=437ee802b454bba6eb76e916ce0ad847dd3c3796ed96d61c568db0eeebbfbcf6",
+        "/previews/g3-2022-gunma-chemistry-6d6536c/page-02.jpg?v=437ee802b454bba6eb76e916ce0ad847dd3c3796ed96d61c568db0eeebbfbcf6",
+        "/previews/g3-2022-gunma-chemistry-6d6536c/page-03.jpg?v=437ee802b454bba6eb76e916ce0ad847dd3c3796ed96d61c568db0eeebbfbcf6",
+        "/previews/g3-2022-gunma-chemistry-6d6536c/page-04.jpg?v=437ee802b454bba6eb76e916ce0ad847dd3c3796ed96d61c568db0eeebbfbcf6",
+        "/previews/g3-2022-gunma-chemistry-6d6536c/page-05.jpg?v=437ee802b454bba6eb76e916ce0ad847dd3c3796ed96d61c568db0eeebbfbcf6"
+      ],
+      "contentVersion": "437ee802b454bba6eb76e916ce0ad847dd3c3796ed96d61c568db0eeebbfbcf6",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-gunma-chemistry-6d6536c.pdf?rev=437ee802b454bba6eb76e916ce0ad847dd3c3796ed96d61c568db0eeebbfbcf6",
+      "pdfFileName": "2022年実施_群馬県_中3理科_イオンと電池（ダニエル電池・電子の移動・イオン化傾向・マイクロスケール実験）.pdf",
+      "fileSize": 14914222
+    },
+    {
+      "id": "g3-2022-gunma-physics-a6593f9",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "群馬県",
+      "field": "物理",
+      "unit": "運動とエネルギー（記録タイマー・速さ・斜面の運動・力学的エネルギー）",
+      "shortUnit": "運動とエネルギー",
+      "tags": [
+        "記録タイマー",
+        "速さ",
+        "斜面の運動",
+        "力学的エネルギー"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2022-gunma-physics-a6593f9/page-01.jpg?v=d12cf432285f4aba9f4c44b8839ea5c97feac47959ee60c02941ef8e75cd3511",
+        "/previews/g3-2022-gunma-physics-a6593f9/page-02.jpg?v=d12cf432285f4aba9f4c44b8839ea5c97feac47959ee60c02941ef8e75cd3511",
+        "/previews/g3-2022-gunma-physics-a6593f9/page-03.jpg?v=d12cf432285f4aba9f4c44b8839ea5c97feac47959ee60c02941ef8e75cd3511",
+        "/previews/g3-2022-gunma-physics-a6593f9/page-04.jpg?v=d12cf432285f4aba9f4c44b8839ea5c97feac47959ee60c02941ef8e75cd3511",
+        "/previews/g3-2022-gunma-physics-a6593f9/page-05.jpg?v=d12cf432285f4aba9f4c44b8839ea5c97feac47959ee60c02941ef8e75cd3511"
+      ],
+      "contentVersion": "d12cf432285f4aba9f4c44b8839ea5c97feac47959ee60c02941ef8e75cd3511",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-gunma-physics-a6593f9.pdf?rev=d12cf432285f4aba9f4c44b8839ea5c97feac47959ee60c02941ef8e75cd3511",
+      "pdfFileName": "2022年実施_群馬県_中3理科_運動とエネルギー（記録タイマー・速さ・斜面の運動・力学的エネルギー）.pdf",
+      "fileSize": 13370540
+    },
+    {
+      "id": "g3-2022-hokkaido-chemistry-0cc5f5f",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "北海道",
+      "field": "化学",
+      "unit": "水溶液とイオン（塩酸と塩化銅の電気分解・イオンの移動・塩素・酸性）",
+      "shortUnit": "水溶液とイオン",
+      "tags": [
+        "塩酸と塩化銅の電気分解",
+        "イオンの移動",
+        "塩素",
+        "酸性"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2022-hokkaido-chemistry-0cc5f5f/page-01.jpg?v=8993c6e39f6c4879425f980aab1cfd62b92bf85e9ecd2de387927151abeef7ce",
+        "/previews/g3-2022-hokkaido-chemistry-0cc5f5f/page-02.jpg?v=8993c6e39f6c4879425f980aab1cfd62b92bf85e9ecd2de387927151abeef7ce",
+        "/previews/g3-2022-hokkaido-chemistry-0cc5f5f/page-03.jpg?v=8993c6e39f6c4879425f980aab1cfd62b92bf85e9ecd2de387927151abeef7ce",
+        "/previews/g3-2022-hokkaido-chemistry-0cc5f5f/page-04.jpg?v=8993c6e39f6c4879425f980aab1cfd62b92bf85e9ecd2de387927151abeef7ce",
+        "/previews/g3-2022-hokkaido-chemistry-0cc5f5f/page-05.jpg?v=8993c6e39f6c4879425f980aab1cfd62b92bf85e9ecd2de387927151abeef7ce"
+      ],
+      "contentVersion": "8993c6e39f6c4879425f980aab1cfd62b92bf85e9ecd2de387927151abeef7ce",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-hokkaido-chemistry-0cc5f5f.pdf?rev=8993c6e39f6c4879425f980aab1cfd62b92bf85e9ecd2de387927151abeef7ce",
+      "pdfFileName": "2022年実施_北海道_中3理科_水溶液とイオン（塩酸と塩化銅の電気分解・イオンの移動・塩素・酸性）.pdf",
+      "fileSize": 17069463
+    },
+    {
+      "id": "g3-2022-ibaraki-biology-e5a7e6d",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "茨城県",
+      "field": "生物",
+      "unit": "生態系（食物連鎖・生物の数量関係・生産者と分解者・炭素の循環）",
+      "shortUnit": "生態系",
+      "tags": [
+        "食物連鎖",
+        "生物の数量関係",
+        "生産者と分解者",
+        "炭素の循環"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2022-ibaraki-biology-e5a7e6d/page-01.jpg?v=98980f67472c4a4c87d20a0f9464c0f5c173d14944cd8b618812a8213bd70980",
+        "/previews/g3-2022-ibaraki-biology-e5a7e6d/page-02.jpg?v=98980f67472c4a4c87d20a0f9464c0f5c173d14944cd8b618812a8213bd70980",
+        "/previews/g3-2022-ibaraki-biology-e5a7e6d/page-03.jpg?v=98980f67472c4a4c87d20a0f9464c0f5c173d14944cd8b618812a8213bd70980",
+        "/previews/g3-2022-ibaraki-biology-e5a7e6d/page-04.jpg?v=98980f67472c4a4c87d20a0f9464c0f5c173d14944cd8b618812a8213bd70980",
+        "/previews/g3-2022-ibaraki-biology-e5a7e6d/page-05.jpg?v=98980f67472c4a4c87d20a0f9464c0f5c173d14944cd8b618812a8213bd70980"
+      ],
+      "contentVersion": "98980f67472c4a4c87d20a0f9464c0f5c173d14944cd8b618812a8213bd70980",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-ibaraki-biology-e5a7e6d.pdf?rev=98980f67472c4a4c87d20a0f9464c0f5c173d14944cd8b618812a8213bd70980",
+      "pdfFileName": "2022年実施_茨城県_中3理科_生態系（食物連鎖・生物の数量関係・生産者と分解者・炭素の循環）.pdf",
+      "fileSize": 11009065
+    },
+    {
+      "id": "g3-2022-iwate-physics-f2680fb",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "岩手県",
+      "field": "物理",
+      "unit": "仕事とエネルギー（動滑車・仕事の原理・仕事率・速さ・自転車の変速機）",
+      "shortUnit": "仕事とエネルギー",
+      "tags": [
+        "動滑車",
+        "仕事の原理",
+        "仕事率",
+        "速さ",
+        "自転車の変速機"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2022-iwate-physics-f2680fb/page-01.jpg?v=7cbc447125f9b6f5825d149cc151a02185b7168cae7a48782286617a4c815259",
+        "/previews/g3-2022-iwate-physics-f2680fb/page-02.jpg?v=7cbc447125f9b6f5825d149cc151a02185b7168cae7a48782286617a4c815259",
+        "/previews/g3-2022-iwate-physics-f2680fb/page-03.jpg?v=7cbc447125f9b6f5825d149cc151a02185b7168cae7a48782286617a4c815259",
+        "/previews/g3-2022-iwate-physics-f2680fb/page-04.jpg?v=7cbc447125f9b6f5825d149cc151a02185b7168cae7a48782286617a4c815259",
+        "/previews/g3-2022-iwate-physics-f2680fb/page-05.jpg?v=7cbc447125f9b6f5825d149cc151a02185b7168cae7a48782286617a4c815259"
+      ],
+      "contentVersion": "7cbc447125f9b6f5825d149cc151a02185b7168cae7a48782286617a4c815259",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-iwate-physics-f2680fb.pdf?rev=7cbc447125f9b6f5825d149cc151a02185b7168cae7a48782286617a4c815259",
+      "pdfFileName": "2022年実施_岩手県_中3理科_仕事とエネルギー（動滑車・仕事の原理・仕事率・速さ・自転車の変速機）.pdf",
+      "fileSize": 13643120
+    },
+    {
+      "id": "g3-2022-mie-earth-a146722",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "三重県",
+      "field": "地学",
+      "unit": "金星の動きと見え方（惑星・公転・明けの明星・満ち欠け・見かけの大きさ）",
+      "shortUnit": "金星の動きと見え方",
+      "tags": [
+        "惑星",
+        "公転",
+        "明けの明星",
+        "満ち欠け",
+        "見かけの大きさ"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-mie-earth-a146722/page-01.jpg?v=d07381e1feb8c6d20709c5038664347478987341793010b87d27d5cd21b46185",
+        "/previews/g3-2022-mie-earth-a146722/page-02.jpg?v=d07381e1feb8c6d20709c5038664347478987341793010b87d27d5cd21b46185",
+        "/previews/g3-2022-mie-earth-a146722/page-03.jpg?v=d07381e1feb8c6d20709c5038664347478987341793010b87d27d5cd21b46185",
+        "/previews/g3-2022-mie-earth-a146722/page-04.jpg?v=d07381e1feb8c6d20709c5038664347478987341793010b87d27d5cd21b46185"
+      ],
+      "contentVersion": "d07381e1feb8c6d20709c5038664347478987341793010b87d27d5cd21b46185",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-mie-earth-a146722.pdf?rev=d07381e1feb8c6d20709c5038664347478987341793010b87d27d5cd21b46185",
+      "pdfFileName": "2022年実施_三重県_中3理科_金星の動きと見え方（惑星・公転・明けの明星・満ち欠け・見かけの大きさ）.pdf",
+      "fileSize": 7772860
+    },
+    {
+      "id": "g3-2022-mie-biology-6f85264",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "三重県",
+      "field": "生物",
+      "unit": "遺伝の規則性（メダカの体色・顕性形質・生殖細胞・遺伝子の組み合わせ）",
+      "shortUnit": "遺伝の規則性",
+      "tags": [
+        "メダカの体色",
+        "顕性形質",
+        "生殖細胞",
+        "遺伝子の組み合わせ"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-mie-biology-6f85264/page-01.jpg?v=a2d6b7625d36d88f53295c7d44838a06098732dae478eb25a29a6d481ce49717",
+        "/previews/g3-2022-mie-biology-6f85264/page-02.jpg?v=a2d6b7625d36d88f53295c7d44838a06098732dae478eb25a29a6d481ce49717",
+        "/previews/g3-2022-mie-biology-6f85264/page-03.jpg?v=a2d6b7625d36d88f53295c7d44838a06098732dae478eb25a29a6d481ce49717",
+        "/previews/g3-2022-mie-biology-6f85264/page-04.jpg?v=a2d6b7625d36d88f53295c7d44838a06098732dae478eb25a29a6d481ce49717"
+      ],
+      "contentVersion": "a2d6b7625d36d88f53295c7d44838a06098732dae478eb25a29a6d481ce49717",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-mie-biology-6f85264.pdf?rev=a2d6b7625d36d88f53295c7d44838a06098732dae478eb25a29a6d481ce49717",
+      "pdfFileName": "2022年実施_三重県_中3理科_遺伝の規則性（メダカの体色・顕性形質・生殖細胞・遺伝子の組み合わせ）.pdf",
+      "fileSize": 9256356
+    },
+    {
+      "id": "g3-2022-mie-chemistry-99ac6b2",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "三重県",
+      "field": "化学",
+      "unit": "イオンと電池（イオン化傾向・ダニエル電池・電子の移動・素焼きの容器）",
+      "shortUnit": "イオンと電池",
+      "tags": [
+        "イオン化傾向",
+        "ダニエル電池",
+        "電子の移動",
+        "素焼きの容器"
+      ],
+      "pageCount": 6,
+      "previewPages": [
+        "/previews/g3-2022-mie-chemistry-99ac6b2/page-01.jpg?v=ef5e34ebd8622eb381c2f41f940783ca7d2454605554550716aa70f3325d8352",
+        "/previews/g3-2022-mie-chemistry-99ac6b2/page-02.jpg?v=ef5e34ebd8622eb381c2f41f940783ca7d2454605554550716aa70f3325d8352",
+        "/previews/g3-2022-mie-chemistry-99ac6b2/page-03.jpg?v=ef5e34ebd8622eb381c2f41f940783ca7d2454605554550716aa70f3325d8352",
+        "/previews/g3-2022-mie-chemistry-99ac6b2/page-04.jpg?v=ef5e34ebd8622eb381c2f41f940783ca7d2454605554550716aa70f3325d8352",
+        "/previews/g3-2022-mie-chemistry-99ac6b2/page-05.jpg?v=ef5e34ebd8622eb381c2f41f940783ca7d2454605554550716aa70f3325d8352",
+        "/previews/g3-2022-mie-chemistry-99ac6b2/page-06.jpg?v=ef5e34ebd8622eb381c2f41f940783ca7d2454605554550716aa70f3325d8352"
+      ],
+      "contentVersion": "ef5e34ebd8622eb381c2f41f940783ca7d2454605554550716aa70f3325d8352",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-mie-chemistry-99ac6b2.pdf?rev=ef5e34ebd8622eb381c2f41f940783ca7d2454605554550716aa70f3325d8352",
+      "pdfFileName": "2022年実施_三重県_中3理科_イオンと電池（イオン化傾向・ダニエル電池・電子の移動・素焼きの容器）.pdf",
+      "fileSize": 23410643
+    },
+    {
+      "id": "g3-2022-okinawa-chemistry-0e1c727",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "沖縄県",
+      "field": "化学",
+      "unit": "酸とアルカリ（中和・イオン・化学反応式・pH・粒子のモデル）",
+      "shortUnit": "酸とアルカリ",
+      "tags": [
+        "中和",
+        "イオン",
+        "化学反応式",
+        "pH",
+        "粒子のモデル"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2022-okinawa-chemistry-0e1c727/page-01.jpg?v=02a699d4c772ac967d821b7b9314dfc5a29fd5b7061ba628163eb93c31a2942f",
+        "/previews/g3-2022-okinawa-chemistry-0e1c727/page-02.jpg?v=02a699d4c772ac967d821b7b9314dfc5a29fd5b7061ba628163eb93c31a2942f",
+        "/previews/g3-2022-okinawa-chemistry-0e1c727/page-03.jpg?v=02a699d4c772ac967d821b7b9314dfc5a29fd5b7061ba628163eb93c31a2942f",
+        "/previews/g3-2022-okinawa-chemistry-0e1c727/page-04.jpg?v=02a699d4c772ac967d821b7b9314dfc5a29fd5b7061ba628163eb93c31a2942f",
+        "/previews/g3-2022-okinawa-chemistry-0e1c727/page-05.jpg?v=02a699d4c772ac967d821b7b9314dfc5a29fd5b7061ba628163eb93c31a2942f"
+      ],
+      "contentVersion": "02a699d4c772ac967d821b7b9314dfc5a29fd5b7061ba628163eb93c31a2942f",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-okinawa-chemistry-0e1c727.pdf?rev=02a699d4c772ac967d821b7b9314dfc5a29fd5b7061ba628163eb93c31a2942f",
+      "pdfFileName": "2022年実施_沖縄県_中3理科_酸とアルカリ（中和・イオン・化学反応式・pH・粒子のモデル）.pdf",
+      "fileSize": 15850099
+    },
+    {
+      "id": "g3-2022-okinawa-physics-fd2c46e",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "沖縄県",
+      "field": "物理",
+      "unit": "仕事とエネルギー（仕事の原理・自由落下・斜面の運動・力学的エネルギー）",
+      "shortUnit": "仕事とエネルギー",
+      "tags": [
+        "仕事の原理",
+        "自由落下",
+        "斜面の運動",
+        "力学的エネルギー"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-okinawa-physics-fd2c46e/page-01.jpg?v=48a58554d7ccb4ef989c062148517ca0355ccc3d2d246fea743719d97d6839b9",
+        "/previews/g3-2022-okinawa-physics-fd2c46e/page-02.jpg?v=48a58554d7ccb4ef989c062148517ca0355ccc3d2d246fea743719d97d6839b9",
+        "/previews/g3-2022-okinawa-physics-fd2c46e/page-03.jpg?v=48a58554d7ccb4ef989c062148517ca0355ccc3d2d246fea743719d97d6839b9",
+        "/previews/g3-2022-okinawa-physics-fd2c46e/page-04.jpg?v=48a58554d7ccb4ef989c062148517ca0355ccc3d2d246fea743719d97d6839b9"
+      ],
+      "contentVersion": "48a58554d7ccb4ef989c062148517ca0355ccc3d2d246fea743719d97d6839b9",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-okinawa-physics-fd2c46e.pdf?rev=48a58554d7ccb4ef989c062148517ca0355ccc3d2d246fea743719d97d6839b9",
+      "pdfFileName": "2022年実施_沖縄県_中3理科_仕事とエネルギー（仕事の原理・自由落下・斜面の運動・力学的エネルギー）.pdf",
+      "fileSize": 11450550
+    },
+    {
+      "id": "g3-2022-okinawa-earth-ac620d9",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "沖縄県",
+      "field": "地学",
+      "unit": "天体の動き（星の年周運動・月の満ち欠け・金星の見え方と公転）",
+      "shortUnit": "天体の動き",
+      "tags": [
+        "星の年周運動",
+        "月の満ち欠け",
+        "金星の見え方と公転"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2022-okinawa-earth-ac620d9/page-01.jpg?v=092d2d3a329896c12b000f2672e2a142679e5c7b8ba2cb5f0b168bf26f501663",
+        "/previews/g3-2022-okinawa-earth-ac620d9/page-02.jpg?v=092d2d3a329896c12b000f2672e2a142679e5c7b8ba2cb5f0b168bf26f501663",
+        "/previews/g3-2022-okinawa-earth-ac620d9/page-03.jpg?v=092d2d3a329896c12b000f2672e2a142679e5c7b8ba2cb5f0b168bf26f501663",
+        "/previews/g3-2022-okinawa-earth-ac620d9/page-04.jpg?v=092d2d3a329896c12b000f2672e2a142679e5c7b8ba2cb5f0b168bf26f501663",
+        "/previews/g3-2022-okinawa-earth-ac620d9/page-05.jpg?v=092d2d3a329896c12b000f2672e2a142679e5c7b8ba2cb5f0b168bf26f501663"
+      ],
+      "contentVersion": "092d2d3a329896c12b000f2672e2a142679e5c7b8ba2cb5f0b168bf26f501663",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-okinawa-earth-ac620d9.pdf?rev=092d2d3a329896c12b000f2672e2a142679e5c7b8ba2cb5f0b168bf26f501663",
+      "pdfFileName": "2022年実施_沖縄県_中3理科_天体の動き（星の年周運動・月の満ち欠け・金星の見え方と公転）.pdf",
+      "fileSize": 13986056
+    },
+    {
+      "id": "g3-2022-shimane-chemistry-7ee6a1c",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "島根県",
+      "field": "化学",
+      "unit": "酸とアルカリ・電気分解（中和・電離・イオン・電流と金属の質量）",
+      "shortUnit": "酸とアルカリ・電気分解",
+      "tags": [
+        "中和",
+        "電離",
+        "イオン",
+        "電流と金属の質量"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2022-shimane-chemistry-7ee6a1c/page-01.jpg?v=eb8ca56b627569ee6430f29e269cf18373eb6186853a9fc1e6fa47e61bf2ce21",
+        "/previews/g3-2022-shimane-chemistry-7ee6a1c/page-02.jpg?v=eb8ca56b627569ee6430f29e269cf18373eb6186853a9fc1e6fa47e61bf2ce21",
+        "/previews/g3-2022-shimane-chemistry-7ee6a1c/page-03.jpg?v=eb8ca56b627569ee6430f29e269cf18373eb6186853a9fc1e6fa47e61bf2ce21",
+        "/previews/g3-2022-shimane-chemistry-7ee6a1c/page-04.jpg?v=eb8ca56b627569ee6430f29e269cf18373eb6186853a9fc1e6fa47e61bf2ce21",
+        "/previews/g3-2022-shimane-chemistry-7ee6a1c/page-05.jpg?v=eb8ca56b627569ee6430f29e269cf18373eb6186853a9fc1e6fa47e61bf2ce21"
+      ],
+      "contentVersion": "eb8ca56b627569ee6430f29e269cf18373eb6186853a9fc1e6fa47e61bf2ce21",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-shimane-chemistry-7ee6a1c.pdf?rev=eb8ca56b627569ee6430f29e269cf18373eb6186853a9fc1e6fa47e61bf2ce21",
+      "pdfFileName": "2022年実施_島根県_中3理科_酸とアルカリ・電気分解（中和・電離・イオン・電流と金属の質量）.pdf",
+      "fileSize": 18738482
+    },
+    {
+      "id": "g3-2022-shizuoka-earth-fff9e26",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "静岡県",
+      "field": "地学",
+      "unit": "地球と宇宙（月の公転・月食・星の年周運動・金星の見え方）",
+      "shortUnit": "地球と宇宙",
+      "tags": [
+        "月の公転",
+        "月食",
+        "星の年周運動",
+        "金星の見え方"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-shizuoka-earth-fff9e26/page-01.jpg?v=8e641140ffe2cde88201c8198511a6c005c2414df7e94a0ede1b98518695bdc9",
+        "/previews/g3-2022-shizuoka-earth-fff9e26/page-02.jpg?v=8e641140ffe2cde88201c8198511a6c005c2414df7e94a0ede1b98518695bdc9",
+        "/previews/g3-2022-shizuoka-earth-fff9e26/page-03.jpg?v=8e641140ffe2cde88201c8198511a6c005c2414df7e94a0ede1b98518695bdc9",
+        "/previews/g3-2022-shizuoka-earth-fff9e26/page-04.jpg?v=8e641140ffe2cde88201c8198511a6c005c2414df7e94a0ede1b98518695bdc9"
+      ],
+      "contentVersion": "8e641140ffe2cde88201c8198511a6c005c2414df7e94a0ede1b98518695bdc9",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-shizuoka-earth-fff9e26.pdf?rev=8e641140ffe2cde88201c8198511a6c005c2414df7e94a0ede1b98518695bdc9",
+      "pdfFileName": "2022年実施_静岡県_中3理科_地球と宇宙（月の公転・月食・星の年周運動・金星の見え方）.pdf",
+      "fileSize": 9340890
+    },
+    {
+      "id": "g3-2022-tochigi-chemistry-3d2bdfd",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "栃木県",
+      "field": "化学",
+      "unit": "中和（酸性・塩・イオン式・イオンの数の変化）",
+      "shortUnit": "中和",
+      "tags": [
+        "酸性",
+        "塩",
+        "イオン式",
+        "イオンの数の変化"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-tochigi-chemistry-3d2bdfd/page-01.jpg?v=a60247fd77704a8eab19f33da87e2ac0158d95aac2609f2c5edc4a60a91ebe3a",
+        "/previews/g3-2022-tochigi-chemistry-3d2bdfd/page-02.jpg?v=a60247fd77704a8eab19f33da87e2ac0158d95aac2609f2c5edc4a60a91ebe3a",
+        "/previews/g3-2022-tochigi-chemistry-3d2bdfd/page-03.jpg?v=a60247fd77704a8eab19f33da87e2ac0158d95aac2609f2c5edc4a60a91ebe3a",
+        "/previews/g3-2022-tochigi-chemistry-3d2bdfd/page-04.jpg?v=a60247fd77704a8eab19f33da87e2ac0158d95aac2609f2c5edc4a60a91ebe3a"
+      ],
+      "contentVersion": "a60247fd77704a8eab19f33da87e2ac0158d95aac2609f2c5edc4a60a91ebe3a",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-tochigi-chemistry-3d2bdfd.pdf?rev=a60247fd77704a8eab19f33da87e2ac0158d95aac2609f2c5edc4a60a91ebe3a",
+      "pdfFileName": "2022年実施_栃木県_中3理科_中和（酸性・塩・イオン式・イオンの数の変化）.pdf",
+      "fileSize": 9987988
+    },
+    {
+      "id": "g3-2022-tochigi-earth-8da6c1c",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "栃木県",
+      "field": "地学",
+      "unit": "太陽の動き（地球の自転・日周運動・南中高度・季節による変化）",
+      "shortUnit": "太陽の動き",
+      "tags": [
+        "地球の自転",
+        "日周運動",
+        "南中高度",
+        "季節による変化"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-tochigi-earth-8da6c1c/page-01.jpg?v=84c68531fb1892aa5b08e3f9a9645eefc8d2d2fd8d91cf25e6939e4cda01086a",
+        "/previews/g3-2022-tochigi-earth-8da6c1c/page-02.jpg?v=84c68531fb1892aa5b08e3f9a9645eefc8d2d2fd8d91cf25e6939e4cda01086a",
+        "/previews/g3-2022-tochigi-earth-8da6c1c/page-03.jpg?v=84c68531fb1892aa5b08e3f9a9645eefc8d2d2fd8d91cf25e6939e4cda01086a",
+        "/previews/g3-2022-tochigi-earth-8da6c1c/page-04.jpg?v=84c68531fb1892aa5b08e3f9a9645eefc8d2d2fd8d91cf25e6939e4cda01086a"
+      ],
+      "contentVersion": "84c68531fb1892aa5b08e3f9a9645eefc8d2d2fd8d91cf25e6939e4cda01086a",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-tochigi-earth-8da6c1c.pdf?rev=84c68531fb1892aa5b08e3f9a9645eefc8d2d2fd8d91cf25e6939e4cda01086a",
+      "pdfFileName": "2022年実施_栃木県_中3理科_太陽の動き（地球の自転・日周運動・南中高度・季節による変化）.pdf",
+      "fileSize": 11255657
+    },
+    {
+      "id": "g3-2022-tochigi-physics-ba16f07",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "栃木県",
+      "field": "物理",
+      "unit": "物体の運動（平均の速さ・等速直線運動・速さと時間の関係・斜面の運動）",
+      "shortUnit": "物体の運動",
+      "tags": [
+        "平均の速さ",
+        "等速直線運動",
+        "速さと時間の関係",
+        "斜面の運動"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-tochigi-physics-ba16f07/page-01.jpg?v=32b7f92f15705f7520c2065654cd63564257006d98851dae559463f648d94aeb",
+        "/previews/g3-2022-tochigi-physics-ba16f07/page-02.jpg?v=32b7f92f15705f7520c2065654cd63564257006d98851dae559463f648d94aeb",
+        "/previews/g3-2022-tochigi-physics-ba16f07/page-03.jpg?v=32b7f92f15705f7520c2065654cd63564257006d98851dae559463f648d94aeb",
+        "/previews/g3-2022-tochigi-physics-ba16f07/page-04.jpg?v=32b7f92f15705f7520c2065654cd63564257006d98851dae559463f648d94aeb"
+      ],
+      "contentVersion": "32b7f92f15705f7520c2065654cd63564257006d98851dae559463f648d94aeb",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-tochigi-physics-ba16f07.pdf?rev=32b7f92f15705f7520c2065654cd63564257006d98851dae559463f648d94aeb",
+      "pdfFileName": "2022年実施_栃木県_中3理科_物体の運動（平均の速さ・等速直線運動・速さと時間の関係・斜面の運動）.pdf",
+      "fileSize": 10294758
+    },
+    {
+      "id": "g3-2022-tokushima-chemistry-334485c",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "徳島県",
+      "field": "化学",
+      "unit": "電気分解（電解質・非電解質・化学式・イオン・水溶液の濃度）",
+      "shortUnit": "電気分解",
+      "tags": [
+        "電解質",
+        "非電解質",
+        "化学式",
+        "イオン",
+        "水溶液の濃度"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-tokushima-chemistry-334485c/page-01.jpg?v=c086105baa682b7b58cd826a74e5eb25b652e6bddf0b5f338be7727714c833ac",
+        "/previews/g3-2022-tokushima-chemistry-334485c/page-02.jpg?v=c086105baa682b7b58cd826a74e5eb25b652e6bddf0b5f338be7727714c833ac",
+        "/previews/g3-2022-tokushima-chemistry-334485c/page-03.jpg?v=c086105baa682b7b58cd826a74e5eb25b652e6bddf0b5f338be7727714c833ac",
+        "/previews/g3-2022-tokushima-chemistry-334485c/page-04.jpg?v=c086105baa682b7b58cd826a74e5eb25b652e6bddf0b5f338be7727714c833ac"
+      ],
+      "contentVersion": "c086105baa682b7b58cd826a74e5eb25b652e6bddf0b5f338be7727714c833ac",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-tokushima-chemistry-334485c.pdf?rev=c086105baa682b7b58cd826a74e5eb25b652e6bddf0b5f338be7727714c833ac",
+      "pdfFileName": "2022年実施_徳島県_中3理科_電気分解（電解質・非電解質・化学式・イオン・水溶液の濃度）.pdf",
+      "fileSize": 10542173
+    },
+    {
+      "id": "g3-2022-tokyo-biology-b487655",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "東京都",
+      "field": "生物",
+      "unit": "遺伝と生殖（メンデルの実験・減数分裂・受精・遺伝子の組合せ）",
+      "shortUnit": "遺伝と生殖",
+      "tags": [
+        "メンデルの実験",
+        "減数分裂",
+        "受精",
+        "遺伝子の組合せ"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2022-tokyo-biology-b487655/page-01.jpg?v=fe5a622a57382f6f446a9cd70ce60e1043f2ec4c0d336f0350ca73524bc51d41",
+        "/previews/g3-2022-tokyo-biology-b487655/page-02.jpg?v=fe5a622a57382f6f446a9cd70ce60e1043f2ec4c0d336f0350ca73524bc51d41",
+        "/previews/g3-2022-tokyo-biology-b487655/page-03.jpg?v=fe5a622a57382f6f446a9cd70ce60e1043f2ec4c0d336f0350ca73524bc51d41",
+        "/previews/g3-2022-tokyo-biology-b487655/page-04.jpg?v=fe5a622a57382f6f446a9cd70ce60e1043f2ec4c0d336f0350ca73524bc51d41",
+        "/previews/g3-2022-tokyo-biology-b487655/page-05.jpg?v=fe5a622a57382f6f446a9cd70ce60e1043f2ec4c0d336f0350ca73524bc51d41"
+      ],
+      "contentVersion": "fe5a622a57382f6f446a9cd70ce60e1043f2ec4c0d336f0350ca73524bc51d41",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-tokyo-biology-b487655.pdf?rev=fe5a622a57382f6f446a9cd70ce60e1043f2ec4c0d336f0350ca73524bc51d41",
+      "pdfFileName": "2022年実施_東京都_中3理科_遺伝と生殖（メンデルの実験・減数分裂・受精・遺伝子の組合せ）.pdf",
+      "fileSize": 17782586
+    },
+    {
+      "id": "g3-2022-tokyo-chemistry-15fec8a",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "東京都",
+      "field": "化学",
+      "unit": "化学変化と電池・水溶液とイオン（ダニエル電池・電気分解・中和・イオンの数）",
+      "shortUnit": "化学変化と電池・水溶液とイオン",
+      "tags": [
+        "ダニエル電池",
+        "電気分解",
+        "中和",
+        "イオンの数"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2022-tokyo-chemistry-15fec8a/page-01.jpg?v=be9b0a7fe0f767698c7c8733dee9e2e374e0491779041bd15c8c91ab79d1e0b7",
+        "/previews/g3-2022-tokyo-chemistry-15fec8a/page-02.jpg?v=be9b0a7fe0f767698c7c8733dee9e2e374e0491779041bd15c8c91ab79d1e0b7",
+        "/previews/g3-2022-tokyo-chemistry-15fec8a/page-03.jpg?v=be9b0a7fe0f767698c7c8733dee9e2e374e0491779041bd15c8c91ab79d1e0b7",
+        "/previews/g3-2022-tokyo-chemistry-15fec8a/page-04.jpg?v=be9b0a7fe0f767698c7c8733dee9e2e374e0491779041bd15c8c91ab79d1e0b7",
+        "/previews/g3-2022-tokyo-chemistry-15fec8a/page-05.jpg?v=be9b0a7fe0f767698c7c8733dee9e2e374e0491779041bd15c8c91ab79d1e0b7"
+      ],
+      "contentVersion": "be9b0a7fe0f767698c7c8733dee9e2e374e0491779041bd15c8c91ab79d1e0b7",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-tokyo-chemistry-15fec8a.pdf?rev=be9b0a7fe0f767698c7c8733dee9e2e374e0491779041bd15c8c91ab79d1e0b7",
+      "pdfFileName": "2022年実施_東京都_中3理科_化学変化と電池・水溶液とイオン（ダニエル電池・電気分解・中和・イオンの数）.pdf",
+      "fileSize": 18101162
+    },
+    {
+      "id": "g3-2022-tokyo-physics-2b5ae75",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "東京都",
+      "field": "物理",
+      "unit": "力と物体の運動（平均の速さ・斜面の運動・重力の分力・力学的エネルギーの保存）",
+      "shortUnit": "力と物体の運動",
+      "tags": [
+        "平均の速さ",
+        "斜面の運動",
+        "重力の分力",
+        "力学的エネルギーの保存"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2022-tokyo-physics-2b5ae75/page-01.jpg?v=e76415c6c5215fb01ec01c63d17a11cfd0db5718e51b51f444ae7d3933674f88",
+        "/previews/g3-2022-tokyo-physics-2b5ae75/page-02.jpg?v=e76415c6c5215fb01ec01c63d17a11cfd0db5718e51b51f444ae7d3933674f88",
+        "/previews/g3-2022-tokyo-physics-2b5ae75/page-03.jpg?v=e76415c6c5215fb01ec01c63d17a11cfd0db5718e51b51f444ae7d3933674f88",
+        "/previews/g3-2022-tokyo-physics-2b5ae75/page-04.jpg?v=e76415c6c5215fb01ec01c63d17a11cfd0db5718e51b51f444ae7d3933674f88",
+        "/previews/g3-2022-tokyo-physics-2b5ae75/page-05.jpg?v=e76415c6c5215fb01ec01c63d17a11cfd0db5718e51b51f444ae7d3933674f88"
+      ],
+      "contentVersion": "e76415c6c5215fb01ec01c63d17a11cfd0db5718e51b51f444ae7d3933674f88",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-tokyo-physics-2b5ae75.pdf?rev=e76415c6c5215fb01ec01c63d17a11cfd0db5718e51b51f444ae7d3933674f88",
+      "pdfFileName": "2022年実施_東京都_中3理科_力と物体の運動（平均の速さ・斜面の運動・重力の分力・力学的エネルギーの保存）.pdf",
+      "fileSize": 16560759
+    },
+    {
+      "id": "g3-2022-toyama-chemistry-bcbbf2f",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "富山県",
+      "field": "化学",
+      "unit": "水溶液とイオン（電気分解・電離・イオン式・金属のイオンへのなりやすさ）",
+      "shortUnit": "水溶液とイオン",
+      "tags": [
+        "電気分解",
+        "電離",
+        "イオン式",
+        "金属のイオンへのなりやすさ"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-toyama-chemistry-bcbbf2f/page-01.jpg?v=4419271166093f729c81314404d2460feb9f19cd6b38e0a0e5223694788531fe",
+        "/previews/g3-2022-toyama-chemistry-bcbbf2f/page-02.jpg?v=4419271166093f729c81314404d2460feb9f19cd6b38e0a0e5223694788531fe",
+        "/previews/g3-2022-toyama-chemistry-bcbbf2f/page-03.jpg?v=4419271166093f729c81314404d2460feb9f19cd6b38e0a0e5223694788531fe",
+        "/previews/g3-2022-toyama-chemistry-bcbbf2f/page-04.jpg?v=4419271166093f729c81314404d2460feb9f19cd6b38e0a0e5223694788531fe"
+      ],
+      "contentVersion": "4419271166093f729c81314404d2460feb9f19cd6b38e0a0e5223694788531fe",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-toyama-chemistry-bcbbf2f.pdf?rev=4419271166093f729c81314404d2460feb9f19cd6b38e0a0e5223694788531fe",
+      "pdfFileName": "2022年実施_富山県_中3理科_水溶液とイオン（電気分解・電離・イオン式・金属のイオンへのなりやすさ）.pdf",
+      "fileSize": 12909052
+    },
+    {
+      "id": "g3-2022-toyama-biology-c2b1804",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "富山県",
+      "field": "生物",
+      "unit": "遺伝の規則性と遺伝子（メンデルの交配実験・減数分裂・分離の法則・受精）",
+      "shortUnit": "遺伝の規則性と遺伝子",
+      "tags": [
+        "メンデルの交配実験",
+        "減数分裂",
+        "分離の法則",
+        "受精"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-toyama-biology-c2b1804/page-01.jpg?v=f712807dfefbba2f902ccc5164733686a30bf3d56d3a84223c48b794279598f6",
+        "/previews/g3-2022-toyama-biology-c2b1804/page-02.jpg?v=f712807dfefbba2f902ccc5164733686a30bf3d56d3a84223c48b794279598f6",
+        "/previews/g3-2022-toyama-biology-c2b1804/page-03.jpg?v=f712807dfefbba2f902ccc5164733686a30bf3d56d3a84223c48b794279598f6",
+        "/previews/g3-2022-toyama-biology-c2b1804/page-04.jpg?v=f712807dfefbba2f902ccc5164733686a30bf3d56d3a84223c48b794279598f6"
+      ],
+      "contentVersion": "f712807dfefbba2f902ccc5164733686a30bf3d56d3a84223c48b794279598f6",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-toyama-biology-c2b1804.pdf?rev=f712807dfefbba2f902ccc5164733686a30bf3d56d3a84223c48b794279598f6",
+      "pdfFileName": "2022年実施_富山県_中3理科_遺伝の規則性と遺伝子（メンデルの交配実験・減数分裂・分離の法則・受精）.pdf",
+      "fileSize": 12815493
+    },
+    {
+      "id": "g3-2022-toyama-physics-101e4e3",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "富山県",
+      "field": "物理",
+      "unit": "力と物体の運動（斜面上の小球・平均の速さ・慣性・力学的エネルギーの保存）",
+      "shortUnit": "力と物体の運動",
+      "tags": [
+        "斜面上の小球",
+        "平均の速さ",
+        "慣性",
+        "力学的エネルギーの保存"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2022-toyama-physics-101e4e3/page-01.jpg?v=7bb2f1d2d3f4943d3a248589e8060108649e0f5b8ff275a8ee588c08449b25c9",
+        "/previews/g3-2022-toyama-physics-101e4e3/page-02.jpg?v=7bb2f1d2d3f4943d3a248589e8060108649e0f5b8ff275a8ee588c08449b25c9",
+        "/previews/g3-2022-toyama-physics-101e4e3/page-03.jpg?v=7bb2f1d2d3f4943d3a248589e8060108649e0f5b8ff275a8ee588c08449b25c9",
+        "/previews/g3-2022-toyama-physics-101e4e3/page-04.jpg?v=7bb2f1d2d3f4943d3a248589e8060108649e0f5b8ff275a8ee588c08449b25c9",
+        "/previews/g3-2022-toyama-physics-101e4e3/page-05.jpg?v=7bb2f1d2d3f4943d3a248589e8060108649e0f5b8ff275a8ee588c08449b25c9"
+      ],
+      "contentVersion": "7bb2f1d2d3f4943d3a248589e8060108649e0f5b8ff275a8ee588c08449b25c9",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-toyama-physics-101e4e3.pdf?rev=7bb2f1d2d3f4943d3a248589e8060108649e0f5b8ff275a8ee588c08449b25c9",
+      "pdfFileName": "2022年実施_富山県_中3理科_力と物体の運動（斜面上の小球・平均の速さ・慣性・力学的エネルギーの保存）.pdf",
+      "fileSize": 16759315
+    },
+    {
+      "id": "g3-2022-yamagata-biology-3e7f108",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "山形県",
+      "field": "生物",
+      "unit": "生物の成長と生殖（根の成長・体細胞分裂・染色体の複製・観察操作）",
+      "shortUnit": "生物の成長と生殖",
+      "tags": [
+        "根の成長",
+        "体細胞分裂",
+        "染色体の複製",
+        "観察操作"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-yamagata-biology-3e7f108/page-01.jpg?v=ffaee8913c501e603d8b1d1408ff71fa92c52d29d57652470492519ee30cfa5f",
+        "/previews/g3-2022-yamagata-biology-3e7f108/page-02.jpg?v=ffaee8913c501e603d8b1d1408ff71fa92c52d29d57652470492519ee30cfa5f",
+        "/previews/g3-2022-yamagata-biology-3e7f108/page-03.jpg?v=ffaee8913c501e603d8b1d1408ff71fa92c52d29d57652470492519ee30cfa5f",
+        "/previews/g3-2022-yamagata-biology-3e7f108/page-04.jpg?v=ffaee8913c501e603d8b1d1408ff71fa92c52d29d57652470492519ee30cfa5f"
+      ],
+      "contentVersion": "ffaee8913c501e603d8b1d1408ff71fa92c52d29d57652470492519ee30cfa5f",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-yamagata-biology-3e7f108.pdf?rev=ffaee8913c501e603d8b1d1408ff71fa92c52d29d57652470492519ee30cfa5f",
+      "pdfFileName": "2022年実施_山形県_中3理科_生物の成長と生殖（根の成長・体細胞分裂・染色体の複製・観察操作）.pdf",
+      "fileSize": 11030932
+    },
+    {
+      "id": "g3-2022-yamagata-earth-9dd2e0d",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "山形県",
+      "field": "地学",
+      "unit": "太陽系と恒星（金星の動きと見え方・地球の自転と公転・満月の南中高度）",
+      "shortUnit": "太陽系と恒星",
+      "tags": [
+        "金星の動きと見え方",
+        "地球の自転と公転",
+        "満月の南中高度"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-yamagata-earth-9dd2e0d/page-01.jpg?v=8ba6f579e4334d2681d1ad921ae20cb0093be76fe020764692fac399bb8ce8fa",
+        "/previews/g3-2022-yamagata-earth-9dd2e0d/page-02.jpg?v=8ba6f579e4334d2681d1ad921ae20cb0093be76fe020764692fac399bb8ce8fa",
+        "/previews/g3-2022-yamagata-earth-9dd2e0d/page-03.jpg?v=8ba6f579e4334d2681d1ad921ae20cb0093be76fe020764692fac399bb8ce8fa",
+        "/previews/g3-2022-yamagata-earth-9dd2e0d/page-04.jpg?v=8ba6f579e4334d2681d1ad921ae20cb0093be76fe020764692fac399bb8ce8fa"
+      ],
+      "contentVersion": "8ba6f579e4334d2681d1ad921ae20cb0093be76fe020764692fac399bb8ce8fa",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-yamagata-earth-9dd2e0d.pdf?rev=8ba6f579e4334d2681d1ad921ae20cb0093be76fe020764692fac399bb8ce8fa",
+      "pdfFileName": "2022年実施_山形県_中3理科_太陽系と恒星（金星の動きと見え方・地球の自転と公転・満月の南中高度）.pdf",
+      "fileSize": 11553301
+    },
+    {
+      "id": "g3-2022-yamagata-physics-72877e9",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "山形県",
+      "field": "物理",
+      "unit": "力のつり合いと合成・分解（3力のつり合い・合力と分力の作図・角度と力の大きさ）",
+      "shortUnit": "力のつり合いと合成・分解",
+      "tags": [
+        "3力のつり合い",
+        "合力と分力の作図",
+        "角度と力の大きさ"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-yamagata-physics-72877e9/page-01.jpg?v=f45d0b8f2438025a53ca2d70cff8542e88f7eaed60811a7211e6c2021a39134f",
+        "/previews/g3-2022-yamagata-physics-72877e9/page-02.jpg?v=f45d0b8f2438025a53ca2d70cff8542e88f7eaed60811a7211e6c2021a39134f",
+        "/previews/g3-2022-yamagata-physics-72877e9/page-03.jpg?v=f45d0b8f2438025a53ca2d70cff8542e88f7eaed60811a7211e6c2021a39134f",
+        "/previews/g3-2022-yamagata-physics-72877e9/page-04.jpg?v=f45d0b8f2438025a53ca2d70cff8542e88f7eaed60811a7211e6c2021a39134f"
+      ],
+      "contentVersion": "f45d0b8f2438025a53ca2d70cff8542e88f7eaed60811a7211e6c2021a39134f",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-yamagata-physics-72877e9.pdf?rev=f45d0b8f2438025a53ca2d70cff8542e88f7eaed60811a7211e6c2021a39134f",
+      "pdfFileName": "2022年実施_山形県_中3理科_力のつり合いと合成・分解（3力のつり合い・合力と分力の作図・角度と力の大きさ）.pdf",
+      "fileSize": 11010464
+    },
+    {
+      "id": "g3-2022-yamaguchi-chemistry-f7f057f",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "山口県",
+      "field": "化学",
+      "unit": "原子とイオン（電子・陽子・中性子・原子の構造・同位体）",
+      "shortUnit": "原子とイオン",
+      "tags": [
+        "電子",
+        "陽子",
+        "中性子",
+        "原子の構造",
+        "同位体"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-yamaguchi-chemistry-f7f057f/page-01.jpg?v=0402b5b21e389b8d3ef1e10cd92d3c989ee611b6d509870a927d46d6b4737a84",
+        "/previews/g3-2022-yamaguchi-chemistry-f7f057f/page-02.jpg?v=0402b5b21e389b8d3ef1e10cd92d3c989ee611b6d509870a927d46d6b4737a84",
+        "/previews/g3-2022-yamaguchi-chemistry-f7f057f/page-03.jpg?v=0402b5b21e389b8d3ef1e10cd92d3c989ee611b6d509870a927d46d6b4737a84",
+        "/previews/g3-2022-yamaguchi-chemistry-f7f057f/page-04.jpg?v=0402b5b21e389b8d3ef1e10cd92d3c989ee611b6d509870a927d46d6b4737a84"
+      ],
+      "contentVersion": "0402b5b21e389b8d3ef1e10cd92d3c989ee611b6d509870a927d46d6b4737a84",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-yamaguchi-chemistry-f7f057f.pdf?rev=0402b5b21e389b8d3ef1e10cd92d3c989ee611b6d509870a927d46d6b4737a84",
+      "pdfFileName": "2022年実施_山口県_中3理科_原子とイオン（電子・陽子・中性子・原子の構造・同位体）.pdf",
+      "fileSize": 4196171
+    },
+    {
+      "id": "g3-2022-yamaguchi-physics-fe2a5e4",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "山口県",
+      "field": "物理",
+      "unit": "力の規則性（摩擦力・作用反作用・力の作図）",
+      "shortUnit": "力の規則性",
+      "tags": [
+        "摩擦力",
+        "作用反作用",
+        "力の作図"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-yamaguchi-physics-fe2a5e4/page-01.jpg?v=5e6f93c88950b28d7636c6d9d08a0f5e8cd9b659e44ec04ac40daf5cee627714",
+        "/previews/g3-2022-yamaguchi-physics-fe2a5e4/page-02.jpg?v=5e6f93c88950b28d7636c6d9d08a0f5e8cd9b659e44ec04ac40daf5cee627714",
+        "/previews/g3-2022-yamaguchi-physics-fe2a5e4/page-03.jpg?v=5e6f93c88950b28d7636c6d9d08a0f5e8cd9b659e44ec04ac40daf5cee627714",
+        "/previews/g3-2022-yamaguchi-physics-fe2a5e4/page-04.jpg?v=5e6f93c88950b28d7636c6d9d08a0f5e8cd9b659e44ec04ac40daf5cee627714"
+      ],
+      "contentVersion": "5e6f93c88950b28d7636c6d9d08a0f5e8cd9b659e44ec04ac40daf5cee627714",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-yamaguchi-physics-fe2a5e4.pdf?rev=5e6f93c88950b28d7636c6d9d08a0f5e8cd9b659e44ec04ac40daf5cee627714",
+      "pdfFileName": "2022年実施_山口県_中3理科_力の規則性（摩擦力・作用反作用・力の作図）.pdf",
+      "fileSize": 7571755
+    },
+    {
+      "id": "g3-2022-yamaguchi-chemistry-682773c",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "山口県",
+      "field": "化学",
+      "unit": "水溶液とイオン（電解質・電気分解・中和・イオンの数・対照実験）",
+      "shortUnit": "水溶液とイオン",
+      "tags": [
+        "電解質",
+        "電気分解",
+        "中和",
+        "イオンの数",
+        "対照実験"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2022-yamaguchi-chemistry-682773c/page-01.jpg?v=1909007d6fbfd34f163a58f1fe862cff6b5ea2c0767ce2e50c8d1a25ff09066e",
+        "/previews/g3-2022-yamaguchi-chemistry-682773c/page-02.jpg?v=1909007d6fbfd34f163a58f1fe862cff6b5ea2c0767ce2e50c8d1a25ff09066e",
+        "/previews/g3-2022-yamaguchi-chemistry-682773c/page-03.jpg?v=1909007d6fbfd34f163a58f1fe862cff6b5ea2c0767ce2e50c8d1a25ff09066e",
+        "/previews/g3-2022-yamaguchi-chemistry-682773c/page-04.jpg?v=1909007d6fbfd34f163a58f1fe862cff6b5ea2c0767ce2e50c8d1a25ff09066e",
+        "/previews/g3-2022-yamaguchi-chemistry-682773c/page-05.jpg?v=1909007d6fbfd34f163a58f1fe862cff6b5ea2c0767ce2e50c8d1a25ff09066e"
+      ],
+      "contentVersion": "1909007d6fbfd34f163a58f1fe862cff6b5ea2c0767ce2e50c8d1a25ff09066e",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-rika-archive/releases/download/pdfs-v2/g3-2022-yamaguchi-chemistry-682773c.pdf?rev=1909007d6fbfd34f163a58f1fe862cff6b5ea2c0767ce2e50c8d1a25ff09066e",
+      "pdfFileName": "2022年実施_山口県_中3理科_水溶液とイオン（電解質・電気分解・中和・イオンの数・対照実験）.pdf",
+      "fileSize": 13813749
     }
   ]
 }
