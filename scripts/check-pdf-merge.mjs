@@ -3,6 +3,7 @@ import { readFileSync } from "node:fs";
 import { PDFDocument } from "pdf-lib";
 
 const baseUrl = process.env.MERGE_TEST_BASE_URL || "http://127.0.0.1:3170";
+const grade3Year = Number(process.env.MERGE_TEST_YEAR || 2024);
 const chunkSize = 3 * 1024 * 1024;
 const data = JSON.parse(readFileSync(new URL("../data/archive.generated.json", import.meta.url), "utf8"));
 const samples = [
@@ -16,7 +17,7 @@ const samples = [
 if (data.items.some((item) => item.grade === 3)) {
   for (const field of ["物理", "化学", "地学", "生物"]) {
     samples.push(data.items
-      .filter((item) => item.grade === 3 && item.field === field)
+      .filter((item) => item.grade === 3 && item.year === grade3Year && item.field === field)
       .sort((a, b) => a.fileSize - b.fileSize)[0]);
   }
 }
